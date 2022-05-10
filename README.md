@@ -18,17 +18,17 @@
 **date** (email new 16K tree from Metin): 04/15/2022           
 **description**: contamination removed.         
                    
-7. udance.updates.attempt3.nwk            
+6. udance.updates.attempt3.nwk            
 **date** (email new 16K tree from Metin): 04/20/2022                 
 **description**: Degree-2 node problem solved.           
                    
-8. 16k_v1_without_14_seqs_decont_supported_mlunit.nwk           
+7. 16k_v1_without_14_seqs_decont_supported.nwk           
 **date** (email Re: quick question prune & support from Metin): 05/09/2022            
-**description**: v1 tree (minus 214 contaminated sequences detected by GUNC minus 14 taxa we always remove) with ASTRAL support and 16k.update.random_bl.nwk branch length.            
+**description**: v1 tree (minus 214 contaminated sequences detected by GUNC minus 14 taxa we always remove) with ASTRAL support annotations (-t2)  and 16k.update.random_bl.nwk branch length.            
         
-9. 16k_v1_without_14_seqs_decont_supported.nwk           
+8. 16k_v1_without_14_seqs_decont_supported_lpponly.nwk           
 **date** (email Re: quick question prune & support from Metin): 05/09/2022            
-**description**: The same as 16k_v1_without_14_seqs_decont_supported_mlunit.nwk except branch lengths are multiplied by 100x.            
+**description**: The same as 16k_v1_without_14_seqs_decont_supported.nwk except branch labels are simply localPP not all the annotations.          
         
 ## GG2 16S tree        
 1. 270K.tar.gz           
@@ -43,6 +43,7 @@
 
 1. removed.txt                              
 *date** (email potential erroneous placements in 16k tree): 01/25/2022
+
 **description**: list of 14 sequences removed from 16k tree. uDance has a backbone filtering mechanism. These 14 are the once that were removed from the backbone once we went from 10K to 16K (incremental + updates combined).        
 
 2. nw_stats.txt                              
