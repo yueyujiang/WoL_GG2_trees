@@ -37,11 +37,13 @@
                  
 2. trees_16S_v2.tar.xz                             
 **date** (email new 16K tree from Metin): 04/22/2022                              
-**description**: a tree with 267K unique sequences and one with 1.7M sequences including duplicates. contamination removed.         
+**description**: a tree with 267K unique sequences and one with 1.7M sequences including duplicates. contamination removed.     
+
 ## Miscellaneous
-1. removed.txt
-**date** (email potential erroneous placements in 16k tree): 01/25/2022
+
+1. removed.txt                              
+*date** (email potential erroneous placements in 16k tree): 01/25/2022
 **description**: list of 14 sequences removed from 16k tree. uDance has a backbone filtering mechanism. These 14 are the once that were removed from the backbone once we went from 10K to 16K (incremental + updates combined).        
 
-2. nw_stats.txt
-**description** Basic statistics for each newick file.
+2. nw_stats.txt                              
+**description**: Basic statistics for each newick file.
