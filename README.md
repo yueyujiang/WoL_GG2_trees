@@ -6,7 +6,7 @@
       
 2. 16Ktree.updates.nwk.    
 **date** (email GG2 followup meeting from Metin): 12/23/2021.    
-**description**: This tree with 16059 sequences is inferred using a partial de-novo strategy. RF distance to the 10K tree is .0982 for the common leaves. Qiyun, please use this tree instead of the one I shared yesterday in your analysis.   
+**description**: This tree with 16059 sequences is inferred using a partial de-novo strategy. RF distance to the 10K tree is .0982 for the common leaves. 
        
 3. 16k.update.conserve_bl.nwk.          
 **description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we reomved 11 species (I don't remember what this is...) + (G001405495, G001072395, and G001787865).     
