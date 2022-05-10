@@ -9,10 +9,10 @@
 **description**: This tree with 16059 sequences is inferred using a partial de-novo strategy. RF distance to the 10K tree is .0982 for the common leaves. 
        
 3. 16k.update.conserve_bl.nwk.          
-**description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we reomved 11 species (I don't remember what this is...) + (G001405495, G001072395, and G001787865).     
+**description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we removed 14 species in [removed.txt](removed.txt).
          
 4. 16k.update.random_bl.nwk          
-**description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we reomved 11 species (I don't remember what this is...) + (G001405495, G001072395, and G001787865).        
+**description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we removed 14 species in [removed.txt](removed.txt).       
              
 5. 16K_v2.nwk          
 **date** (email new 16K tree from Metin): 04/15/2022           
@@ -22,11 +22,14 @@
 **date** (email new 16K tree from Metin): 04/20/2022                 
 **description**: Degree-2 node problem solved.           
                    
-8. 16k_v1_without_14_seqs_decont_supported.nwk           
+8. 16k_v1_without_14_seqs_decont_supported_mlunit.nwk           
 **date** (email Re: quick question prune & support from Metin): 05/09/2022            
-**description**: v1 tree (minus 214 contaminated sequences detected by GUNC minus 14 taxa we always remove) with ASTRAL support and 16k.update.random_bl.nwk branch length (100x).            
+**description**: v1 tree (minus 214 contaminated sequences detected by GUNC minus 14 taxa we always remove) with ASTRAL support and 16k.update.random_bl.nwk branch length.            
         
-
+9. 16k_v1_without_14_seqs_decont_supported.nwk           
+**date** (email Re: quick question prune & support from Metin): 05/09/2022            
+**description**: The same as 16k_v1_without_14_seqs_decont_supported_mlunit.nwk except branch lengths are multiplied by 100x.            
+        
 ## GG2 16S tree        
 1. 270K.tar.gz           
 **date** (email 270K (and 1.7M) tree is ready from Metin): 02/22/2022                   
@@ -35,4 +38,10 @@
 2. trees_16S_v2.tar.xz                             
 **date** (email new 16K tree from Metin): 04/22/2022                              
 **description**: a tree with 267K unique sequences and one with 1.7M sequences including duplicates. contamination removed.         
-         
+## Miscellaneous
+1. removed.txt
+**date** (email potential erroneous placements in 16k tree): 01/25/2022
+**description**: list of 14 sequences removed from 16k tree. uDance has a backbone filtering mechanism. These 14 are the once that were removed from the backbone once we went from 10K to 16K (incremental + updates combined).        
+
+2. nw_stats.txt
+**description** Basic statistics for each newick file.

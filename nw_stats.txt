@@ -1,0 +1,64 @@
+############
+File 16K_v2.nwk
+Type:	Neither
+#nodes:	31688
+#leaves:	15845
+#dichotomies:	15842
+#leaf labels:	15844
+#inner labels:	15822
+############
+File 16Ktree.incremental.nwk
+Type:	Neither
+#nodes:	32524
+#leaves:	16263
+#dichotomies:	16260
+#leaf labels:	16263
+#inner labels:	16240
+############
+File 16Ktree.updates.nwk
+Type:	Neither
+#nodes:	32116
+#leaves:	16059
+#dichotomies:	16056
+#leaf labels:	16059
+#inner labels:	16036
+############
+File 16k.update.conserve_bl.nwk
+Type:	Phylogram
+#nodes:	32088
+#leaves:	16045
+#dichotomies:	16042
+#leaf labels:	16045
+#inner labels:	0
+############
+File 16k.update.random_bl.nwk
+Type:	Phylogram
+#nodes:	32088
+#leaves:	16045
+#dichotomies:	16042
+#leaf labels:	16045
+#inner labels:	0
+############
+File 16k_v1_without_14_seqs_decont_supported.nwk
+Type:	Phylogram
+#nodes:	31661
+#leaves:	15831
+#dichotomies:	15830
+#leaf labels:	15831
+#inner labels:	15829
+############
+File 16k_v1_without_14_seqs_decont_supported_mlunit.nwk
+Type:	Phylogram
+#nodes:	31661
+#leaves:	15831
+#dichotomies:	15830
+#leaf labels:	15831
+#inner labels:	15829
+############
+File udance.updates.attempt3.nwk
+Type:	Neither
+#nodes:	31686
+#leaves:	15844
+#dichotomies:	15841
+#leaf labels:	15844
+#inner labels:	15821
