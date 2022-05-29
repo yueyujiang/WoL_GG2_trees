@@ -60,4 +60,4 @@
 **description**: Basic statistics for each newick file.
 
 3. 05-29-22-270K-falsepositives-rt.txt
-**description**: Sequences in `05-29-22-270K-deppplacement.nwk` whose taxonomy may be disagreeing with GTDB in phylum level.
+**description**: Sequences in `05-29-22-270K-deppplacement.nwk` whose taxonomy may be disagreeing with LTP annotation in phylum level.
