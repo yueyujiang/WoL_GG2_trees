@@ -45,12 +45,19 @@
 
 "I removed all copies with errors larger than or equal to 13 branches in the list of error-per-copy you sent me (leave-out placement error for backbone sequences). This filter removed some of the single-copy species too. So the number of backbone sequences decreased to 12201."           
 
+4. 05-29-22-270K-deppplacement.nwk         
+**date** 05-29-22 (email thread: gg2 placement)                   
+**description**: We removed 105 backbone species from `16k_v1_without_14_seqs_decont_supported.nwk` based on a DEPP based contamination detection protocol. Then we placed all 270K 16S sequences on this backbone tree using DEPP. Finally, the tree is refined using uDance (uses iqtree2 -fast under the hood).
+
 ## Miscellaneous
 
 1. removed.txt                              
-*date** (email potential erroneous placements in 16k tree): 01/25/2022
+**date** (email potential erroneous placements in 16k tree): 01/25/2022
 
 **description**: list of 14 sequences removed from 16k tree. uDance has a backbone filtering mechanism. These 14 are the once that were removed from the backbone once we went from 10K to 16K (incremental + updates combined).        
 
 2. nw_stats.txt                              
 **description**: Basic statistics for each newick file.
+
+3. 05-29-22-270K-falsepositives-rt.txt
+**description**: Sequences in `05-29-22-270K-deppplacement.nwk` whose taxonomy may be disagreeing with GTDB in phylum level.
