@@ -39,6 +39,12 @@
 **date** (email new 16K tree from Metin): 04/22/2022                              
 **description**: a tree with 267K unique sequences and one with 1.7M sequences including duplicates. contamination removed.     
 
+3. 16k_full_length_placement.jplace.       
+**date** (email gg2 placement from Yueyu): 05/28/2022.     
+**description**: jplace file with unique full length 16S sequences placed using DEPP and the backbone species copies are manually selected by Metin.   
+
+"I removed all copies with errors larger than or equal to 13 branches in the list of error-per-copy you sent me (leave-out placement error for backbone sequences). This filter removed some of the single-copy species too. So the number of backbone sequences decreased to 12201."           
+
 ## Miscellaneous
 
 1. removed.txt                              
