@@ -18,6 +18,7 @@ t2t decorate \
     -t $treename/rt \
     --no-suffix \
     --min-count 1 \
+    --add-nameholder \
     -o $treename/rt-dec
 
 t2t compare-to-decorated \
