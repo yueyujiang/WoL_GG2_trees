@@ -30,6 +30,14 @@
 **date** (email Re: quick question prune & support from Metin): 05/09/2022            
 **description**: The same as 16k_v1_without_14_seqs_decont_supported.nwk except branch labels are simply localPP not all the annotations.          
         
+9. 16k_v1_without_14_seqs_decont.nwk         
+**date** (email Re: quick question prune & support from Metin): 05/09/2022            
+**description**: 16k_v1_without_14_seqs_decont_supported.nwk without internal labels.      
+        
+10. 16k_v1_without_14_seqs_decont_loof.nwk         
+**date** 06-02-2022            
+**description**: uDance has a filtering protocol based on leave on out placement. Each species in the backbone is removed and added back to the backbone using APPLES-2. If the taxa moves log2(n) edges or more after placement, it's assumed to be mislocated in the backbone and thus removed. 16k_v1_without_14_seqs_decont.nwk is filtered using this protocol and the number of species decreased by 57. 
+        
 ## GG2 16S tree        
 1. 270K.tar.gz           
 **date** (email 270K (and 1.7M) tree is ready from Metin): 02/22/2022                   

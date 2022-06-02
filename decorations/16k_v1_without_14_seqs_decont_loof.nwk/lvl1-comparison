@@ -1,0 +1,118 @@
+name	grpsize	true positive	false positive	false negative	precision	recall	fmeasure
+p__AABM5-125-24	3	3	0	0	1.0	1.0	1.0
+p__Acidobacteriota	133	133	0	0	1.0	1.0	1.0
+p__Actinobacteriota	1490	1489	0	1	1.0	0.9993288590604027	0.9996643168848608
+p__Aerophobota	1	1	0	0	1.0	1.0	1.0
+p__Altiarchaeota	9	9	0	0	1.0	1.0	1.0
+p__Aquificota	19	19	0	0	1.0	1.0	1.0
+p__Armatimonadota	30	30	0	0	1.0	1.0	1.0
+p__Asgardarchaeota	20	20	0	0	1.0	1.0	1.0
+p__Atribacterota	5	5	0	0	1.0	1.0	1.0
+p__Aureabacteria	1	0	0	1		0.0	
+p__Bacteroidota	1379	1379	0	0	1.0	1.0	1.0
+p__CG03	1	1	1	0	0.5	1.0	0.6666666666666666
+p__CG2-30-53-67	1	0	0	1		0.0	
+p__CLD3	1	0	0	1		0.0	
+p__CSP1-3	6	6	0	0	1.0	1.0	1.0
+p__Caldisericota	5	5	0	0	1.0	1.0	1.0
+p__Calditrichota	2	2	0	0	1.0	1.0	1.0
+p__Calescibacterota	5	5	0	0	1.0	1.0	1.0
+p__Campylobacterota	150	150	0	0	1.0	1.0	1.0
+p__Chlamydiota	96	96	0	0	1.0	1.0	1.0
+p__Chloroflexota	273	273	0	0	1.0	1.0	1.0
+p__Chrysiogenota	2	2	0	0	1.0	1.0	1.0
+p__Cloacimonadota	12	12	0	0	1.0	1.0	1.0
+p__Coprothermobacterota	2	2	0	0	1.0	1.0	1.0
+p__Cyanobacteria	386	386	0	0	1.0	1.0	1.0
+p__DTU030	1	0	0	1		0.0	
+p__Deferribacterota	8	8	0	0	1.0	1.0	1.0
+p__Deinococcota	47	47	0	0	1.0	1.0	1.0
+p__Delongbacteria	3	3	0	0	1.0	1.0	1.0
+p__Dependentiae	23	23	0	0	1.0	1.0	1.0
+p__Desantisbacteria	4	4	0	0	1.0	1.0	1.0
+p__Desulfobacterota	208	208	0	0	1.0	1.0	1.0
+p__Desulfobacterota_C	5	5	0	0	1.0	1.0	1.0
+p__Desulfobacterota_D	7	7	0	0	1.0	1.0	1.0
+p__Desulfobacterota_E	6	6	0	0	1.0	1.0	1.0
+p__Desulfobacterota_G	2	2	0	0	1.0	1.0	1.0
+p__Desulfobacterota_I	70	70	0	0	1.0	1.0	1.0
+p__Dictyoglomota	3	3	0	0	1.0	1.0	1.0
+p__Dormibacterota	16	16	0	0	1.0	1.0	1.0
+p__EX4484-52	1	0	0	1		0.0	
+p__Edwardsbacteria	1	0	0	1		0.0	
+p__Eisenbacteria	4	4	0	0	1.0	1.0	1.0
+p__Elusimicrobiota	48	48	0	0	1.0	1.0	1.0
+p__Eremiobacterota	9	9	0	0	1.0	1.0	1.0
+p__FCPU426	1	0	0	1		0.0	
+p__Fermentibacterota	6	6	0	0	1.0	1.0	1.0
+p__Fibrobacterota	25	25	0	0	1.0	1.0	1.0
+p__Firestonebacteria	1	1	0	0	1.0	1.0	1.0
+p__Firmicutes	1521	1521	1	0	0.9993429697766097	1.0	0.9996713769306605
+p__Firmicutes_A	1038	1038	0	0	1.0	1.0	1.0
+p__Firmicutes_B	96	96	0	0	1.0	1.0	1.0
+p__Firmicutes_C	95	95	0	0	1.0	1.0	1.0
+p__Firmicutes_D	10	10	0	0	1.0	1.0	1.0
+p__Firmicutes_E	12	12	0	0	1.0	1.0	1.0
+p__Firmicutes_F	21	21	0	0	1.0	1.0	1.0
+p__Firmicutes_G	15	15	0	0	1.0	1.0	1.0
+p__Firmicutes_H	1	0	0	1		0.0	
+p__Fusobacteriota	39	39	0	0	1.0	1.0	1.0
+p__Gemmatimonadota	26	26	0	0	1.0	1.0	1.0
+p__Hadarchaeota	3	3	0	0	1.0	1.0	1.0
+p__Halobacteriota	312	312	0	0	1.0	1.0	1.0
+p__Hydrogenedentota	10	10	0	0	1.0	1.0	1.0
+p__Hydrothermarchaeota	2	2	0	0	1.0	1.0	1.0
+p__Iainarchaeota	2	2	0	0	1.0	1.0	1.0
+p__JdFR-76	2	2	0	0	1.0	1.0	1.0
+p__KSB1	5	5	0	0	1.0	1.0	1.0
+p__Krumholzibacteriota	2	2	0	0	1.0	1.0	1.0
+p__Latescibacterota	14	14	0	0	1.0	1.0	1.0
+p__Lindowbacteria	1	0	0	1		0.0	
+p__Margulisbacteria	33	33	0	0	1.0	1.0	1.0
+p__Marinisomatota	42	42	0	0	1.0	1.0	1.0
+p__Methanobacteriota	55	55	0	0	1.0	1.0	1.0
+p__Methanobacteriota_A	21	20	0	1	1.0	0.9523809523809523	0.975609756097561
+p__Methanobacteriota_B	49	49	0	0	1.0	1.0	1.0
+p__Methylomirabilota	10	10	1	0	0.9090909090909091	1.0	0.9523809523809523
+p__Micrarchaeota	11	11	0	0	1.0	1.0	1.0
+p__Moduliflexota	3	3	1	0	0.75	1.0	0.8571428571428571
+p__NPL-UPA2	1	0	0	1		0.0	
+p__Nanoarchaeota	13	13	2	0	0.8666666666666667	1.0	0.9285714285714286
+p__Nanohaloarchaeota	1	0	0	1		0.0	
+p__Nitrospinota	14	14	0	0	1.0	1.0	1.0
+p__Nitrospinota_B	1	0	0	1		0.0	
+p__Nitrospirota	56	56	0	0	1.0	1.0	1.0
+p__Nitrospirota_A	8	8	0	0	1.0	1.0	1.0
+p__OLB16	2	2	0	0	1.0	1.0	1.0
+p__Omnitrophota	53	53	0	0	1.0	1.0	1.0
+p__Patescibacteria	1471	1471	0	0	1.0	1.0	1.0
+p__Planctomycetota	242	242	0	0	1.0	1.0	1.0
+p__Poribacteria	7	7	0	0	1.0	1.0	1.0
+p__Proteobacteria	3560	3560	0	0	1.0	1.0	1.0
+p__QNDG01	1	0	0	1		0.0	
+p__RBG-13-66-14	1	0	0	1		0.0	
+p__Ratteibacteria	5	5	0	0	1.0	1.0	1.0
+p__Riflebacteria	4	4	0	0	1.0	1.0	1.0
+p__SAR324	18	18	0	0	1.0	1.0	1.0
+p__SM23-31	1	0	0	1		0.0	
+p__SZUA-182	1	0	0	1		0.0	
+p__SZUA-79	2	2	0	0	1.0	1.0	1.0
+p__Schekmanbacteria	7	7	0	0	1.0	1.0	1.0
+p__Spirochaetota	155	155	0	0	1.0	1.0	1.0
+p__Sumerlaeota	2	2	0	0	1.0	1.0	1.0
+p__Synergistota	34	34	0	0	1.0	1.0	1.0
+p__TA06	4	4	0	0	1.0	1.0	1.0
+p__TA06_A	1	0	0	1		0.0	
+p__Tectomicrobia	1	1	0	0	1.0	1.0	1.0
+p__Thermoplasmatota	111	111	0	0	1.0	1.0	1.0
+p__Thermoproteota	243	243	0	0	1.0	1.0	1.0
+p__Thermosulfidibacterota	1	1	0	0	1.0	1.0	1.0
+p__Thermotogota	43	43	0	0	1.0	1.0	1.0
+p__UBA6262	1	0	0	1		0.0	
+p__UBA8248	1	0	0	1		0.0	
+p__UBA8481	1	0	0	1		0.0	
+p__UBA9089	1	0	0	1		0.0	
+p__UBP14	3	3	0	0	1.0	1.0	1.0
+p__Verrucomicrobiota	181	181	0	0	1.0	1.0	1.0
+p__WOR-3	21	21	0	0	1.0	1.0	1.0
+p__Zixibacteria	12	12	1	0	0.9230769230769231	1.0	0.9600000000000001

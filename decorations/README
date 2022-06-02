@@ -1,0 +1,10 @@
+Perform decoration using the following command:
+
+`bash run.sh <tree_path> <taxonomoy_path>`
+
+The script create a directory with the same name as the tree. t2t outputs are written in that directory. 
+
+These are the decoration commands run previously:
+
+bash run.sh ../05-29-22-270K-deppplacement.nwk input-taxonomy-2022.5.tsv
+bash run.sh ../16k_v1_without_14_seqs_decont_loof.nwk gtdb_tax_207_spacedelim.tsv

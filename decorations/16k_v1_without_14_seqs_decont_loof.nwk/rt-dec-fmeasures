@@ -1,0 +1,6003 @@
+#taxon	score
+d__Bacteria	1.000000
+d__Archaea	1.000000
+p__Zixibacteria	1.000000
+p__WOR-3	1.000000
+p__Verrucomicrobiota	1.000000
+p__UBP14	1.000000
+p__Thermotogota	1.000000
+p__Thermosulfidibacterota	1.000000
+p__Thermoproteota	1.000000
+p__Thermoplasmatota	1.000000
+p__Tectomicrobia	1.000000
+p__TA06	1.000000
+p__Synergistota	1.000000
+p__Sumerlaeota	1.000000
+p__Spirochaetota	1.000000
+p__Schekmanbacteria	1.000000
+p__SZUA-79	1.000000
+p__SAR324	1.000000
+p__Riflebacteria	1.000000
+p__Ratteibacteria	1.000000
+p__Proteobacteria	1.000000
+p__Poribacteria	1.000000
+p__Planctomycetota	1.000000
+p__Patescibacteria	1.000000
+p__Omnitrophota	1.000000
+p__OLB16	1.000000
+p__Nitrospirota_A	1.000000
+p__Nitrospirota	1.000000
+p__Nitrospinota	1.000000
+p__Nanoarchaeota	1.000000
+p__Moduliflexota	1.000000
+p__Micrarchaeota	1.000000
+p__Methylomirabilota	1.000000
+p__Methanobacteriota_B	1.000000
+p__Methanobacteriota_A	0.975610
+p__Methanobacteriota	1.000000
+p__Marinisomatota	1.000000
+p__Margulisbacteria	1.000000
+p__Latescibacterota	1.000000
+p__Krumholzibacteriota	1.000000
+p__KSB1	1.000000
+p__JdFR-76	1.000000
+p__Iainarchaeota	1.000000
+p__Hydrothermarchaeota	1.000000
+p__Hydrogenedentota	1.000000
+p__Halobacteriota	1.000000
+p__Hadarchaeota	1.000000
+p__Gemmatimonadota	1.000000
+p__Fusobacteriota	1.000000
+p__Firmicutes_G	1.000000
+p__Firmicutes_F	1.000000
+p__Firmicutes_E	1.000000
+p__Firmicutes_D	1.000000
+p__Firmicutes_C	1.000000
+p__Firmicutes_B	1.000000
+p__Firmicutes_A	1.000000
+p__Firmicutes	0.999671
+p__Firestonebacteria	1.000000
+p__Fibrobacterota	1.000000
+p__Fermentibacterota	1.000000
+p__Eremiobacterota	1.000000
+p__Elusimicrobiota	1.000000
+p__Eisenbacteria	1.000000
+p__Dormibacterota	1.000000
+p__Dictyoglomota	1.000000
+p__Desulfobacterota_I	1.000000
+p__Desulfobacterota_G	1.000000
+p__Desulfobacterota_E	1.000000
+p__Desulfobacterota_D	1.000000
+p__Desulfobacterota_C	1.000000
+p__Desulfobacterota	0.708075
+p__Desantisbacteria	1.000000
+p__Dependentiae	1.000000
+p__Delongbacteria	1.000000
+p__Deinococcota	1.000000
+p__Deferribacterota	1.000000
+p__Cyanobacteria	1.000000
+p__Coprothermobacterota	1.000000
+p__Cloacimonadota	1.000000
+p__Chrysiogenota	1.000000
+p__Chloroflexota	1.000000
+p__Chlamydiota	1.000000
+p__Campylobacterota	1.000000
+p__Calescibacterota	1.000000
+p__Calditrichota	1.000000
+p__Caldisericota	1.000000
+p__CSP1-3	1.000000
+p__CG03	1.000000
+p__Bacteroidota	1.000000
+p__Atribacterota	1.000000
+p__Asgardarchaeota	1.000000
+p__Armatimonadota	1.000000
+p__Aquificota	1.000000
+p__Altiarchaeota	1.000000
+p__Aerophobota	1.000000
+p__Actinobacteriota	0.999664
+p__Acidobacteriota	1.000000
+p__AABM5-125-24	1.000000
+c__Zetaproteobacteria	1.000000
+c__Z-2901	1.000000
+c__Xenobia	1.000000
+c__WWE3	1.000000
+c__WTBG01	1.000000
+c__WOR-3	1.000000
+c__WOR-1	1.000000
+c__WGA-4E	1.000000
+c__Vicinamibacteria	1.000000
+c__Verrucomicrobiae	1.000000
+c__Vampirovibrionia	1.000000
+c__UBA9942	1.000000
+c__UBA8919	1.000000
+c__UBA8473	1.000000
+c__UBA8468	1.000000
+c__UBA8108	1.000000
+c__UBA6911	1.000000
+c__UBA6098	1.000000
+c__UBA5829	1.000000
+c__UBA4820	1.000000
+c__UBA4802	1.000000
+c__UBA4738	0.666667
+c__UBA4055	1.000000
+c__UBA3073	1.000000
+c__UBA2968	1.000000
+c__UBA2242	1.000000
+c__UBA2235	1.000000
+c__UBA2214	1.000000
+c__UBA1551	1.000000
+c__UBA1384	1.000000
+c__UBA12135	1.000000
+c__UBA11872	1.000000
+c__UBA1144	1.000000
+c__UBA1135	1.000000
+c__UBA10030	1.000000
+c__Thorarchaeia	1.000000
+c__Thermotogae	1.000000
+c__Thermosulfidibacteria	1.000000
+c__Thermosediminibacteria	1.000000
+c__Thermoproteia	1.000000
+c__Thermoplasmata	0.780000
+c__Thermoleophilia	1.000000
+c__Thermodesulfovibrionia	1.000000
+c__Thermodesulfobacteria	1.000000
+c__Thermococci	1.000000
+c__Thermoanaerobaculia	1.000000
+c__Thermoanaerobacteria	1.000000
+c__Thermincolia	1.000000
+c__Thermaerobacteria	1.000000
+c__TC1	0.666667
+c__Syntrophorhabdia	1.000000
+c__Syntrophomonadia	1.000000
+c__Syntrophobacteria	1.000000
+c__Syntrophia	1.000000
+c__Syntropharchaeia	1.000000
+c__Synergistia	1.000000
+c__Sumerlaeia	1.000000
+c__Sulfobacillia	1.000000
+c__Spirochaetia	1.000000
+c__Saccharimonadia	1.000000
+c__SZUA-79	1.000000
+c__SM23-61	1.000000
+c__SLMV01	1.000000
+c__SLGR01	1.000000
+c__SHA-98	1.000000
+c__SAR324	1.000000
+c__Rubrobacteria	1.000000
+c__Riflemargulisbacteria	1.000000
+c__Rhodothermia	1.000000
+c__RBG-16-71-46	1.000000
+c__Proteinivoracia	1.000000
+c__Poseidoniia	1.000000
+c__Planctomycetia	1.000000
+c__Phycisphaerae	1.000000
+c__Peptococcia	0.909091
+c__Paceibacteria	1.000000
+c__PUPC01	1.000000
+c__Ozemobacteria	1.000000
+c__Omnitrophia	1.000000
+c__OLB16	1.000000
+c__Nitrospiria	1.000000
+c__Nitrospinia	1.000000
+c__Nitrososphaeria_A	1.000000
+c__Nitrososphaeria	0.992000
+c__Negativicutes	1.000000
+c__Natranaerobiia	1.000000
+c__Nanoarchaeia	1.000000
+c__Mor1	1.000000
+c__Moorellia	0.750000
+c__Moduliflexia	1.000000
+c__Microgenomatia	1.000000
+c__Micrarchaeia	1.000000
+c__Methylomirabilia	1.000000
+c__Methanosarcinia	1.000000
+c__Methanonatronarchaeia	1.000000
+c__Methanomicrobia	1.000000
+c__Methanomethylicia	1.000000
+c__Methanoliparia	1.000000
+c__Methanococci	1.000000
+c__Methanocellia	1.000000
+c__Methanobacteria	1.000000
+c__Marinisomatia	1.000000
+c__Marinamargulisbacteria	1.000000
+c__Magnetococcia	1.000000
+c__MSB-5A5	1.000000
+c__MHYJ01	1.000000
+c__MBNT15	1.000000
+c__Lokiarchaeia	1.000000
+c__Limnocylindria	1.000000
+c__Limnochordia	1.000000
+c__Leptospirillia	1.000000
+c__Leptospirae	1.000000
+c__Lentisphaeria	1.000000
+c__Latescibacteria	1.000000
+c__Ktedonobacteria	1.000000
+c__Kryptonia	1.000000
+c__Krumholzibacteria	1.000000
+c__Koll11	1.000000
+c__Kiritimatiellae	1.000000
+c__Kazan-3B-28	1.000000
+c__Kapabacteria	1.000000
+c__JdFR-97	1.000000
+c__JdFR-76	1.000000
+c__JS1	1.000000
+c__JAEDAM01	1.000000
+c__Ignavibacteria	1.000000
+c__Iainarchaeia	1.000000
+c__Hydrothermia	1.000000
+c__Hydrothermarchaeia	1.000000
+c__Hydrogenedentia	1.000000
+c__Humimicrobiia	1.000000
+c__Holophagae	1.000000
+c__Heimdallarchaeia	1.000000
+c__Halobacteria	1.000000
+c__Halanaerobiia	1.000000
+c__Hadarchaeia	1.000000
+c__HRBIN17	1.000000
+c__HRBIN11	1.000000
+c__Gracilibacteria	0.986111
+c__Glassbacteria	1.000000
+c__Geothermincolia	1.000000
+c__Gemmatimonadetes	1.000000
+c__Gammaproteobacteria	1.000000
+c__GWE2-31-10	1.000000
+c__GWC2-55-46	1.000000
+c__GWA2-38-11	1.000000
+c__GCA-002687715	1.000000
+c__GBS-1	1.000000
+c__Fusobacteriia	1.000000
+c__Fimbriimonadia	1.000000
+c__Fibrobacteria	1.000000
+c__Fermentibacteria	1.000000
+c__Eremiobacteria	1.000000
+c__Entotheonellia	1.000000
+c__Endomicrobia	1.000000
+c__Elusimicrobia	0.900000
+c__EX4484-6	1.000000
+c__E2	1.000000
+c__Doudnabacteria	1.000000
+c__Dormibacteria	1.000000
+c__Dojkabacteria	1.000000
+c__Dissulfuribacteria	1.000000
+c__Dictyoglomia	1.000000
+c__Dethiobacteria	1.000000
+c__Desulfuromonadia	1.000000
+c__Desulfurobacteriia	1.000000
+c__Desulfurellia	1.000000
+c__Desulfovibrionia	1.000000
+c__Desulfotomaculia	1.000000
+c__Desulfomonilia	1.000000
+c__Desulfofervidia	1.000000
+c__Desulfobulbia	1.000000
+c__Desulfobacteria	1.000000
+c__Desulfobaccia	1.000000
+c__Desulfitobacteriia	1.000000
+c__Desulfarculia	0.888889
+c__Deinococci	1.000000
+c__Dehalococcoidia	1.000000
+c__Dehalobacteriia	1.000000
+c__Deferrisomatia	1.000000
+c__Deferribacteres	1.000000
+c__DSM-4660	1.000000
+c__DG-26	1.000000
+c__DG-23	1.000000
+c__D2-FULL-39-29	1.000000
+c__Cyanobacteriia	1.000000
+c__Coriobacteriia	1.000000
+c__Coprothermobacteria	1.000000
+c__Clostridia	0.997003
+c__Cloacimonadia	1.000000
+c__Chthonomonadetes	1.000000
+c__Chrysiogenetes	1.000000
+c__Chloroflexia	1.000000
+c__Chlorobia	1.000000
+c__Chlamydiia	1.000000
+c__Chitinivibrionia	1.000000
+c__Campylobacteria	1.000000
+c__Calescibacteriia	1.000000
+c__Calditrichia	1.000000
+c__Caldisericia	1.000000
+c__CSP1-3	1.000000
+c__CPR3	1.000000
+c__CPR2_A	1.000000
+c__CPR2	1.000000
+c__CAIYQO01	1.000000
+c__Brocadiae	1.000000
+c__Brevinematia	1.000000
+c__Brachyspirae	1.000000
+c__Blastocatellia	1.000000
+c__Bathyarchaeia	1.000000
+c__Bacteroidia	1.000000
+c__Bacilli	0.999671
+c__Babeliae	1.000000
+c__BSN033	1.000000
+c__B3-LCP	1.000000
+c__Atribacteria	1.000000
+c__Archaeoglobi	1.000000
+c__Aquificae	1.000000
+c__Aquicultoria	1.000000
+c__Andersenbacteria	1.000000
+c__Anaerolineae	1.000000
+c__Anaeroferrophillalia	1.000000
+c__Aminicenantia	1.000000
+c__Altiarchaeia	1.000000
+c__Alphaproteobacteria	1.000000
+c__Aerophobia	1.000000
+c__Actinomycetia	0.999602
+c__Acidobacteriae	1.000000
+c__Acidimicrobiia	0.923077
+c__Abditibacteria	1.000000
+c__ABY1	1.000000
+c__AB16	1.000000
+c__9FT-COMBO-42-15	1.000000
+c__4484-211	1.000000
+c__4484-107	1.000000
+c__32-111	1.000000
+o__Xenobiales	1.000000
+o__Xanthomonadales	1.000000
+o__XYC2-FULL-46-14	1.000000
+o__XYB2-FULL-38-15	1.000000
+o__XYA2-FULL-43-10	1.000000
+o__XJ16	1.000000
+o__Woykebacterales	1.000000
+o__Woeseiales	1.000000
+o__Woesearchaeales	0.842105
+o__WVXJ01	1.000000
+o__WQYP01	1.000000
+o__WGA-4E	1.000000
+o__Victivallales	1.000000
+o__Vicinamibacterales	1.000000
+o__Verrucomicrobiales	1.000000
+o__Veillonellales	1.000000
+o__Veblenbacterales	1.000000
+o__VXMN01	1.000000
+o__UM-FILTER-43-11	1.000000
+o__UM-FILTER-40-11	1.000000
+o__UBA9983_A	1.000000
+o__UBA9983	0.899083
+o__UBA9942	1.000000
+o__UBA9637	1.000000
+o__UBA9629	0.933333
+o__UBA9570	1.000000
+o__UBA9339	1.000000
+o__UBA9219	1.000000
+o__UBA920	1.000000
+o__UBA8919	1.000000
+o__UBA8473	1.000000
+o__UBA8416	1.000000
+o__UBA8366	1.000000
+o__UBA8260	1.000000
+o__UBA8231	1.000000
+o__UBA7879	1.000000
+o__UBA7656	1.000000
+o__UBA7540	1.000000
+o__UBA6952	1.000000
+o__UBA6911	1.000000
+o__UBA6902	1.000000
+o__UBA6615	1.000000
+o__UBA6257	1.000000
+o__UBA6215	1.000000
+o__UBA6098	1.000000
+o__UBA5829	1.000000
+o__UBA5704	1.000000
+o__UBA5335	1.000000
+o__UBA5066	1.000000
+o__UBA4820	1.000000
+o__UBA4802	1.000000
+o__UBA4738	1.000000
+o__UBA4664	1.000000
+o__UBA460	0.666667
+o__UBA4486	1.000000
+o__UBA4473	1.000000
+o__UBA4055	1.000000
+o__UBA3495	1.000000
+o__UBA2985	1.000000
+o__UBA2979	1.000000
+o__UBA2968	1.000000
+o__UBA2963	1.000000
+o__UBA2774	1.000000
+o__UBA2591	1.000000
+o__UBA2386	1.000000
+o__UBA2258	1.000000
+o__UBA2242	1.000000
+o__UBA2199	1.000000
+o__UBA2196	1.000000
+o__UBA2169	1.000000
+o__UBA1875	1.000000
+o__UBA1845	1.000000
+o__UBA1572	1.000000
+o__UBA1565	1.000000
+o__UBA1558	1.000000
+o__UBA1551	1.000000
+o__UBA1429	1.000000
+o__UBA1407	1.000000
+o__UBA1406	1.000000
+o__UBA1400	1.000000
+o__UBA1384	1.000000
+o__UBA1381	1.000000
+o__UBA1369	1.000000
+o__UBA12405	1.000000
+o__UBA12402	1.000000
+o__UBA12157	1.000000
+o__UBA12135	1.000000
+o__UBA11872	1.000000
+o__UBA11705	1.000000
+o__UBA11654	1.000000
+o__UBA1151	1.000000
+o__UBA1146	1.000000
+o__UBA1144	1.000000
+o__UBA1135	1.000000
+o__UBA1127	1.000000
+o__UBA10834	1.000000
+o__UBA10190	1.000000
+o__UBA10183	1.000000
+o__UBA101185	1.000000
+o__UBA10105	1.000000
+o__UBA10092	1.000000
+o__UBA10030	1.000000
+o__UBA10025	1.000000
+o__UBA10015	1.000000
+o__Tumebacillales	1.000000
+o__Treponematales	1.000000
+o__Tissierellales	1.000000
+o__Thorarchaeales	1.000000
+o__Thiotrichales	1.000000
+o__Thiomicrospirales	1.000000
+o__Thiohalomonadales	1.000000
+o__Thermotogales	1.000000
+o__Thermosynechococcales	1.000000
+o__Thermosulfidibacterales	1.000000
+o__Thermosediminibacterales	1.000000
+o__Thermoproteales	1.000000
+o__Thermoplasmatales	1.000000
+o__Thermomicrobiales	1.000000
+o__Thermoflexales	0.666667
+o__Thermofilales	1.000000
+o__Thermodesulfovibrionales	1.000000
+o__Thermodesulfobacteriales	1.000000
+o__Thermococcales	1.000000
+o__Thermoanaerobaculales	1.000000
+o__Thermoanaerobacterales	1.000000
+o__Thermoactinomycetales	0.750000
+o__Thermincolales	1.000000
+o__Thermicanales	1.000000
+o__Thermaerobacterales	1.000000
+o__Thermacetogeniales	1.000000
+o__Thalassobaculales	1.000000
+o__Terrybacterales	1.000000
+o__Tepidisphaerales	1.000000
+o__Tepidiformales	1.000000
+o__Tepidibacillales	1.000000
+o__TMED127	1.000000
+o__TMED109	1.000000
+o__TCS64	1.000000
+o__TC1	0.666667
+o__TANB77	1.000000
+o__Syntrophorhabdales	1.000000
+o__Syntrophomonadales	1.000000
+o__Syntrophobacterales	1.000000
+o__Syntropharchaeales	1.000000
+o__Syntrophales	1.000000
+o__Synergistales	1.000000
+o__Synechococcales	1.000000
+o__Sungbacterales	1.000000
+o__Sumerlaeales	1.000000
+o__Sulfolobales	1.000000
+o__Sulfobacillales	1.000000
+o__Subteraquimicrobiales	1.000000
+o__Streptosporangiales	0.989247
+o__Streptomycetales	1.000000
+o__Steroidobacterales	1.000000
+o__Staphylococcales	1.000000
+o__Sporomusales_A	1.000000
+o__Sporomusales	1.000000
+o__Spirochaetales_E	1.000000
+o__Spirochaetales_A	1.000000
+o__Sphingomonadales	1.000000
+o__Sphingobacteriales	1.000000
+o__Sphaerochaetales	1.000000
+o__Spechtbacterales	1.000000
+o__SpSt-313	1.000000
+o__SpSt-225	1.000000
+o__Solirubrobacterales	1.000000
+o__Sneathiellales	1.000000
+o__Selenomonadales	1.000000
+o__Sedimentisphaerales	1.000000
+o__Saccharofermentanales	1.000000
+o__Saccharimonadales	1.000000
+o__SZUA-252	1.000000
+o__SZUA-229	1.000000
+o__SZUA-161	1.000000
+o__SXXA01	0.666667
+o__SS1-B-03-39	1.000000
+o__SM23-61	1.000000
+o__SM23-42	1.000000
+o__SM23-33	1.000000
+o__SM23-32	1.000000
+o__SM23-28-2	1.000000
+o__SM1-40	1.000000
+o__SLMV01	1.000000
+o__SLGR01	1.000000
+o__SLAD01	1.000000
+o__SJA-28	1.000000
+o__SHYD01	1.000000
+o__SHYB01	1.000000
+o__SG8-5	1.000000
+o__SG8-24	1.000000
+o__SCGC-AAA011-G17	0.666667
+o__SCGC-AAA003-L08	1.000000
+o__SC72	1.000000
+o__SBBL01	1.000000
+o__SBBC01	0.666667
+o__SB-45	1.000000
+o__SAR86	0.875000
+o__SAR324	1.000000
+o__SAR202	1.000000
+o__Ryanbacterales	1.000000
+o__Rubrobacterales	1.000000
+o__Rs-D84	0.933333
+o__Rokubacteriales	1.000000
+o__Rickettsiales	1.000000
+o__Rhodothermales	1.000000
+o__Rhodospirillales	1.000000
+o__Rhodobacterales	1.000000
+o__Rhizobiales_B	1.000000
+o__Rhizobiales_A	0.872483
+o__Reyranellales	1.000000
+o__RZYC01	1.000000
+o__RKRQ01	1.000000
+o__RFP12	1.000000
+o__RFN20	1.000000
+o__RF39	1.000000
+o__RF32	1.000000
+o__RBG-16-71-46	1.000000
+o__RBG-16-68-12	1.000000
+o__RBG-13-53-26	1.000000
+o__RBG-13-44-9	1.000000
+o__Pyrinomonadales	1.000000
+o__Puniceispirillales	1.000000
+o__Pseudanabaenales	1.000000
+o__Proteinivoracales	1.000000
+o__Propionisporales	0.666667
+o__Propionibacteriales	1.000000
+o__Promineofilales	1.000000
+o__Poseidoniales	1.000000
+o__Portnoybacterales	1.000000
+o__Planctomycetales	1.000000
+o__Piscirickettsiales	1.000000
+o__Pirellulales	1.000000
+o__Phycisphaerales	1.000000
+o__Phormidesmiales	1.000000
+o__Petrotogales	1.000000
+o__Peribacterales	1.000000
+o__Peptostreptococcales	1.000000
+o__Peptococcales	0.857143
+o__Pelagibacterales	1.000000
+o__Pedosphaerales	1.000000
+o__Parvibaculales	1.000000
+o__Paracaedibacterales	1.000000
+o__Paenibacillales	1.000000
+o__Paceibacterales	1.000000
+o__PWYM01	1.000000
+o__PWTM01	1.000000
+o__PS1	1.000000
+o__PCC-9006	1.000000
+o__PCC-7336	1.000000
+o__PCC-6307	1.000000
+o__P2-11E	1.000000
+o__Ozemobacterales	1.000000
+o__Oscillospirales	1.000000
+o__Opitutales	1.000000
+o__Omnitrophales	1.000000
+o__Obscuribacterales	1.000000
+o__OPB41	1.000000
+o__O2-12-FULL-45-9	1.000000
+o__Norongarragalinales	1.000000
+o__Nitrospirales	1.000000
+o__Nitrospinales	1.000000
+o__Nitrososphaerales	1.000000
+o__Nitrosococcales	1.000000
+o__Nitrococcales	1.000000
+o__Nitriliruptorales	1.000000
+o__Nevskiales	1.000000
+o__Nautiliales	1.000000
+o__Natranaerobiales	1.000000
+o__Nanopelagicales	1.000000
+o__NS11-12g	0.800000
+o__NMUJ01	1.000000
+o__Mycoplasmatales	0.995745
+o__Mycobacteriales	1.000000
+o__Moranbacterales	1.000000
+o__Moorellales	1.000000
+o__Moduliflexales	1.000000
+o__Miltoncostaeales	1.000000
+o__Micropepsales	1.000000
+o__Micrarchaeales	1.000000
+o__Micavibrionales	1.000000
+o__Methylomirabilales	1.000000
+o__Methylococcales	1.000000
+o__Methylacidiphilales	1.000000
+o__Methanotrichales	1.000000
+o__Methanosarcinales_A	1.000000
+o__Methanosarcinales	1.000000
+o__Methanonatronarchaeales	1.000000
+o__Methanomicrobiales	1.000000
+o__Methanomethylicales	1.000000
+o__Methanomassiliicoccales	1.000000
+o__Methanoliparales	1.000000
+o__Methanofastidiosales	1.000000
+o__Methanococcales	1.000000
+o__Methanocellales	1.000000
+o__Methanobacteriales	1.000000
+o__Mesoaciditogales	1.000000
+o__Mariprofundales	1.000000
+o__Marinisomatales	1.000000
+o__Magnetococcales	1.000000
+o__Magasanikbacterales	1.000000
+o__MSB-5A5	1.000000
+o__MPNO01	1.000000
+o__ML615J-28	1.000000
+o__MGIII	1.000000
+o__MBNT15	1.000000
+o__Lutisporales	1.000000
+o__Longimicrobiales	1.000000
+o__Limnocylindrales	1.000000
+o__Levybacterales	1.000000
+o__Leptospirillales	1.000000
+o__Leptospirales	1.000000
+o__Leptolyngbyales	1.000000
+o__Legionellales	0.983607
+o__Latescibacterales	1.000000
+o__Lactobacillales	1.000000
+o__Lachnospirales	1.000000
+o__LZORAL124-64-63	1.000000
+o__LD1-PB3	1.000000
+o__LBFQ01	1.000000
+o__Ktedonobacterales	1.000000
+o__Kryptoniales	1.000000
+o__Kiritimatiellales	1.000000
+o__Kiloniellales	1.000000
+o__Kazan-3B-28	1.000000
+o__Kapabacteriales	1.000000
+o__Jiangellales	1.000000
+o__JdFR-97	1.000000
+o__JdFR-76	1.000000
+o__JdFR-21	1.000000
+o__JGIOTU-2	1.000000
+o__JAAYCJ01	1.000000
+o__JAAKFQ01	0.066667
+o__J040	1.000000
+o__Izemoplasmatales	1.000000
+o__Isosphaerales	1.000000
+o__Ignavibacteriales	1.000000
+o__Iainarchaeales	1.000000
+o__IMCC26256	1.000000
+o__IMC4	0.769231
+o__Hydrothermarchaeales	1.000000
+o__Hydrothermales	1.000000
+o__Hydrogenothermales	1.000000
+o__Hydrogenedentiales	1.000000
+o__Humimicrobiales	1.000000
+o__Holosporales	1.000000
+o__Holophagales	1.000000
+o__Heliobacteriales	1.000000
+o__Hat2	1.000000
+o__Halothiobacillales	1.000000
+o__Haloplasmatales_A	1.000000
+o__Halobacteroidales	1.000000
+o__Halobacteriales	1.000000
+o__Halanaerobiales	1.000000
+o__Hadarchaeales	1.000000
+o__HRBIN17	1.000000
+o__HRBIN11	1.000000
+o__HK1	1.000000
+o__HIMB59	1.000000
+o__HDB-SIOI813	1.000000
+o__H02-48-17	1.000000
+o__Granulosicoccales	1.000000
+o__Gp22-AA2	1.000000
+o__Gloeobacterales	1.000000
+o__Geothermincolales	1.000000
+o__Geobacterales	1.000000
+o__Gemmatimonadales	1.000000
+o__Gemmatales	1.000000
+o__Geminicoccales	1.000000
+o__Gearchaeales	1.000000
+o__Gastranaerophilales	1.000000
+o__Gaiellales	1.000000
+o__Ga0077536_A	0.666667
+o__GWF2-39-127	1.000000
+o__GWE2-31-10	1.000000
+o__GWC2-55-46	1.000000
+o__GWC2-36-17	1.000000
+o__GWA2-58-10	1.000000
+o__GWA2-47-26	1.000000
+o__GWA2-46-9	1.000000
+o__GWA2-44-7	1.000000
+o__GWA2-43-13	1.000000
+o__GWA2-38-11	1.000000
+o__GWA2-35-9	1.000000
+o__GN15	1.000000
+o__GIF9	1.000000
+o__GIF10	1.000000
+o__GCA-2729495	1.000000
+o__GCA-2716485	1.000000
+o__GCA-002705445	0.800000
+o__GCA-002687715	1.000000
+o__GCA-001788215	1.000000
+o__GCA-001735895	1.000000
+o__GBS-1	1.000000
+o__Fusobacteriales	1.000000
+o__Francisellales	1.000000
+o__Flavobacteriales	0.997579
+o__Fimbriimonadales	1.000000
+o__Fibrobacterales	1.000000
+o__Ferrovibrionales	1.000000
+o__Fermentibacterales	1.000000
+o__Fen-336	1.000000
+o__FEN-1346	1.000000
+o__Exiguobacterales	1.000000
+o__Evansiales	1.000000
+o__Euzebyales	1.000000
+o__Eubacteriales	1.000000
+o__Erysipelotrichales	1.000000
+o__Entotheonellales	1.000000
+o__Enterobacterales_A	1.000000
+o__Endomicrobiales	1.000000
+o__Elusimicrobiales	1.000000
+o__Elainellales	1.000000
+o__Ectothiorhodospirales	1.000000
+o__EX4484-6	1.000000
+o__E44-bin18	1.000000
+o__E44-bin15	1.000000
+o__E26-bin7	1.000000
+o__Dormibacterales	1.000000
+o__Dongiales	1.000000
+o__Dissulfuribacterales	1.000000
+o__Diplorickettsiales	1.000000
+o__Dictyoglomales	1.000000
+o__Dethiobacterales	1.000000
+o__Desulfuromonadales	1.000000
+o__Desulfurobacteriales	1.000000
+o__Desulfurellales	1.000000
+o__Desulfovibrionales	1.000000
+o__Desulfotomaculales	1.000000
+o__Desulfofervidales	1.000000
+o__Desulfobulbales	1.000000
+o__Desulfobacterales	1.000000
+o__Desulfobaccales	1.000000
+o__Desulfitobacteriales	1.000000
+o__Desulfitibacterales	1.000000
+o__Desulfatiglandales	1.000000
+o__Desulfarculales	1.000000
+o__Deinococcales	1.000000
+o__Dehalococcoidales	1.000000
+o__Dehalobacteriales	1.000000
+o__Deferrisomatales	1.000000
+o__Deferribacterales	1.000000
+o__Daviesbacterales	1.000000
+o__DTUO25	1.000000
+o__DTU086	1.000000
+o__DTU022	1.000000
+o__DTU014	1.000000
+o__DTU010	1.000000
+o__DTJY01	1.000000
+o__DSM-27196	1.000000
+o__DSM-22653	1.000000
+o__DSM-16500	1.000000
+o__DSM-16054	1.000000
+o__DSM-16016	1.000000
+o__DRVO01	1.000000
+o__DRLW01	1.000000
+o__DRI-13	1.000000
+o__DHVEG-1	1.000000
+o__D2-FULL-39-29	1.000000
+o__Cytophagales	1.000000
+o__Cyanobacteriales	1.000000
+o__Curtissbacterales	1.000000
+o__Culicoidibacterales	1.000000
+o__Coxiellales	1.000000
+o__Coriobacteriales	1.000000
+o__Coprothermobacterales	1.000000
+o__Competibacterales	1.000000
+o__Clostridiales	1.000000
+o__Cloacimonadales	1.000000
+o__Chthonomonadales	1.000000
+o__Chthoniobacterales	1.000000
+o__Chrysiogenales	1.000000
+o__Chromatiales	1.000000
+o__Christensenellales	1.000000
+o__Chloroflexales	1.000000
+o__Chlorobiales	1.000000
+o__Chlamydiales	0.812903
+o__Chitinophagales	1.000000
+o__Chitinivibrionales	1.000000
+o__Caulobacterales	1.000000
+o__Cardiobacteriales	1.000000
+o__Carboxydothermales	1.000000
+o__Campylobacterales	1.000000
+o__Calescibacteriales	1.000000
+o__Caldisericales	1.000000
+o__Caldilineales	1.000000
+o__Caldicoprobacterales	1.000000
+o__Caldicellulosiruptorales	1.000000
+o__Caldarchaeales	1.000000
+o__Caldalkalibacillales	1.000000
+o__Caenarcaniphilales	0.800000
+o__Caedimonadales	1.000000
+o__CSP1-3	1.000000
+o__CR04bin15	1.000000
+o__CR-4	1.000000
+o__CPR3	1.000000
+o__CPR2	1.000000
+o__CG2-30-64-16	1.000000
+o__CG2-30-59-28	1.000000
+o__CG2-30-40-12	1.000000
+o__CG2-30-33-46	1.000000
+o__CG1-02-43-210	1.000000
+o__CG1-02-37-114	1.000000
+o__CF-121	1.000000
+o__CAIYCZ01	1.000000
+o__CAIXNZ01	1.000000
+o__CADDZG01	1.000000
+o__CACIAM-69d	1.000000
+o__C00003060	1.000000
+o__Burkholderiales	1.000000
+o__Buchananbacterales	1.000000
+o__Bryobacterales	1.000000
+o__Brocadiales	1.000000
+o__Brevinematales	1.000000
+o__Brevibacillales	1.000000
+o__Brachyspirales	1.000000
+o__Borreliales	1.000000
+o__Bin98	0.666667
+o__Bin125	1.000000
+o__Berkiellales	1.000000
+o__Beggiatoales	1.000000
+o__Baltobacterales	1.000000
+o__Balneolales	1.000000
+o__Bacteroidales	1.000000
+o__Bacillales_H	1.000000
+o__Bacillales_G	0.866667
+o__Bacillales_F	1.000000
+o__Bacillales_E	0.500000
+o__Bacillales_D	0.977778
+o__Bacillales_C	1.000000
+o__Bacillales_B	0.978417
+o__Bacillales_A	1.000000
+o__Bacillales	0.893333
+o__Babeliales	1.000000
+o__BSN033	1.000000
+o__BMS3ABIN01	1.000000
+o__BM507	1.000000
+o__BD1-5	1.000000
+o__B68-G9	1.000000
+o__B48-G9	1.000000
+o__B4-G1	1.000000
+o__B3-TA06	1.000000
+o__B3-LCP	1.000000
+o__B26-1	1.000000
+o__B25	1.000000
+o__B24	1.000000
+o__B142	1.000000
+o__B13-G15	1.000000
+o__Azospirillales	1.000000
+o__Atribacterales	1.000000
+o__Arenicellales	1.000000
+o__Ardenticatenales	1.000000
+o__Archaeoglobales	1.000000
+o__Aquificales	1.000000
+o__Aquicultorales	1.000000
+o__Anstonellales	1.000000
+o__Aneurinibacillales	1.000000
+o__Anaeromusales	1.000000
+o__Anaerolineales	1.000000
+o__Anaeroferrophillales	1.000000
+o__Ammonifexales	1.000000
+o__Aminicenantales	1.000000
+o__Altiarchaeales	0.400000
+o__Alicyclobacillales	1.000000
+o__Aggregatilineales	1.000000
+o__Aerophobales	1.000000
+o__Adiutricales	1.000000
+o__Actinomycetales	0.998987
+o__Actinomarinales	1.000000
+o__Acidulodesulfobacterales	1.000000
+o__Aciduliprofundales	1.000000
+o__Acidothermales	0.666667
+o__Acidoferrales	1.000000
+o__Acidobacteriales	1.000000
+o__Acidithiobacillales	1.000000
+o__Acidimicrobiales	1.000000
+o__Acidiferrobacterales	1.000000
+o__Acidaminococcales	1.000000
+o__Acholeplasmatales	1.000000
+o__Acetobacterales	1.000000
+o__Acetivibrionales	1.000000
+o__ATCC43930	1.000000
+o__ANME-1	1.000000
+o__AKYH767-A	1.000000
+o__AKYH767	1.000000
+o__AB16	1.000000
+o__AABM5-25-91	1.000000
+o__9FT-COMBO-53-11	1.000000
+o__4572-78	1.000000
+o__4484-211	1.000000
+o__4484-171	1.000000
+o__40CM-2-53-6	1.000000
+o__32-111	1.000000
+o__20CM-2-55-15	1.000000
+o__2-12-FULL-54-10	1.000000
+o__2-12-FULL-50-11	1.000000
+o__2-12-FULL-49-11	1.000000
+o__2-02-FULL-51-18	1.000000
+o__2-02-FULL-49-11	1.000000
+o__2-02-FULL-40-12	1.000000
+o__2-02-FULL-39-32	1.000000
+o__2-02-FULL-39-11	1.000000
+o__2-02-FULL-35-15	1.000000
+o__2-01-FULL-66-17	1.000000
+o__2-01-FULL-47-10	1.000000
+o__2-01-FULL-45-10	1.000000
+o__2-01-FULL-39-33	1.000000
+o__2-01-FULL-39-13	1.000000
+o__1-14-2-50-48-13	1.000000
+f__Zooshikellaceae	1.000000
+f__Zambryskibacteraceae_A	1.000000
+f__Zambryskibacteraceae	0.666667
+f__ZOR0009	1.000000
+f__YA12-FULL-60-10	1.000000
+f__Xenococcaceae	1.000000
+f__Xenobiaceae	1.000000
+f__Xanthomonadaceae	1.000000
+f__Xanthobacteraceae	1.000000
+f__XYD1-FULL-46-19	1.000000
+f__XYD1-FULL-40-9	1.000000
+f__XYC2-FULL-47-12	1.000000
+f__XYC2-FULL-46-14	1.000000
+f__XYC2-FULL-38-9	1.000000
+f__XYC2-FULL-37-10	1.000000
+f__XYB2-FULL-48-7	1.000000
+f__XYB2-FULL-38-15	1.000000
+f__XYB1-36-10	1.000000
+f__XYA2-FULL-47-53	1.000000
+f__XYA2-FULL-43-10	1.000000
+f__XYA2-FULL-39-19	1.000000
+f__Wohlfahrtiimonadaceae	1.000000
+f__Woeseiaceae	1.000000
+f__Wenzhouxiangellaceae	1.000000
+f__Weeksellaceae	1.000000
+f__WRJC01	1.000000
+f__WQYP01	1.000000
+f__WO2-46-25	1.000000
+f__WO2-44-18	1.000000
+f__WO2-01-48-18	1.000000
+f__WHSQ01	1.000000
+f__WGA-3G	1.000000
+f__WCHB1-69	1.000000
+f__W498	1.000000
+f__Victivallaceae	1.000000
+f__Vicingaceae	0.666667
+f__Vibrionaceae	1.000000
+f__Verrucomicrobiaceae	1.000000
+f__Verruco-01	1.000000
+f__Vermiphilaceae	1.000000
+f__Veillonellaceae	1.000000
+f__Vallitaleaceae	1.000000
+f__Vagococcaceae	1.000000
+f__VadinHA17	0.900000
+f__VXNJ01	1.000000
+f__VXMN01	1.000000
+f__VBWQ01	1.000000
+f__Usitatibacteraceae	1.000000
+f__UXAT02	1.000000
+f__UTPLA1	1.000000
+f__UM-FILTER-53-11	1.000000
+f__UM-FILTER-43-11	1.000000
+f__UM-FILTER-40-11	1.000000
+f__UKL13-3	1.000000
+f__UBA9988	1.000000
+f__UBA9983	1.000000
+f__UBA9973	1.000000
+f__UBA9959	1.000000
+f__UBA9942	1.000000
+f__UBA9934	1.000000
+f__UBA9933	1.000000
+f__UBA9662	1.000000
+f__UBA9637	1.000000
+f__UBA9629	0.933333
+f__UBA9628	1.000000
+f__UBA9579	1.000000
+f__UBA953	1.000000
+f__UBA9339	1.000000
+f__UBA9337	1.000000
+f__UBA9320	1.000000
+f__UBA932	1.000000
+f__UBA929	1.000000
+f__UBA927	1.000000
+f__UBA922	1.000000
+f__UBA9219	1.000000
+f__UBA918	1.000000
+f__UBA917	1.000000
+f__UBA8932	1.000000
+f__UBA8919	1.000000
+f__UBA868	1.000000
+f__UBA8639	1.000000
+f__UBA8592	1.000000
+f__UBA8517	1.000000
+f__UBA8473	1.000000
+f__UBA8438	1.000000
+f__UBA8401	1.000000
+f__UBA8260	1.000000
+f__UBA826	1.000000
+f__UBA8231	1.000000
+f__UBA8199	1.000000
+f__UBA8154	1.000000
+f__UBA8131	1.000000
+f__UBA7960	1.000000
+f__UBA7805	1.000000
+f__UBA7656	1.000000
+f__UBA7541	1.000000
+f__UBA7540	1.000000
+f__UBA7430	1.000000
+f__UBA6960	1.000000
+f__UBA6911	1.000000
+f__UBA6902	0.857143
+f__UBA6899	1.000000
+f__UBA6898	1.000000
+f__UBA6769	1.000000
+f__UBA6663	1.000000
+f__UBA6615	1.000000
+f__UBA660	1.000000
+f__UBA6539	1.000000
+f__UBA6264	1.000000
+f__UBA6249	1.000000
+f__UBA6215	1.000000
+f__UBA6098	1.000000
+f__UBA6065	1.000000
+f__UBA5946	1.000000
+f__UBA5829	1.000000
+f__UBA5704	1.000000
+f__UBA5633	1.000000
+f__UBA5629	1.000000
+f__UBA5620	1.000000
+f__UBA5619	1.000000
+f__UBA5550	1.000000
+f__UBA5542	1.000000
+f__UBA5453	1.000000
+f__UBA5368	1.000000
+f__UBA5335	1.000000
+f__UBA5272	1.000000
+f__UBA4823	1.000000
+f__UBA4778	1.000000
+f__UBA472	1.000000
+f__UBA4665	1.000000
+f__UBA460	1.000000
+f__UBA4486	1.000000
+f__UBA4473	1.000000
+f__UBA4055	1.000000
+f__UBA3939	1.000000
+f__UBA3495	1.000000
+f__UBA3031	1.000000
+f__UBA2999	1.000000
+f__UBA2985	1.000000
+f__UBA2979	1.000000
+f__UBA2968	0.800000
+f__UBA2963	1.000000
+f__UBA2386	1.000000
+f__UBA2337	1.000000
+f__UBA233	1.000000
+f__UBA2279	1.000000
+f__UBA2268	1.000000
+f__UBA2258	1.000000
+f__UBA2242	1.000000
+f__UBA2206	1.000000
+f__UBA2199	1.000000
+f__UBA2169	1.000000
+f__UBA2165	1.000000
+f__UBA2163	1.000000
+f__UBA2162	1.000000
+f__UBA2156	1.000000
+f__UBA2143	1.000000
+f__UBA2135	1.000000
+f__UBA2103	1.000000
+f__UBA2100	1.000000
+f__UBA2023	1.000000
+f__UBA2020	1.000000
+f__UBA1997	1.000000
+f__UBA1924	1.000000
+f__UBA1875	1.000000
+f__UBA1845	1.000000
+f__UBA1829	1.000000
+f__UBA1611	1.000000
+f__UBA1572	1.000000
+f__UBA1568	1.000000
+f__UBA1565	1.000000
+f__UBA1559	1.000000
+f__UBA1558	1.000000
+f__UBA1551	1.000000
+f__UBA1547	1.000000
+f__UBA1546	1.000000
+f__UBA1539_B	1.000000
+f__UBA1539_A	1.000000
+f__UBA1539	1.000000
+f__UBA1449	1.000000
+f__UBA1429	1.000000
+f__UBA1412	1.000000
+f__UBA1407	1.000000
+f__UBA1406	1.000000
+f__UBA1400	1.000000
+f__UBA1381	1.000000
+f__UBA1328	1.000000
+f__UBA1268	1.000000
+f__UBA12473	1.000000
+f__UBA12470	1.000000
+f__UBA12465	1.000000
+f__UBA12463	1.000000
+f__UBA12454	1.000000
+f__UBA12420	1.000000
+f__UBA1242	1.000000
+f__UBA12411	1.000000
+f__UBA12409	1.000000
+f__UBA12405	1.000000
+f__UBA12402	1.000000
+f__UBA1222	1.000000
+f__UBA12157	1.000000
+f__UBA12135	1.000000
+f__UBA12108	1.000000
+f__UBA12090	1.000000
+f__UBA12079	1.000000
+f__UBA12077	1.000000
+f__UBA12075	1.000000
+f__UBA12059	1.000000
+f__UBA12049	1.000000
+f__UBA12028	1.000000
+f__UBA1172	1.000000
+f__UBA11717	1.000000
+f__UBA11713	1.000000
+f__UBA11712	1.000000
+f__UBA11705	1.000000
+f__UBA11657	1.000000
+f__UBA11654	1.000000
+f__UBA1163	1.000000
+f__UBA11606	1.000000
+f__UBA11579	1.000000
+f__UBA11574	1.000000
+f__UBA1146	1.000000
+f__UBA1144	1.000000
+f__UBA11359_C	1.000000
+f__UBA11358	1.000000
+f__UBA1135	1.000000
+f__UBA11138	1.000000
+f__UBA1096	1.000000
+f__UBA10834	1.000000
+f__UBA1067	1.000000
+f__UBA10450	1.000000
+f__UBA10348	1.000000
+f__UBA10212	1.000000
+f__UBA1020	1.000000
+f__UBA10190	1.000000
+f__UBA10185	1.000000
+f__UBA10183	1.000000
+f__UBA10165	1.000000
+f__UBA10151	1.000000
+f__UBA10146	1.000000
+f__UBA10138	1.000000
+f__UBA10110	1.000000
+f__UBA10105	1.000000
+f__UBA10102	1.000000
+f__UBA10092	1.000000
+f__UBA10066	1.000000
+f__UBA1006	1.000000
+f__UBA10030	1.000000
+f__UBA10027	1.000000
+f__UBA10025	1.000000
+f__UBA10009	1.000000
+f__UBA10003	1.000000
+f__UBA10002	1.000000
+f__UA16	1.000000
+f__Turicibacteraceae	1.000000
+f__Trueperaceae	1.000000
+f__Treponemataceae	1.000000
+f__Tissierellaceae	1.000000
+f__Thorarchaeaceae	1.000000
+f__Thiotrichaceae	1.000000
+f__Thiomicrospiraceae	1.000000
+f__Thiohalomonadaceae	1.000000
+f__Thioglobaceae	1.000000
+f__Thiobacillaceae	1.000000
+f__Thioalkalivibrionaceae	1.000000
+f__Thermovirgaceae	1.000000
+f__Thermotogaceae	1.000000
+f__Thermotaleaceae	1.000000
+f__Thermosynechococcaceae	1.000000
+f__Thermosulfidibacteraceae	1.000000
+f__Thermosinaceae	1.000000
+f__Thermosediminibacteraceae	1.000000
+f__Thermoproteaceae	1.000000
+f__Thermoplasmataceae	1.000000
+f__Thermonemataceae	0.800000
+f__Thermomicrobiaceae	1.000000
+f__Thermohalobacteraceae	1.000000
+f__Thermoguttaceae	1.000000
+f__Thermofilaceae	1.000000
+f__Thermodesulfovibrionaceae	1.000000
+f__Thermodesulfobacteriaceae	1.000000
+f__Thermodesulfatatoraceae	1.000000
+f__Thermococcaceae	1.000000
+f__Thermocladiaceae	1.000000
+f__Thermoanaerobaculaceae	1.000000
+f__Thermoanaerobacteraceae	1.000000
+f__Thermoactinomycetaceae	1.000000
+f__Thermicanaceae	1.000000
+f__Thermaerobacteraceae	1.000000
+f__Thermacetogeniaceae	1.000000
+f__Thermaceae	1.000000
+f__Thalassospiraceae	1.000000
+f__Thalassobaculaceae	1.000000
+f__Thalassarchaeaceae	1.000000
+f__Termitinemataceae	1.000000
+f__Terasakiellaceae	1.000000
+f__Tepidisphaeraceae	1.000000
+f__Tepidimicrobiaceae	1.000000
+f__Tepidiformaceae	1.000000
+f__Tepidibacillaceae	1.000000
+f__Tepidanaerobacteraceae	1.000000
+f__Tepidamorphaceae	1.000000
+f__Tenuifilaceae	1.000000
+f__Tannerellaceae	1.000000
+f__Tagabacteraceae	1.000000
+f__TTA-H9	1.000000
+f__TMED25	1.000000
+f__TMED131	1.000000
+f__TMED127	1.000000
+f__TMED112	1.000000
+f__TMED-70	1.000000
+f__TK06	1.000000
+f__TH1-2	1.000000
+f__TCS64	1.000000
+f__TCS61	1.000000
+f__TCS55	1.000000
+f__Syntrophotaleaceae	1.000000
+f__Syntrophorhabdaceae	1.000000
+f__Syntrophomonadaceae	1.000000
+f__Syntrophobotulaceae	1.000000
+f__Syntrophobacteraceae	1.000000
+f__Syntropharchaeaceae	1.000000
+f__Synergistaceae	1.000000
+f__Synechococcaceae	1.000000
+f__Sumerlaeaceae	1.000000
+f__Sulfurovaceae	1.000000
+f__Sulfurospirillaceae	1.000000
+f__Sulfurimonadaceae	1.000000
+f__Sulfurifustaceae	1.000000
+f__Sulfuriferulaceae	1.000000
+f__Sulfuricellaceae	1.000000
+f__Sulfolobaceae	1.000000
+f__Sulfobacillaceae	1.000000
+f__Succinivibrionaceae	1.000000
+f__Streptosporangiaceae	1.000000
+f__Streptomycetaceae	1.000000
+f__Streptococcaceae	1.000000
+f__Steroidobacteraceae	1.000000
+f__Stellaceae	1.000000
+f__Staskawiczbacteraceae	1.000000
+f__Stappiaceae	1.000000
+f__Staphylococcaceae	1.000000
+f__Sporomusaceae	1.000000
+f__Sporolactobacillaceae	1.000000
+f__Spongiibacteraceae	1.000000
+f__Spirulinaceae	1.000000
+f__Spirosomaceae	1.000000
+f__Spirochaetaceae_B	1.000000
+f__Spirochaetaceae_A	1.000000
+f__Sphingomonadaceae	1.000000
+f__Sphingobacteriaceae	1.000000
+f__Sphaerochaetaceae	1.000000
+f__SpSt-313	1.000000
+f__SpSt-225	1.000000
+f__Solirubrobacteraceae	1.000000
+f__Sneathiellaceae	1.000000
+f__Smithellaceae	1.000000
+f__Shewanellaceae	1.000000
+f__Selenomonadaceae	1.000000
+f__Sediminispirochaetaceae	1.000000
+f__Sedimentisphaeraceae	1.000000
+f__Sedimenticolaceae	1.000000
+f__Schleiferiaceae	1.000000
+f__Scalinduaceae	1.000000
+f__SbA1	1.000000
+f__Saprospiraceae	1.000000
+f__Salisediminibacteriaceae	1.000000
+f__Salinivirgaceae	1.000000
+f__Salinispiraceae	1.000000
+f__Salinisphaeraceae	1.000000
+f__Salinicoccaceae	1.000000
+f__Salinibacteraceae	1.000000
+f__Salibacteraceae	1.000000
+f__Saccharofermentanaceae	1.000000
+f__Saccharimonadaceae	1.000000
+f__SZUA-79	1.000000
+f__SZUA-47	1.000000
+f__SZUA-36	1.000000
+f__SZUA-254	1.000000
+f__SZUA-252	1.000000
+f__SZUA-229	1.000000
+f__SZUA-161	1.000000
+f__SXXA01	1.000000
+f__SURF-37	1.000000
+f__SM23-62	1.000000
+f__SM23-61	1.000000
+f__SM23-42	1.000000
+f__SM23-39	1.000000
+f__SM23-35	1.000000
+f__SM23-33	1.000000
+f__SM23-32	1.000000
+f__SM1A02	1.000000
+f__SM1-73	1.000000
+f__SM1-40	1.000000
+f__SLSP01	1.000000
+f__SLHB01	1.000000
+f__SLGR01	1.000000
+f__SLCJ01	1.000000
+f__SHYT01	1.000000
+f__SHYD01	1.000000
+f__SG8-5	1.000000
+f__SG8-4	1.000000
+f__SG8-39	1.000000
+f__SG8-24	1.000000
+f__SG8-13	1.000000
+f__SCSIO-06110	1.000000
+f__SC72	1.000000
+f__SBAW01	1.000000
+f__SAR86	0.923077
+f__S15-B10	1.000000
+f__Ruminococcaceae	1.000000
+f__Rubrobacteraceae	1.000000
+f__Rubricoccaceae	1.000000
+f__Rubidibacteraceae	1.000000
+f__Rs-D84	1.000000
+f__Roseiflexaceae	1.000000
+f__Rikenellaceae	1.000000
+f__Rickettsiaceae	1.000000
+f__Rhodovibrionaceae	1.000000
+f__Rhodothalassiaceae	1.000000
+f__Rhodospirillaceae	1.000000
+f__Rhodomicrobiaceae	1.000000
+f__Rhodocyclaceae	1.000000
+f__Rhodobacteraceae	1.000000
+f__Rhodanobacteraceae	1.000000
+f__Rhizobiaceae_A	0.872483
+f__Rhabdochlamydiaceae	1.000000
+f__Reyranellaceae	1.000000
+f__Reconcilibacillaceae	1.000000
+f__RVW-14	1.000000
+f__RS24	1.000000
+f__RKRQ01	1.000000
+f__RBG-16-71-46	1.000000
+f__RBG-16-68-12	1.000000
+f__RBG-16-64-43	1.000000
+f__RBG-16-64-32	1.000000
+f__RBG-16-60-22	1.000000
+f__RBG-16-54-18	1.000000
+f__RBG-16-45-19	1.000000
+f__RBG-16-39-9b	1.000000
+f__RBG-13-55-18	1.000000
+f__RBG-13-53-26	1.000000
+f__RBG-1	1.000000
+f__RAAP-2	1.000000
+f__QQVD01	1.000000
+f__QMZM01	1.000000
+f__QAKW01	1.000000
+f__Pyrodictiaceae	1.000000
+f__Pyrinomonadaceae	1.000000
+f__Puniceispirillaceae	1.000000
+f__Psychromonadaceae	1.000000
+f__Psittacicellaceae	1.000000
+f__Pseudopelobacteraceae	1.000000
+f__Pseudonocardiaceae	1.000000
+f__Pseudomonadaceae	1.000000
+f__Pseudohongiellaceae	1.000000
+f__Pseudanabaenaceae	1.000000
+f__Proteinivoraceae	1.000000
+f__Propionisporaceae	0.666667
+f__Propionibacteriaceae	1.000000
+f__Promineofilaceae	1.000000
+f__Prolixibacteraceae	1.000000
+f__Prochlorotrichaceae	1.000000
+f__Prochloraceae	1.000000
+f__Poseidoniaceae	1.000000
+f__Porticoccaceae	1.000000
+f__Porphyromonadaceae	1.000000
+f__Pontiellaceae	1.000000
+f__Pleomorphomonadaceae	1.000000
+f__Planococcaceae	1.000000
+f__Planctomycetaceae	1.000000
+f__Piscirickettsiaceae	1.000000
+f__Pirellulaceae	1.000000
+f__Phycisphaeraceae	1.000000
+f__Phormidesmiaceae	1.000000
+f__Petrotogaceae	1.000000
+f__Peribacteraceae	1.000000
+f__Peptostreptococcaceae	1.000000
+f__Peptoniphilaceae	1.000000
+f__Pelotomaculaceae	1.000000
+f__Pelagibacteraceae	1.000000
+f__Pasteurellaceae	1.000000
+f__Parvularculaceae	1.000000
+f__Parvibaculaceae	1.000000
+f__Parilichlamydiaceae	1.000000
+f__Parachlamydiaceae	1.000000
+f__Paracaedibacteraceae	1.000000
+f__Paludibacteraceae	1.000000
+f__Palsa-688	1.000000
+f__Paenibacillaceae	1.000000
+f__Paceibacteraceae	1.000000
+f__PWYM01	1.000000
+f__PWPS01	1.000000
+f__PWPN01	1.000000
+f__PJMF01	1.000000
+f__PGXB01	1.000000
+f__PEXW01	1.000000
+f__PALSA-1337	1.000000
+f__P3	1.000000
+f__P2-11E	1.000000
+f__Ozemobacteraceae	1.000000
+f__Oscillospiraceae	1.000000
+f__Oscillatoriaceae	1.000000
+f__Opitutaceae	1.000000
+f__Oleiphilaceae	1.000000
+f__Obscuribacteraceae	1.000000
+f__OMJO01	1.000000
+f__OLB5	1.000000
+f__OLB20	1.000000
+f__O2-12-FULL-45-9	1.000000
+f__O2-02-FULL-48-8	1.000000
+f__Novibacillaceae	1.000000
+f__Nostocaceae	0.990291
+f__Norongarragalinaceae	1.000000
+f__Nocardioidaceae	1.000000
+f__Nitrospiraceae	1.000000
+f__Nitrospinaceae	1.000000
+f__Nitrososphaeraceae	1.000000
+f__Nitrosopumilaceae	1.000000
+f__Nitrosomonadaceae	1.000000
+f__Nitrosococcaceae	1.000000
+f__Nitrococcaceae	1.000000
+f__Nitrincolaceae	1.000000
+f__Nitriliruptoraceae	1.000000
+f__Nevskiaceae	1.000000
+f__Neisseriaceae	1.000000
+f__Nautiliaceae	1.000000
+f__Natronospirillaceae	1.000000
+f__Natronincolaceae	1.000000
+f__Natrialbaceae	1.000000
+f__Natranaerobiaceae	1.000000
+f__Nap2-2B	1.000000
+f__Nanosyncoccaceae	1.000000
+f__Nanosynbacteraceae	1.000000
+f__Nanoperiomorbaceae	1.000000
+f__Nanopelagicaceae	1.000000
+f__Nanogingivalaceae	1.000000
+f__Nakamurellaceae	1.000000
+f__NS-4	1.000000
+f__NMUJ01	1.000000
+f__NGM72-4	1.000000
+f__NBVN01	1.000000
+f__NBRC-103111	1.000000
+f__NAC60-12	1.000000
+f__Mycoplasmoidaceae	0.975610
+f__Mycoplasmataceae	0.981818
+f__Mycobacteriaceae	1.000000
+f__Muribaculaceae	1.000000
+f__Moritellaceae	1.000000
+f__Moraxellaceae	1.000000
+f__Moorellaceae	1.000000
+f__Moduliflexaceae	1.000000
+f__Miltoncostaeaceae	1.000000
+f__Midichloriaceae	0.909091
+f__Microtrichaceae	1.000000
+f__Microscillaceae	1.000000
+f__Micropepsaceae	1.000000
+f__Micromonosporaceae	1.000000
+f__Microcystaceae_A	1.000000
+f__Microcystaceae	0.956522
+f__Microcoleaceae	1.000000
+f__Micrococcaceae	1.000000
+f__Microbacteriaceae	0.996633
+f__Micrarchaeaceae	1.000000
+f__Micavibrionaceae	1.000000
+f__Methylothermaceae	1.000000
+f__Methylopilaceae	1.000000
+f__Methylophilaceae	1.000000
+f__Methylophagaceae	1.000000
+f__Methylomonadaceae	1.000000
+f__Methylomirabilaceae	1.000000
+f__Methyloligellaceae	1.000000
+f__Methylococcaceae	1.000000
+f__Methylacidiphilaceae	1.000000
+f__Methermicoccaceae	1.000000
+f__Methanotrichaceae	1.000000
+f__Methanothermobacteraceae_A	1.000000
+f__Methanothermobacteraceae	1.000000
+f__Methanospirillaceae	1.000000
+f__Methanosphaerulaceae	1.000000
+f__Methanosarcinaceae	1.000000
+f__Methanoregulaceae	1.000000
+f__Methanoperedenaceae	1.000000
+f__Methanomicrobiaceae	1.000000
+f__Methanomethylophilaceae	1.000000
+f__Methanomethylicaceae	1.000000
+f__Methanomassiliicoccaceae	1.000000
+f__Methanoliparaceae	1.000000
+f__Methanogasteraceae	1.000000
+f__Methanofollaceae	1.000000
+f__Methanofastidiosaceae	1.000000
+f__Methanoculleaceae	1.000000
+f__Methanocorpusculaceae	1.000000
+f__Methanococcaceae	1.000000
+f__Methanocellaceae	1.000000
+f__Methanocaldococcaceae	1.000000
+f__Methanobacteriaceae	1.000000
+f__Metamycoplasmataceae	0.992248
+f__Mesoaciditogaceae	1.000000
+f__Melioribacteraceae	1.000000
+f__Megasphaeraceae	1.000000
+f__MedAcidi-G1	1.000000
+f__Mariprofundaceae	1.000000
+f__Marinomonadaceae	1.000000
+f__Marinococcaceae	1.000000
+f__Marinithermaceae	1.000000
+f__Marinisomataceae	1.000000
+f__Marinilabiliaceae	1.000000
+f__Marinifilaceae	1.000000
+f__Marinicellaceae	1.000000
+f__Maricaulaceae	1.000000
+f__Magnetovibrionaceae	1.000000
+f__Magnetospirillaceae	1.000000
+f__Magnetococcaceae	1.000000
+f__Magnetobacteriaceae	1.000000
+f__Magnetaquicoccaceae	1.000000
+f__MPNO01	1.000000
+f__ML635J-15	1.000000
+f__MHMH01	1.000000
+f__MFAQ01	1.000000
+f__MED-G16	1.000000
+f__MED-G09	1.000000
+f__MCBC01	1.000000
+f__MBNT15	1.000000
+f__MB11C04	1.000000
+f__Lutisporaceae	1.000000
+f__Longimicrobiaceae	1.000000
+f__Litoricolaceae	1.000000
+f__Listeriaceae	1.000000
+f__Limnocylindraceae	1.000000
+f__Leptotrichiaceae	1.000000
+f__Leptospirillaceae	1.000000
+f__Leptospiraceae	1.000000
+f__Leptonemataceae	1.000000
+f__Leptolyngbyaceae	1.000000
+f__Lentimicrobiaceae	1.000000
+f__Lenti-01	1.000000
+f__Legionellaceae	0.983607
+f__Latescibacteraceae	1.000000
+f__Lactobacillaceae	1.000000
+f__Lacipirellulaceae	1.000000
+f__Lachnospiraceae	1.000000
+f__LZORAL124-64-63	1.000000
+f__LS-SOB	1.000000
+f__LOWO2-01-FULL-3	1.000000
+f__LBFQ01	1.000000
+f__Ktedonobacteraceae	1.000000
+f__Kryptoniaceae	1.000000
+f__Kribbellaceae	1.000000
+f__Kpj58rc	1.000000
+f__Kosmotogaceae	1.000000
+f__Koribacteraceae	1.000000
+f__Kordiimonadaceae	1.000000
+f__Kineosporiaceae	1.000000
+f__Kineococcaceae	1.000000
+f__Kiloniellaceae	1.000000
+f__Ketobacteraceae	1.000000
+f__Kazan-3B-28	1.000000
+f__Kariarchaeaceae	1.000000
+f__Kapabacteriaceae	1.000000
+f__Kangiellaceae	1.000000
+f__Kaistiaceae	1.000000
+f__Jiangellaceae	1.000000
+f__Jeotgalibacillaceae	1.000000
+f__JdFR-97	1.000000
+f__JdFR-88	1.000000
+f__JdFR-85	1.000000
+f__JdFR-21	1.000000
+f__Jatrophihabitantaceae	1.000000
+f__JGIOTU-2	1.000000
+f__JACRKE01	1.000000
+f__JABMNX01	1.000000
+f__JABHMO01	1.000000
+f__JAAYCJ01	1.000000
+f__JAAUTS01	1.000000
+f__JAACPI01	1.000000
+f__JAACFD01	1.000000
+f__JAACEH01	1.000000
+f__JA-3-3Ab	1.000000
+f__J119	1.000000
+f__J093	1.000000
+f__J042	1.000000
+f__J040	1.000000
+f__J036	1.000000
+f__Izemoplasmataceae	1.000000
+f__Isosphaeraceae	1.000000
+f__Ilumatobacteraceae	1.000000
+f__Ignicoccaceae	1.000000
+f__Ignavibacteriaceae	0.956522
+f__IMCC26256	1.000000
+f__IGHO2-12-FULL-4	0.666667
+f__IGHO2-01-FULL-4-A	1.000000
+f__Hyphomonadaceae	1.000000
+f__Hyphomicrobiaceae	1.000000
+f__Hymenobacteraceae	1.000000
+f__Hydrothermaceae	1.000000
+f__Hydrogenothermaceae	1.000000
+f__Hydrogenimonadaceae	1.000000
+f__Hydrogenedentaceae	1.000000
+f__Humimicrobiaceae	1.000000
+f__Holosporaceae	1.000000
+f__Holophagaceae	1.000000
+f__Hippeaceae	1.000000
+f__Herpetosiphonaceae	1.000000
+f__Heliobacteriaceae	1.000000
+f__Helicobacteraceae	1.000000
+f__Halothiobacillaceae	1.000000
+f__Halorhodospiraceae	1.000000
+f__Halomonadaceae	0.777778
+f__Halofilaceae	1.000000
+f__Haloferacaceae	1.000000
+f__Halococcaceae	1.000000
+f__Halobacteroidaceae	1.000000
+f__Halobacteriaceae	1.000000
+f__Halobacillaceae	1.000000
+f__Haloarculaceae	0.961538
+f__Halieaceae	1.000000
+f__Halarsenatibacteraceae	1.000000
+f__Halanaerobiaceae	1.000000
+f__Halalkalicoccaceae	1.000000
+f__Haladaptataceae	1.000000
+f__Hadarchaeaceae	1.000000
+f__HTCC2089	0.780488
+f__HRbin24	1.000000
+f__HRBIN17	1.000000
+f__HRBIN12	1.000000
+f__HRBIN11	1.000000
+f__HR35	1.000000
+f__HO2-52-23	1.000000
+f__HO2-48-17	1.000000
+f__HO2-37-13b	1.000000
+f__HK1	1.000000
+f__HIMB59	1.000000
+f__HGW-15	1.000000
+f__HDB-SIOI813	1.000000
+f__H02-43-30	1.000000
+f__Granulosicoccaceae	1.000000
+f__Gp22-AA2	1.000000
+f__Gottschalkiaceae	1.000000
+f__Gloeobacteraceae	1.000000
+f__Geothermobacteraceae	1.000000
+f__Geopsychrobacteraceae	1.000000
+f__Geodermatophilaceae	1.000000
+f__Geobacteraceae	1.000000
+f__Geoalkalibacteraceae	1.000000
+f__Gemmatimonadaceae	1.000000
+f__Gemmataceae	1.000000
+f__Geminicoccaceae	1.000000
+f__Gemellaceae	1.000000
+f__Geitlerinemaceae	1.000000
+f__Gearchaeaceae	1.000000
+f__Gastranaerophilaceae	1.000000
+f__Gallionellaceae	1.000000
+f__Gaiellaceae	1.000000
+f__GWF2-45-14	1.000000
+f__GWF2-40-263	1.000000
+f__GWF2-39-127	1.000000
+f__GWF2-38-335	1.000000
+f__GWF2-35-18	1.000000
+f__GWF2-33-38	1.000000
+f__GWF2-33-10	1.000000
+f__GWF1-51-8	1.000000
+f__GWE2-39-37	1.000000
+f__GWE2-31-10	1.000000
+f__GWC2-71-9	1.000000
+f__GWC2-55-46	1.000000
+f__GWC2-42-12	1.000000
+f__GWC2-37-73	1.000000
+f__GWC2-37-13	1.000000
+f__GWC2-36-17	1.000000
+f__GWC2-33-13	1.000000
+f__GWB1-50-10	1.000000
+f__GWB1-45-9	1.000000
+f__GWB1-42-6	1.000000
+f__GWB1-40-14	1.000000
+f__GWA2-58-10	1.000000
+f__GWA2-47-26	1.000000
+f__GWA2-47-10b	1.000000
+f__GWA2-46-9	1.000000
+f__GWA2-44-9	1.000000
+f__GWA2-44-7	1.000000
+f__GWA2-43-13	1.000000
+f__GWA2-42-15	1.000000
+f__GWA2-42-14	1.000000
+f__GWA2-41-24	1.000000
+f__GWA2-38-27	1.000000
+f__GWA2-38-13	1.000000
+f__GWA2-38-11	1.000000
+f__GWA2-37-8	1.000000
+f__GWA2-36-10	1.000000
+f__GWA1-39-11	1.000000
+f__GCA-2729495	1.000000
+f__GCA-2717185	1.000000
+f__GCA-2696645	1.000000
+f__GCA-002791395	1.000000
+f__GCA-002780085	1.000000
+f__GCA-002748355	1.000000
+f__GCA-002719695	1.000000
+f__GCA-002718135	1.000000
+f__GCA-002707645	1.000000
+f__GCA-002705445	1.000000
+f__GCA-002687715	1.000000
+f__GCA-002686595	1.000000
+f__GCA-001735895	1.000000
+f__GBS-DC	1.000000
+f__GBS-2	1.000000
+f__GBS-1	1.000000
+f__Fusobacteriaceae	1.000000
+f__Frankiaceae	1.000000
+f__Francisellaceae	1.000000
+f__Flavobacteriaceae	1.000000
+f__Flammeovirgaceae	1.000000
+f__Fimbriimonadaceae	1.000000
+f__Filifactoraceae	1.000000
+f__Fictibacillaceae	1.000000
+f__Fibrobacteraceae	1.000000
+f__Fervidobacteriaceae	1.000000
+f__Ferrovibrionaceae	1.000000
+f__Ferrovaceae	1.000000
+f__Fermentibacteraceae	1.000000
+f__Fen-336	1.000000
+f__Fen-1342	1.000000
+f__Fastidiosipilaceae	1.000000
+f__F082	1.000000
+f__Exiguobacteraceae	1.000000
+f__Evansiaceae	1.000000
+f__Eubacteriaceae	1.000000
+f__Ethanoligenenaceae	1.000000
+f__Erysipelotrichaceae	1.000000
+f__EnvOPS12	1.000000
+f__Entotheonellaceae	1.000000
+f__Enterococcaceae	1.000000
+f__Enterobacteriaceae_A	1.000000
+f__Endozoicomonadaceae	1.000000
+f__Endomicrobiaceae	1.000000
+f__Emcibacteraceae	1.000000
+f__Elusimicrobiaceae	1.000000
+f__Elainellaceae	1.000000
+f__Egibacteraceae	1.000000
+f__Eggerthellaceae	1.000000
+f__Effusibacillaceae	1.000000
+f__Ectothiorhodospiraceae	1.000000
+f__EX4572-44	1.000000
+f__ETH-SRB1	1.000000
+f__E44-bin18	1.000000
+f__E44-bin15	1.000000
+f__E26-bin7	1.000000
+f__Dysgonomonadaceae	1.000000
+f__Dormibacteraceae	1.000000
+f__Dongiaceae	1.000000
+f__Domibacillaceae	1.000000
+f__Dissulfurispiraceae	1.000000
+f__Diplorickettsiaceae	1.000000
+f__Dictyoglomaceae	1.000000
+f__Dialisteraceae	1.000000
+f__Devosiaceae	1.000000
+f__Dethiosulfovibrionaceae	1.000000
+f__Dethiosulfatibacteraceae	1.000000
+f__Dethiobacteraceae	1.000000
+f__Desulfuromonadaceae	1.000000
+f__Desulfurococcaceae	1.000000
+f__Desulfurobacteriaceae	1.000000
+f__Desulfurivibrionaceae	1.000000
+f__Desulfovirgulaceae	1.000000
+f__Desulfovibrionaceae	1.000000
+f__Desulfotomaculaceae	1.000000
+f__Desulfosarcinaceae	1.000000
+f__Desulforudaceae	1.000000
+f__Desulforegulaceae	1.000000
+f__Desulfonauticaceae	1.000000
+f__Desulfonatronovibrionaceae	1.000000
+f__Desulfonatronaceae	1.000000
+f__Desulfomicrobiaceae	1.000000
+f__Desulfolunaceae	1.000000
+f__Desulfohalotomaculaceae	1.000000
+f__Desulfohalobiaceae	1.000000
+f__Desulfococcaceae	1.000000
+f__Desulfocapsaceae	1.000000
+f__Desulfobulbaceae	1.000000
+f__Desulfobacteraceae	1.000000
+f__Desulfobaccaceae	1.000000
+f__Desulfitobacteriaceae	1.000000
+f__Desulfitibacteraceae	1.000000
+f__Desulfatirhabdiaceae	1.000000
+f__Desulfatiglandaceae	1.000000
+f__Desulfatibacillaceae	1.000000
+f__Desulfarculaceae	1.000000
+f__Desulfallaceae	1.000000
+f__Desertifilaceae	1.000000
+f__Dermatophilaceae	1.000000
+f__Dermabacteraceae	1.000000
+f__Denitrovibrionaceae	1.000000
+f__Demequinaceae	1.000000
+f__Deinococcaceae	1.000000
+f__Dehalococcoidaceae	1.000000
+f__Dehalobacteriaceae	1.000000
+f__DTU086	1.000000
+f__DTU072	1.000000
+f__DTU049	1.000000
+f__DTU029	1.000000
+f__DTU025	1.000000
+f__DTU023	1.000000
+f__DTU014	1.000000
+f__DTU013	1.000000
+f__DTU012	1.000000
+f__DTU010	1.000000
+f__DTMQ01	1.000000
+f__DTJY01	1.000000
+f__DTJR01	1.000000
+f__DTIZ01	1.000000
+f__DT-91	1.000000
+f__DSTG01	1.000000
+f__DSQY01	1.000000
+f__DSPV01	1.000000
+f__DSM-9756	1.000000
+f__DSM-8532	1.000000
+f__DSM-6294	1.000000
+f__DSM-5069	1.000000
+f__DSM-45221	1.000000
+f__DSM-45169	1.000000
+f__DSM-44946	1.000000
+f__DSM-2933	1.000000
+f__DSM-27016	0.875000
+f__DSM-22653	1.000000
+f__DSM-21967	1.000000
+f__DSM-21159	1.000000
+f__DSM-18226	1.000000
+f__DSM-16500	1.000000
+f__DSM-1321	1.000000
+f__DRVO01	1.000000
+f__DRMV01	1.000000
+f__DHVEG-1	1.000000
+f__DG-74-1	1.000000
+f__DEV007	1.000000
+f__D37C17	1.000000
+f__D2472	1.000000
+f__D2-FULL-39-29	1.000000
+f__Cytophagaceae	1.000000
+f__Cycloclasticaceae	1.000000
+f__Cyclobacteriaceae	1.000000
+f__Cyanobiaceae	1.000000
+f__Cyanobacteriaceae	0.782609
+f__Cryomorphaceae	1.000000
+f__Crocinitomicaceae	1.000000
+f__Criblamydiaceae	1.000000
+f__Coxiellaceae	1.000000
+f__Coriobacteriaceae	1.000000
+f__Coprothermobacteraceae	1.000000
+f__Coprobacteraceae	1.000000
+f__Coprobacillaceae	1.000000
+f__Competibacteraceae	1.000000
+f__Colwellbacteraceae	1.000000
+f__Coleofasciculaceae	1.000000
+f__Clostridiaceae	1.000000
+f__Cloacimonadaceae	1.000000
+f__Chthonomonadaceae	1.000000
+f__Chthoniobacteraceae	1.000000
+f__Chrysiogenaceae	1.000000
+f__Chroococcidiopsidaceae	0.909091
+f__Chromulinavoraceae	1.000000
+f__Chromobacteriaceae	1.000000
+f__Chromatiaceae	1.000000
+f__Christensenellaceae	1.000000
+f__Chloroherpetonaceae	1.000000
+f__Chloroflexaceae	1.000000
+f__Chlorobiaceae	1.000000
+f__Chlamydiaceae	1.000000
+f__Chitinophagaceae	1.000000
+f__Chitinispirillaceae	1.000000
+f__Chitinibacteraceae	1.000000
+f__Chisholmbacteraceae	1.000000
+f__Chazhemtobacteraceae	1.000000
+f__Chamaesiphonaceae	1.000000
+f__Cellvibrionaceae	1.000000
+f__Cellulosilyticaceae	1.000000
+f__Cellulomonadaceae	1.000000
+f__Celerinatantimonadaceae	1.000000
+f__Caulobacteraceae	1.000000
+f__Catenulisporaceae	1.000000
+f__Catalimonadaceae	1.000000
+f__Casp-alpha2	1.000000
+f__Casimicrobiaceae	1.000000
+f__Carnobacteriaceae	1.000000
+f__Cardiobacteriaceae	1.000000
+f__Carboxydothermaceae	1.000000
+f__Campylobacteraceae	1.000000
+f__Caminicellaceae	1.000000
+f__Caloramatoraceae	1.000000
+f__Calescibacteriaceae	1.000000
+f__Caldisericaceae	1.000000
+f__Caldilineaceae	1.000000
+f__Caldicoprobacteraceae	1.000000
+f__Caldicellulosiruptoraceae	1.000000
+f__Caldibacillaceae	1.000000
+f__Caldanaerobiaceae	1.000000
+f__Caenarcanaceae	1.000000
+f__Caedimonadaceae	1.000000
+f__CSSed11-197	1.000000
+f__CSP1-6	1.000000
+f__CSP1-2	1.000000
+f__CSBR16-193	1.000000
+f__CSBR16-119	1.000000
+f__CR04bin15	1.000000
+f__CPR2	1.000000
+f__CG2-30-64-16	1.000000
+f__CG2-30-59-28	1.000000
+f__CG2-30-49-12	1.000000
+f__CG2-30-40-12	1.000000
+f__CG2-30-39-44	1.000000
+f__CG2-30-33-46	1.000000
+f__CG2-30-32-10	1.000000
+f__CG1-02-47-37	1.000000
+f__CG1-02-43-210	1.000000
+f__CG1-02-41-26	1.000000
+f__CG-Epi1	1.000000
+f__CF-121	1.000000
+f__CAIXNZ01	1.000000
+f__CAITNO01	1.000000
+f__CAG-977	1.000000
+f__CAG-917	1.000000
+f__CAG-826	1.000000
+f__CAG-74	1.000000
+f__CAG-698	1.000000
+f__CAG-552	1.000000
+f__CAG-508	1.000000
+f__CAG-382	1.000000
+f__CAG-314	1.000000
+f__CAG-313	1.000000
+f__CAG-312	1.000000
+f__CAG-288	1.000000
+f__CAG-272	1.000000
+f__CAG-239	1.000000
+f__CAG-138	1.000000
+f__CACIAM-69d	1.000000
+f__C00003060	1.000000
+f__Butyricicoccaceae	1.000000
+f__Burkholderiaceae_A	0.923077
+f__Burkholderiaceae	0.846491
+f__Bryobacteraceae	1.000000
+f__Brocadiaceae	1.000000
+f__Brevibacteriaceae	1.000000
+f__Brevibacillaceae	1.000000
+f__Brennerbacteraceae	1.000000
+f__Brachyspiraceae	1.000000
+f__Borreliaceae	1.000000
+f__Borkfalkiaceae	1.000000
+f__Blattabacteriaceae	1.000000
+f__Bin127	1.000000
+f__Bin125	1.000000
+f__Bifidobacteriaceae	1.000000
+f__Beutenbergiaceae	1.000000
+f__Bernardetiaceae	1.000000
+f__Berkiellaceae	1.000000
+f__Beijerinckiaceae	1.000000
+f__Beggiatoaceae	1.000000
+f__Barnesiellaceae	1.000000
+f__Baltobacteraceae	1.000000
+f__Balneolaceae	1.000000
+f__Bacteroidaceae	1.000000
+f__Bacillaceae_M	1.000000
+f__Bacillaceae_L	1.000000
+f__Bacillaceae_K	1.000000
+f__Bacillaceae_J	1.000000
+f__Bacillaceae_I	1.000000
+f__Bacillaceae_H	1.000000
+f__Bacillaceae_G	1.000000
+f__Bacillaceae_D	1.000000
+f__Bacillaceae_C	1.000000
+f__Bacillaceae_B	1.000000
+f__Bacillaceae	1.000000
+f__Babeliaceae	1.000000
+f__BMS3Abin05	1.000000
+f__BMS3ABIN01	1.000000
+f__BM512	1.000000
+f__BICA1-8	1.000000
+f__BACL12	1.000000
+f__BACL11	1.000000
+f__BA1	1.000000
+f__B68-G9	1.000000
+f__B48-G9	1.000000
+f__B4-G1	1.000000
+f__B32-G15	1.000000
+f__B3-TA06	1.000000
+f__B3-LCP	1.000000
+f__B26-1	1.000000
+f__B25	1.000000
+f__B24	1.000000
+f__B13-G15	1.000000
+f__B-1AR	1.000000
+f__B-17BO	1.000000
+f__Azospirillaceae	1.000000
+f__Azobacteroidaceae	1.000000
+f__Atopobiaceae	1.000000
+f__Ardenticatenaceae	1.000000
+f__Arcobacteraceae	1.000000
+f__Archaeoglobaceae	1.000000
+f__Arcanobacteraceae	1.000000
+f__Aquificaceae	1.000000
+f__Aquicultoraceae	1.000000
+f__Aquaspirillaceae	1.000000
+f__Antricoccaceae	1.000000
+f__Anstonellaceae	1.000000
+f__Anoxybacillaceae	1.000000
+f__Aneurinibacillaceae	1.000000
+f__Ancalomicrobiaceae	1.000000
+f__Anaplasmataceae	1.000000
+f__Anaerovoracaceae	1.000000
+f__Anaerotignaceae	1.000000
+f__Anaeroplasmataceae	1.000000
+f__Anaeromusaceae	1.000000
+f__Anaerolineaceae	1.000000
+f__Anaerohalosphaeraceae	1.000000
+f__Anaerofustaceae	1.000000
+f__Amphibacillaceae	1.000000
+f__Amorphaceae	1.000000
+f__Amoebophilaceae	1.000000
+f__Ammonificaceae	1.000000
+f__Aminobacteriaceae	1.000000
+f__Aminicenantaceae	1.000000
+f__Amesbacteraceae	1.000000
+f__Alteromonadaceae	1.000000
+f__Alkalispirochaetaceae	1.000000
+f__Alkalibacteraceae	1.000000
+f__Alkalibacillaceae	1.000000
+f__Alicyclobacillaceae	1.000000
+f__Alcanivoracaceae	1.000000
+f__Akkermansiaceae	1.000000
+f__Ahniellaceae	1.000000
+f__Afifellaceae	1.000000
+f__Aestuariivirgaceae	1.000000
+f__Aerophobaceae	1.000000
+f__Aeromonadaceae	1.000000
+f__Aerococcaceae	1.000000
+f__Adiutricaceae	1.000000
+f__Acutalibacteraceae	1.000000
+f__Actinopolymorphaceae	1.000000
+f__Actinomycetaceae	1.000000
+f__Actinomarinaceae	1.000000
+f__Aciduliprofundaceae	1.000000
+f__Acidobacteriaceae	1.000000
+f__Acidithiobacillaceae	1.000000
+f__Acidimicrobiaceae	1.000000
+f__Acidilobaceae	1.000000
+f__Acidibacillaceae	1.000000
+f__Acidaminococcaceae	1.000000
+f__Acidaminobacteraceae	0.888889
+f__Acholeplasmataceae	1.000000
+f__Acetonemaceae	1.000000
+f__Acetomicrobiaceae	1.000000
+f__Acetohalobiaceae	1.000000
+f__Acetobacteraceae	1.000000
+f__Acetivibrionaceae	1.000000
+f__AcAMD-5	1.000000
+f__ATM1	1.000000
+f__ANME-1	1.000000
+f__AMD01	1.000000
+f__AK92	1.000000
+f__AG1	1.000000
+f__AG-422-B15	1.000000
+f__AG-339-G14	0.727273
+f__AB-539-J10	1.000000
+f__AABM5-25-91	1.000000
+f__AAA536-G10	1.000000
+f__AAA164-E04	1.000000
+f__A4b	1.000000
+f__9FT-COMBO-53-11	1.000000
+f__70-9	1.000000
+f__46-47	1.000000
+f__40CM-2-53-6	1.000000
+f__34-128	1.000000
+f__33-17	1.000000
+f__32-111	1.000000
+f__20CM-2-55-15	1.000000
+f__2013Ark19i	1.000000
+f__2013-40CM-41-45	1.000000
+f__2-12-FULL-60-25	1.000000
+f__2-12-FULL-57-11	1.000000
+f__2-12-FULL-54-10	1.000000
+f__2-12-FULL-50-11	1.000000
+f__2-12-FULL-40-12	1.000000
+f__2-12-FULL-40-10	1.000000
+f__2-12-FULL-38-22	1.000000
+f__2-02-FULL-66-22	1.000000
+f__2-02-FULL-51-18	1.000000
+f__2-02-FULL-50-9b	1.000000
+f__2-02-FULL-50-16-A	1.000000
+f__2-02-FULL-49-11	1.000000
+f__2-02-FULL-48-14	1.000000
+f__2-02-FULL-48-12	1.000000
+f__2-02-FULL-43-11	1.000000
+f__2-02-FULL-40-12	1.000000
+f__2-02-FULL-39-32	1.000000
+f__2-02-FULL-39-11	1.000000
+f__2-02-FULL-35-15	1.000000
+f__2-01-FULL-66-17	1.000000
+f__2-01-FULL-58-14	1.000000
+f__2-01-FULL-56-20	1.000000
+f__2-01-FULL-52-15	1.000000
+f__2-01-FULL-51-21	1.000000
+f__2-01-FULL-50-11	1.000000
+f__2-01-FULL-47-10	1.000000
+f__2-01-FULL-46-14	1.000000
+f__2-01-FULL-45-33	1.000000
+f__2-01-FULL-45-11	1.000000
+f__2-01-FULL-45-10	1.000000
+f__2-01-FULL-43-14	1.000000
+f__2-01-FULL-41-18	1.000000
+f__2-01-FULL-40-14	1.000000
+f__2-01-FULL-39-33	1.000000
+f__2-01-FULL-39-13	1.000000
+f__1604HC	1.000000
+f__13-1-40CM-64-14	1.000000
+f__1-14-2-50-48-13	1.000000
+f__1-14-0-10-44-23	1.000000
+f__1-14-0-10-42-19	1.000000
+f__1-14-0-10-40-38	1.000000
+f__02-FULL-45-10c	1.000000
+f__01-FULL-45-10b	1.000000
+g__Zymomonas	1.000000
+g__Zymobacter	1.000000
+g__Zobellia	1.000000
+g__Zhouia	1.000000
+g__Zhongshania	1.000000
+g__Yoonia	1.000000
+g__Yonghaparkia	1.000000
+g__Yersinia	1.000000
+g__YC2-FULL-38-9	1.000000
+g__YC12-FULL-57-11	1.000000
+g__YA12-FULL-60-10	1.000000
+g__YA12-FULL-51-18	1.000000
+g__Xylella	1.000000
+g__Xylanimonas	1.000000
+g__Xenorhabdus	1.000000
+g__Xanthomonas_A	1.000000
+g__Xanthomonas	1.000000
+g__Xanthobacter	1.000000
+g__XYD2-FULL-41-8	1.000000
+g__XYD2-FULL-41-16	1.000000
+g__XYD2-FULL-39-9	1.000000
+g__XYD12-FULL-36-8	1.000000
+g__XYD1-FULL-46-19	1.000000
+g__XYD1-FULL-40-9	1.000000
+g__XYD1-FULL-39-28	1.000000
+g__XYD1-37-29	1.000000
+g__XYC2-FULL-47-12	1.000000
+g__XYC2-FULL-46-14	1.000000
+g__XYC2-FULL-41-22	1.000000
+g__XYC2-FULL-37-10	1.000000
+g__XYB2-FULL-50-12	1.000000
+g__XYB2-FULL-45-11	1.000000
+g__XYB2-FULL-38-15	1.000000
+g__XYB2-FULL-36-35	1.000000
+g__XYB12-FULL-50-7	1.000000
+g__XYB12-FULL-38-5	1.000000
+g__XYB1-FULL-47-11	1.000000
+g__XYB1-FULL-42-16	1.000000
+g__XYB1-40-15	1.000000
+g__XYB1-36-10	1.000000
+g__XYA2-FULL-47-53	1.000000
+g__XYA2-FULL-47-19	1.000000
+g__XYA2-FULL-43-10	1.000000
+g__XYA2-FULL-35-8	1.000000
+g__Wolbachia	1.000000
+g__Wohlfahrtiimonas	1.000000
+g__Winogradskyella	1.000000
+g__Winkia	1.000000
+g__Williamsoniiplasma	1.000000
+g__Williamsia	1.000000
+g__Wigglesworthia	1.000000
+g__Wenzhouxiangella	1.000000
+g__Weizmannia	1.000000
+g__Weissella	1.000000
+g__Weimeria	1.000000
+g__WYBL01	1.000000
+g__WRMH01	1.000000
+g__WRJC01	1.000000
+g__WQSK01	1.000000
+g__WO2-FULL-40-11	1.000000
+g__WO2-FULL-39-9	1.000000
+g__WO2-FULL-39-10	1.000000
+g__WO2-54-10	1.000000
+g__WO2-49-40	1.000000
+g__WO2-48-25	1.000000
+g__WO2-47-17b	1.000000
+g__WO2-46-25	1.000000
+g__WO2-44-18	1.000000
+g__WO2-43-9	1.000000
+g__WO2-35-19	1.000000
+g__WO2-01-48-18	1.000000
+g__WM01	1.000000
+g__WGA-3G	1.000000
+g__W498	1.000000
+g__Vulcanococcus	1.000000
+g__Vulcanisaeta	1.000000
+g__Vogesella	1.000000
+g__Vitreoscilla	1.000000
+g__Virgibacillus	1.000000
+g__Vibrio	1.000000
+g__Ventrimonas	1.000000
+g__Velocimicrobium	1.000000
+g__Veillonella_A	1.000000
+g__Veillonella	1.000000
+g__Variovorax	1.000000
+g__Varibaculum	1.000000
+g__Vagococcus_D	1.000000
+g__Vagococcus_A	1.000000
+g__Vagococcus	1.000000
+g__VYCW01	1.000000
+g__VXNJ01	1.000000
+g__VXMN01	1.000000
+g__VFHP01	1.000000
+g__VBOC01	1.000000
+g__Urinicoccus	1.000000
+g__Ureibacillus	1.000000
+g__Ureaplasma	1.000000
+g__UphvI-Ar2	1.000000
+g__Udaeobacter	1.000000
+g__UWMA-0277	1.000000
+g__UTBCD1	1.000000
+g__URHD0088	1.000000
+g__UPXZ01	1.000000
+g__UM-FILTER-47-13	1.000000
+g__UM-FILTER-43-11-A	1.000000
+g__UM-FILTER-43-11	1.000000
+g__UM-FILTER-42-14	1.000000
+g__UM-FILTER-40-11	1.000000
+g__UBA9988	1.000000
+g__UBA9983	1.000000
+g__UBA9978	1.000000
+g__UBA9973	1.000000
+g__UBA9959	1.000000
+g__UBA9942	1.000000
+g__UBA9934	1.000000
+g__UBA9933	1.000000
+g__UBA9910	1.000000
+g__UBA974	1.000000
+g__UBA9732	1.000000
+g__UBA9715	1.000000
+g__UBA9659	1.000000
+g__UBA9645	1.000000
+g__UBA9644	1.000000
+g__UBA964	1.000000
+g__UBA9637	1.000000
+g__UBA9634	1.000000
+g__UBA9631	1.000000
+g__UBA9627	1.000000
+g__UBA9611	1.000000
+g__UBA9579	1.000000
+g__UBA953	1.000000
+g__UBA952	1.000000
+g__UBA95	1.000000
+g__UBA946	1.000000
+g__UBA9337	1.000000
+g__UBA918	1.000000
+g__UBA9145	1.000000
+g__UBA8950	1.000000
+g__UBA8914	1.000000
+g__UBA8904	1.000000
+g__UBA868	1.000000
+g__UBA8592	1.000000
+g__UBA8525	1.000000
+g__UBA8517	1.000000
+g__UBA8515	1.000000
+g__UBA8498	1.000000
+g__UBA8475	1.000000
+g__UBA8473	1.000000
+g__UBA8438	1.000000
+g__UBA8316	1.000000
+g__UBA8309	1.000000
+g__UBA8087	1.000000
+g__UBA7522	1.000000
+g__UBA7441	1.000000
+g__UBA7388	1.000000
+g__UBA737	1.000000
+g__UBA7359	1.000000
+g__UBA721	1.000000
+g__UBA7173	1.000000
+g__UBA71	1.000000
+g__UBA6382	1.000000
+g__UBA636	1.000000
+g__UBA6175	1.000000
+g__UBA6170	1.000000
+g__UBA6163	1.000000
+g__UBA6107	1.000000
+g__UBA6092	1.000000
+g__UBA6065	1.000000
+g__UBA6024	1.000000
+g__UBA5951	1.000000
+g__UBA5946	1.000000
+g__UBA5941	1.000000
+g__UBA5799	1.000000
+g__UBA5619	1.000000
+g__UBA5232	1.000000
+g__UBA5004	1.000000
+g__UBA4951	1.000000
+g__UBA4923	1.000000
+g__UBA4810	1.000000
+g__UBA4735	1.000000
+g__UBA4720	1.000000
+g__UBA460	1.000000
+g__UBA4466	1.000000
+g__UBA4421	1.000000
+g__UBA4179	1.000000
+g__UBA4057	1.000000
+g__UBA4054	1.000000
+g__UBA3947	1.000000
+g__UBA3789	1.000000
+g__UBA3439	1.000000
+g__UBA3207	1.000000
+g__UBA3006	1.000000
+g__UBA2982	1.000000
+g__UBA2968	1.000000
+g__UBA2834	1.000000
+g__UBA2645	1.000000
+g__UBA2450	1.000000
+g__UBA2421	1.000000
+g__UBA2284	1.000000
+g__UBA2277	1.000000
+g__UBA2262	1.000000
+g__UBA2256	1.000000
+g__UBA2250	1.000000
+g__UBA2242	1.000000
+g__UBA2212	1.000000
+g__UBA2206	1.000000
+g__UBA2163	1.000000
+g__UBA2135	1.000000
+g__UBA2126	1.000000
+g__UBA2100	1.000000
+g__UBA1924	1.000000
+g__UBA1844	1.000000
+g__UBA1711	1.000000
+g__UBA1573	1.000000
+g__UBA1568	1.000000
+g__UBA1561	1.000000
+g__UBA1559	1.000000
+g__UBA1557	1.000000
+g__UBA1551	1.000000
+g__UBA1550	1.000000
+g__UBA1547	1.000000
+g__UBA1546	1.000000
+g__UBA1543	1.000000
+g__UBA1539	1.000000
+g__UBA1450	1.000000
+g__UBA1436	1.000000
+g__UBA1413	1.000000
+g__UBA1412	1.000000
+g__UBA1406	1.000000
+g__UBA1367	1.000000
+g__UBA1364	1.000000
+g__UBA1328	1.000000
+g__UBA1268	1.000000
+g__UBA12499	1.000000
+g__UBA1248	1.000000
+g__UBA12478	1.000000
+g__UBA12473	1.000000
+g__UBA12472	1.000000
+g__UBA12470	1.000000
+g__UBA12465	1.000000
+g__UBA12463	1.000000
+g__UBA12454	1.000000
+g__UBA12420	1.000000
+g__UBA12411	1.000000
+g__UBA12409	1.000000
+g__UBA12405	1.000000
+g__UBA12403	1.000000
+g__UBA12402	1.000000
+g__UBA12395	1.000000
+g__UBA12393	1.000000
+g__UBA12294	1.000000
+g__UBA12191	1.000000
+g__UBA12158	1.000000
+g__UBA12135	1.000000
+g__UBA12108	1.000000
+g__UBA12088	1.000000
+g__UBA12087	1.000000
+g__UBA12086	1.000000
+g__UBA12079	1.000000
+g__UBA12078	1.000000
+g__UBA12077	1.000000
+g__UBA12075	1.000000
+g__UBA12068	1.000000
+g__UBA12059	1.000000
+g__UBA12053	1.000000
+g__UBA12049	1.000000
+g__UBA12044	1.000000
+g__UBA12042	1.000000
+g__UBA12028	1.000000
+g__UBA12026	1.000000
+g__UBA11996	1.000000
+g__UBA11740	1.000000
+g__UBA1174	1.000000
+g__UBA1172	1.000000
+g__UBA11713	1.000000
+g__UBA11712	1.000000
+g__UBA11703	1.000000
+g__UBA11654	1.000000
+g__UBA11650	1.000000
+g__UBA1162	1.000000
+g__UBA11426	1.000000
+g__UBA11361	1.000000
+g__UBA1096	1.000000
+g__UBA1067	1.000000
+g__UBA10452	1.000000
+g__UBA10365	1.000000
+g__UBA10364	1.000000
+g__UBA10212	1.000000
+g__UBA1020	1.000000
+g__UBA10190	1.000000
+g__UBA10185	1.000000
+g__UBA10183	1.000000
+g__UBA10181	1.000000
+g__UBA10165	1.000000
+g__UBA10151	1.000000
+g__UBA10146	1.000000
+g__UBA1014	1.000000
+g__UBA10138	1.000000
+g__UBA10133	1.000000
+g__UBA10122	1.000000
+g__UBA10119	1.000000
+g__UBA10108	1.000000
+g__UBA10105	1.000000
+g__UBA10103	1.000000
+g__UBA10102	1.000000
+g__UBA10092	1.000000
+g__UBA10025	1.000000
+g__UBA10014	1.000000
+g__UBA10009	1.000000
+g__UBA10002	1.000000
+g__Turicibacter	1.000000
+g__Tullyiplasma	1.000000
+g__Tsukamurella	1.000000
+g__Trueperella	1.000000
+g__Tropicimonas	1.000000
+g__Trichormus	1.000000
+g__Trichodesmium	1.000000
+g__Trichococcus	1.000000
+g__Treponema_F	1.000000
+g__Treponema_D	1.000000
+g__Treponema_C	1.000000
+g__Treponema_B	1.000000
+g__Treponema	1.000000
+g__Tranquillimonas	1.000000
+g__Tractidigestivibacter	1.000000
+g__Tolypothrix_A	1.000000
+g__Tokpelaia_A	1.000000
+g__Tidjanibacter	1.000000
+g__Thiothrix	1.000000
+g__Thiomonas	1.000000
+g__Thiomicrospira	1.000000
+g__Thiomicrorhabdus	1.000000
+g__Thiomargarita	1.000000
+g__Thiolinea	1.000000
+g__Thiolapillus	1.000000
+g__Thiohalocapsa	1.000000
+g__Thiodubiliella	1.000000
+g__Thiodiazotropha	1.000000
+g__Thioclava	1.000000
+g__Thiobacillus	1.000000
+g__Thioalkalivibrio_B	1.000000
+g__Thioalkalivibrio_A	1.000000
+g__Thioalkalivibrio	1.000000
+g__Thermus	1.000000
+g__Thermovirga	1.000000
+g__Thermotoga	1.000000
+g__Thermosynechococcus	1.000000
+g__Thermosulfidibacter	1.000000
+g__Thermosipho	1.000000
+g__Thermoproteus	1.000000
+g__Thermoplasma	1.000000
+g__Thermonema	1.000000
+g__Thermomonas	1.000000
+g__Thermogutta	1.000000
+g__Thermogemmatispora	1.000000
+g__Thermofilum_B	1.000000
+g__Thermodesulfovibrio	1.000000
+g__Thermodesulfobacterium	1.000000
+g__Thermodesulfatator	1.000000
+g__Thermocrispum	1.000000
+g__Thermocrinis	1.000000
+g__Thermococcus_B	1.000000
+g__Thermococcus_A	1.000000
+g__Thermococcus	1.000000
+g__Thermoclostridium_A	1.000000
+g__Thermoclostridium	1.000000
+g__Thermocladium	1.000000
+g__Thermoanaerobacterium	1.000000
+g__Thermoanaerobacter	1.000000
+g__Thermoactinomyces	1.000000
+g__Thermicanus	1.000000
+g__Thermanaerovibrio	1.000000
+g__Thermaerobacter	1.000000
+g__Thermacetogenium	1.000000
+g__Thauera	1.000000
+g__Thalassotalea_A	1.000000
+g__Thalassospira	1.000000
+g__Thalassobius	1.000000
+g__Thalassarchaeum	1.000000
+g__Tetrasphaera_A	1.000000
+g__Tetragenococcus	1.000000
+g__Terrimonas	1.000000
+g__Terriglobus	1.000000
+g__Terricaulis	1.000000
+g__Terribacillus	1.000000
+g__Terracidiphilus	1.000000
+g__Terrabacter	1.000000
+g__Termitinema	1.000000
+g__Teredinibacter	1.000000
+g__Terasakiella	1.000000
+g__Tepidiphilus	1.000000
+g__Tepidiforma	1.000000
+g__Tepidibacillus_A	1.000000
+g__Tepidanaerobacter	1.000000
+g__Tener-01	1.000000
+g__Tenacibaculum	1.000000
+g__Tc-Br11	1.000000
+g__Taylorella	1.000000
+g__Tatlockia	1.000000
+g__Tabrizicola	1.000000
+g__TTA-H9	1.000000
+g__TMED54	1.000000
+g__TMED48	1.000000
+g__TMED25	1.000000
+g__TMED23	1.000000
+g__TMED15	1.000000
+g__TMED14	1.000000
+g__TMED112	1.000000
+g__TMED108	1.000000
+g__TMED-70	1.000000
+g__TCS61	1.000000
+g__TCS55	1.000000
+g__T78	1.000000
+g__T3SED10-354	1.000000
+g__T1SED10-81	1.000000
+g__Syntrophotalea_A	1.000000
+g__Syntrophorhabdus	1.000000
+g__Syntrophomonas	1.000000
+g__Synechocystis	1.000000
+g__Synechococcus_E	1.000000
+g__Synechococcus_C	1.000000
+g__Synechococcus_B	1.000000
+g__Synechococcus	1.000000
+g__Suttonella	1.000000
+g__Sutterella	1.000000
+g__Sulfurovum	1.000000
+g__Sulfurospirillum	1.000000
+g__Sulfurimonas	1.000000
+g__Sulfurihydrogenibium	1.000000
+g__Sulfurifustis	1.000000
+g__Sulfuricurvum	1.000000
+g__Sulfuracidifex	1.000000
+g__Sulfolobus	1.000000
+g__Sulfobacillus	1.000000
+g__Sulfitobacter	1.000000
+g__Sulcia	1.000000
+g__Suicoccus	1.000000
+g__Succinivibrio	1.000000
+g__Succiniclasticum	1.000000
+g__Streptosporangium	1.000000
+g__Streptomyces	1.000000
+g__Streptococcus	1.000000
+g__Streptobacillus	1.000000
+g__Streptacidiphilus	1.000000
+g__Stomatobaculum	1.000000
+g__Stieleria	1.000000
+g__Sterolibacterium	1.000000
+g__Stercorousia	1.000000
+g__Stenotrophomonas	1.000000
+g__Staphylothermus	1.000000
+g__Staphylococcus	1.000000
+g__Sporosarcina	1.000000
+g__Sporolactobacillus	1.000000
+g__Spongiibacter	1.000000
+g__Spirosoma	1.000000
+g__Spiroplasma_D	1.000000
+g__Spiroplasma_A	1.000000
+g__Spiroplasma	1.000000
+g__Spirochaeta_A	1.000000
+g__Spiro-10	1.000000
+g__Spirillospora	1.000000
+g__Spiribacter	1.000000
+g__Sphingorhabdus_B	1.000000
+g__Sphingopyxis	1.000000
+g__Sphingomonas_N	1.000000
+g__Sphingomonas_E	1.000000
+g__Sphingomonas	1.000000
+g__Sphingomicrobium	1.000000
+g__Sphingobium	1.000000
+g__Sphingobacterium	1.000000
+g__Sphaerochaeta	1.000000
+g__Specibacter	1.000000
+g__SpSt-583	1.000000
+g__SpSt-225	1.000000
+g__Solirubrobacter	1.000000
+g__Solincola	1.000000
+g__Solimonas	1.000000
+g__Solidesulfovibrio	1.000000
+g__Solibacillus	1.000000
+g__Sodaliphilus	1.000000
+g__SoEE	1.000000
+g__Sneathiella	1.000000
+g__Smithella	1.000000
+g__Slackia_A	1.000000
+g__Slackia	1.000000
+g__Skermanella	1.000000
+g__Sinorhizobium	1.000000
+g__Sinomonas	1.000000
+g__Siminovitchia	1.000000
+g__Similichlamydia	1.000000
+g__Simiduia	1.000000
+g__Sideroxydans	1.000000
+g__Shimia	1.000000
+g__Shimazuella	1.000000
+g__Shewanella	1.000000
+g__Sharpea	1.000000
+g__Serratia_D	0.666667
+g__Serpentinomonas	1.000000
+g__Serinicoccus	1.000000
+g__Sellimonas	1.000000
+g__Selenomonas_A	1.000000
+g__Segniliparus	1.000000
+g__Sediminibacterium	1.000000
+g__Sediminibacillus	1.000000
+g__Sedimenticola	1.000000
+g__Secundilactobacillus	1.000000
+g__Scrofimicrobium	1.000000
+g__Schleiferilactobacillus	1.000000
+g__Schaedlerella	1.000000
+g__Scatocola	1.000000
+g__Scardovia	1.000000
+g__Scalindua	1.000000
+g__SbD1	1.000000
+g__Saprospira	1.000000
+g__Sandarakinorhabdus	1.000000
+g__Salsuginibacillus	1.000000
+g__Salmonella	1.000000
+g__Salisediminibacterium	1.000000
+g__Salipiger	1.000000
+g__Salipaludibacillus	1.000000
+g__Salinivirga	1.000000
+g__Salinivibrio	1.000000
+g__Salinisphaera	1.000000
+g__Salinimicrobium	1.000000
+g__Salinicola	1.000000
+g__Salinicoccus	1.000000
+g__Salinibacter	1.000000
+g__Salinarimonas	1.000000
+g__Salimicrobium	1.000000
+g__Salibacterium	1.000000
+g__Saccharopolyspora	1.000000
+g__Saccharomonospora	1.000000
+g__Saccharolobus	1.000000
+g__Saccharofermentans	1.000000
+g__Saccharococcus	1.000000
+g__Saccharimonas	1.000000
+g__Saccharicrinis	1.000000
+g__Saccharibacillus	1.000000
+g__Sabulitectum	1.000000
+g__SZZW01	0.666667
+g__SZUA-47	1.000000
+g__SZUA-309	1.000000
+g__SZUA-161	1.000000
+g__SYFN01	1.000000
+g__SYAC01	1.000000
+g__SW10	1.000000
+g__SURF-37	1.000000
+g__SOIL31	1.000000
+g__SMVS01	1.000000
+g__SMTZ1-83	1.000000
+g__SMTZ1-45	1.000000
+g__SM23-73-3	1.000000
+g__SM23-62	1.000000
+g__SM23-61	1.000000
+g__SM23-42	1.000000
+g__SM1-50	1.000000
+g__SM1-40	1.000000
+g__SLFT01	1.000000
+g__SKVR01	1.000000
+g__SKVJ01	1.000000
+g__SKLG01	1.000000
+g__SHUM01	1.000000
+g__SG8-4	1.000000
+g__SG8-13	1.000000
+g__SFMI01	1.000000
+g__SDRW01	1.000000
+g__SCTA01	1.000000
+g__SCN-69-89	1.000000
+g__SCGC-AAA471-B05	1.000000
+g__SCGC-AAA076-P13	1.000000
+g__SCADC1-2-3	1.000000
+g__SAR86A	1.000000
+g__S5133MH16	1.000000
+g__S5-A14a	1.000000
+g__S20-B6	1.000000
+g__S15-B10	1.000000
+g__Ruthenibacterium	1.000000
+g__Runella	1.000000
+g__Ruminococcus_G	1.000000
+g__Ruminococcus_F	1.000000
+g__Ruminococcus_E	1.000000
+g__Ruminococcus_D	1.000000
+g__Ruminococcus_C	1.000000
+g__Ruminococcus	1.000000
+g__Ruminobacter	1.000000
+g__Ruminiclostridium_E	0.750000
+g__Ruminiclostridium	1.000000
+g__Ruegeria	1.000000
+g__Rubrivivax	1.000000
+g__Rubritalea	1.000000
+g__Rubripirellula	1.000000
+g__Rubrimentiphilum	1.000000
+g__Rubinisphaera	1.000000
+g__Rubidus	1.000000
+g__Rubellimicrobium	1.000000
+g__Rs1	1.000000
+g__Rothia	1.000000
+g__Rossellomorea	1.000000
+g__Roseovarius	1.000000
+g__Roseomonas_A	1.000000
+g__Roseomonas	1.000000
+g__Roseofilum	1.000000
+g__Roseobacter	1.000000
+g__Rosenbergiella	1.000000
+g__Roseivivax	1.000000
+g__Roseivirga	1.000000
+g__Roseinatronobacter	1.000000
+g__Roseimaritima	1.000000
+g__Roseiflexus	1.000000
+g__Roseicyclus	1.000000
+g__Roseibium	1.000000
+g__Roseibacillus_B	1.000000
+g__Roseiarcus	1.000000
+g__Roseburia	1.000000
+g__Romboutsia_D	1.000000
+g__Rodentibacter	1.000000
+g__Robiginitalea	1.000000
+g__Robertmurraya	1.000000
+g__Robbsia	1.000000
+g__Rippkaea	1.000000
+g__Riesia	1.000000
+g__Riemerella	1.000000
+g__Rickettsia	1.000000
+g__Richelia	1.000000
+g__Rhodovulum	1.000000
+g__Rhodopseudomonas	1.000000
+g__Rhodopirellula	1.000000
+g__Rhodoluna	1.000000
+g__Rhodohalobacter	1.000000
+g__Rhodoglobus	1.000000
+g__Rhodoferax	1.000000
+g__Rhodococcus_B	1.000000
+g__Rhodococcus	1.000000
+g__Rhodobaculum	1.000000
+g__Rhodobacter_B	1.000000
+g__Rhodanobacter	1.000000
+g__Rhizorhabdus	1.000000
+g__Rhizomicrobium	1.000000
+g__Rhizobium	1.000000
+g__Rhizobacter	1.000000
+g__Rheinheimera	1.000000
+g__Reyranella	1.000000
+g__Reinekea	1.000000
+g__Reichenbachiella	1.000000
+g__Rectinema	1.000000
+g__Rathayibacter	1.000000
+g__Rarobacter	1.000000
+g__Raphidiopsis	1.000000
+g__Raoultibacter	1.000000
+g__Ramlibacter	1.000000
+g__Ralstonia	1.000000
+g__RUG14515	1.000000
+g__RUG13038	1.000000
+g__RPRC01	1.000000
+g__RKRQ01	1.000000
+g__RHAI01	1.000000
+g__RF16	1.000000
+g__REDSEA-S09-B13	1.000000
+g__RBG-16-68-12	1.000000
+g__RBG-16-64-43	1.000000
+g__RBG-16-57-9	1.000000
+g__RBG-16-52-11	1.000000
+g__RBG-16-49-21	1.000000
+g__RBG-16-39-9b	1.000000
+g__RBG-16-34-14	1.000000
+g__RBG-13-53-26	1.000000
+g__RBG-13-51-18	1.000000
+g__RBG-13-46-13	1.000000
+g__RBG-1	1.000000
+g__RAAP-2	1.000000
+g__Qipengyuania	1.000000
+g__QQUY01	1.000000
+g__QHYP01	1.000000
+g__QHVH01	1.000000
+g__Pyrodictium	1.000000
+g__Pyrococcus	1.000000
+g__Pyrobaculum	1.000000
+g__Pusillimonas_A	1.000000
+g__Puia	1.000000
+g__Psychroserpens	1.000000
+g__Psychromonas	1.000000
+g__Psychroflexus	1.000000
+g__Psychrobacter	1.000000
+g__Psychrobacillus	1.000000
+g__Psittacicella	1.000000
+g__Pseudoxanthomonas_A	0.800000
+g__Pseudoxanthomonas	1.000000
+g__Pseudovibrio	1.000000
+g__Pseudothioglobus	1.000000
+g__Pseudothermotoga_B	1.000000
+g__Pseudothermotoga_A	1.000000
+g__Pseudosphingobacterium	1.000000
+g__Pseudoruminococcus_A	1.000000
+g__Pseudorhodoferax	1.000000
+g__Pseudorhodobacter	1.000000
+g__Pseudorhizobium	1.000000
+g__Pseudoramibacter	1.000000
+g__Pseudophaeobacter	1.000000
+g__Pseudooceanicola	1.000000
+g__Pseudonocardia	1.000000
+g__Pseudomonas_F	1.000000
+g__Pseudomonas_E	0.983051
+g__Pseudomonas_D	1.000000
+g__Pseudomonas_C	1.000000
+g__Pseudomonas_B	1.000000
+g__Pseudomonas_A	1.000000
+g__Pseudomonas	1.000000
+g__Pseudomaricurvus	1.000000
+g__Pseudoleptotrichia	1.000000
+g__Pseudolabrys	1.000000
+g__Pseudohongiella	1.000000
+g__Pseudoduganella	1.000000
+g__Pseudodesulfovibrio	1.000000
+g__Pseudoclavibacter	1.000000
+g__Pseudobutyrivibrio	1.000000
+g__Pseudobacteroides	1.000000
+g__Pseudobacillus	1.000000
+g__Pseudoalteromonas	1.000000
+g__Pseudidiomarina	1.000000
+g__Pseudarthrobacter	1.000000
+g__Pseudanabaena	1.000000
+g__Providencia	1.000000
+g__Protochlamydia	1.000000
+g__Proteus	1.000000
+g__Proteocatella	1.000000
+g__Proteiniphilum	1.000000
+g__Proteiniclasticum	1.000000
+g__Prosthecobacter	1.000000
+g__Propionispora	1.000000
+g__Propionimicrobium	1.000000
+g__Propionibacterium	1.000000
+g__Profundibacter	1.000000
+g__Prochloron	1.000000
+g__Prochlorococcus_D	1.000000
+g__Prochlorococcus_C	1.000000
+g__Prochlorococcus_B	1.000000
+g__Prochlorococcus_A	1.000000
+g__Prochlorococcus	1.000000
+g__Priestia	1.000000
+g__Prevotella	1.000000
+g__Pragia	1.000000
+g__Poseidonia	1.000000
+g__Portiera	1.000000
+g__Porphyromonas_A	1.000000
+g__Porphyromonas	1.000000
+g__Pontimonas	1.000000
+g__Pontiella	1.000000
+g__Pontibacter	1.000000
+g__Pontibacillus	1.000000
+g__Polynucleobacter	1.000000
+g__Polaromonas	1.000000
+g__Polaribacter	1.000000
+g__Pleomorphomonas	1.000000
+g__Planococcus	1.000000
+g__Planobacterium	1.000000
+g__Planktothrix	1.000000
+g__Planktotalea	1.000000
+g__Planktophila	1.000000
+g__Planktomarina	1.000000
+g__Planifilum	1.000000
+g__Planctopirus	1.000000
+g__Piscirickettsia	1.000000
+g__Pisciglobus	1.000000
+g__Pirellula_B	1.000000
+g__Pigmentiphaga	1.000000
+g__Phytoplasma	1.000000
+g__Phyllobacterium	1.000000
+g__Phycicoccus	1.000000
+g__Photobacterium	1.000000
+g__Phormidium_A	1.000000
+g__Phormidesmis_A	1.000000
+g__Phormidesmis	1.000000
+g__Phocaeicola	1.000000
+g__Phnomibacter	1.000000
+g__Phil1	1.000000
+g__Phenylobacterium	1.000000
+g__Phascolarctobacterium_A	1.000000
+g__Phascolarctobacterium	1.000000
+g__Phaeospirillum	1.000000
+g__Phaeobacter	1.000000
+g__Petrotoga	1.000000
+g__Petrimonas	1.000000
+g__Persephonella	1.000000
+g__Peribacter	1.000000
+g__Peribacillus	1.000000
+g__Peptostreptococcus	1.000000
+g__Peptoniphilus_E	1.000000
+g__Peptoniphilus_C	1.000000
+g__Peptoniphilus_B	1.000000
+g__Peptoniphilus_A	1.000000
+g__Peptoanaerobacter	1.000000
+g__Peptidiphaga	1.000000
+g__Pelotomaculum_B	1.000000
+g__Pelosinus	1.000000
+g__Pelobium	1.000000
+g__Pelistega	1.000000
+g__Pelagibacterium	1.000000
+g__Pelagibacter_A	1.000000
+g__Pelagibacter	1.000000
+g__Pedococcus	1.000000
+g__Pedobacter	1.000000
+g__Pediococcus	1.000000
+g__PeH17	1.000000
+g__Pauljensenia	1.000000
+g__Paucilactobacillus	1.000000
+g__Patulibacter	1.000000
+g__Pasteurella	1.000000
+g__Parvularcula	1.000000
+g__Parvibaculum	1.000000
+g__Parolsenella	1.000000
+g__Parendozoicomonas	1.000000
+g__Parasutterella	1.000000
+g__Pararhizobium	1.000000
+g__Pararheinheimera	1.000000
+g__Paraprevotella	1.000000
+g__Paramuribaculum	1.000000
+g__Paraglaciecola	1.000000
+g__Parageobacillus	1.000000
+g__Parafannyhessea	1.000000
+g__Paracoccus	1.000000
+g__Paraclostridium	1.000000
+g__Paraburkholderia	1.000000
+g__Parabacteroides	1.000000
+g__Pantoea_A	1.000000
+g__Pantoea	0.666667
+g__Pandoraea	1.000000
+g__Paludisphaera	1.000000
+g__Paludibacterium	1.000000
+g__Paludibacter	1.000000
+g__Palsa-1233	1.000000
+g__Palleronia	1.000000
+g__Paenisporosarcina	1.000000
+g__Paenibacillus_Z	1.000000
+g__Paenibacillus_S	1.000000
+g__Paenibacillus_O	1.000000
+g__Paenibacillus_L	1.000000
+g__Paenibacillus_K	1.000000
+g__Paenibacillus_H	1.000000
+g__Paenibacillus_G	1.000000
+g__Paenibacillus_E	1.000000
+g__Paenibacillus_D	1.000000
+g__Paenibacillus_C	1.000000
+g__Paenibacillus_B	1.000000
+g__Paenibacillus_A	1.000000
+g__Paenibacillus	1.000000
+g__Paenarthrobacter	1.000000
+g__Paenalcaligenes	1.000000
+g__Pacificimonas	1.000000
+g__Paceibacter	1.000000
+g__PWYM01	1.000000
+g__PWPS01	1.000000
+g__PWEK01	1.000000
+g__PSRF01	1.000000
+g__PNKF01	1.000000
+g__PLanc-01	1.000000
+g__PLOWO2-12-39-15	1.000000
+g__PEXW01	1.000000
+g__PALSA-986	1.000000
+g__Oxalobacter	1.000000
+g__Ottowia	1.000000
+g__Oscillibacter	1.000000
+g__Ornithospirochaeta	1.000000
+g__Ornithobacterium	1.000000
+g__Ornithinicoccus	1.000000
+g__Ornithinibacillus	1.000000
+g__Orientia	1.000000
+g__Oribacterium	1.000000
+g__Onthovivens	1.000000
+g__Onthomonas	1.000000
+g__Olsenella_F	1.000000
+g__Olsenella	1.000000
+g__Oligella	1.000000
+g__Oleidesulfovibrio	1.000000
+g__Olegusella	1.000000
+g__Oenococcus	1.000000
+g__Oecophyllibacter	1.000000
+g__Odoribacter	1.000000
+g__Octadecabacter	1.000000
+g__Ochrobactrum_A	1.000000
+g__Oceanospirillum	1.000000
+g__Oceanobacillus	1.000000
+g__Oceanispirochaeta	1.000000
+g__Oceanisphaera	1.000000
+g__Oceaniglobus	1.000000
+g__Oceanicola	1.000000
+g__Oceanicaulis	1.000000
+g__OXYD1-FULL-39-9	1.000000
+g__OXYB2-FULL-48-7	1.000000
+g__OXYB2-FULL-41-6	1.000000
+g__OPU3-GD-OMZ	1.000000
+g__OMJO01	1.000000
+g__OLB19	1.000000
+g__OLB17	1.000000
+g__OLB14	1.000000
+g__OLB11	1.000000
+g__O2-12-FULL-51-8	1.000000
+g__O2-12-FULL-45-9-A	1.000000
+g__O2-12-FULL-42-9	1.000000
+g__O2-02-FULL-48-8	1.000000
+g__O2-02-FULL-42-9	1.000000
+g__Novosphingobium	1.000000
+g__Noviherbaspirillum	1.000000
+g__Nostoc	1.000000
+g__Nonomuraea	1.000000
+g__Nonlabens	1.000000
+g__Nodosilinea	1.000000
+g__Nocardiopsis_A	1.000000
+g__Nocardiopsis	1.000000
+g__Nocardioides	1.000000
+g__Nocardia	1.000000
+g__Niveispirillum	1.000000
+g__Nitrospirillum	1.000000
+g__Nitrospira_F	0.857143
+g__Nitrospira_A	1.000000
+g__Nitrosotenuis	1.000000
+g__Nitrosotalea	1.000000
+g__Nitrosospira	1.000000
+g__Nitrososphaera	1.000000
+g__Nitrosopumilus	0.950000
+g__Nitrosopelagicus	1.000000
+g__Nitrosomonas	1.000000
+g__Nitrosocosmicus	1.000000
+g__Nitrosococcus	1.000000
+g__Nitrosarchaeum	1.000000
+g__Nitromaritima	1.000000
+g__Nitrobacter	1.000000
+g__Nitrincola	1.000000
+g__Nitratireductor	1.000000
+g__Niastella	1.000000
+g__Niabella	1.000000
+g__Nevskia	1.000000
+g__Nesterenkonia	1.000000
+g__Neptunomonas	1.000000
+g__Neptuniibacter	1.000000
+g__Neorickettsia	1.000000
+g__Neorhizobium	1.000000
+g__Neochlamydia	1.000000
+g__Neobacillus	1.000000
+g__Neisseria	1.000000
+g__Negativibacillus	1.000000
+g__Natronorubrum	0.666667
+g__Natronomonas	1.000000
+g__Natronococcus	1.000000
+g__Natrinema	1.000000
+g__Natrialba	1.000000
+g__Natrarchaeobaculum	1.000000
+g__Nanosyncoccus	1.000000
+g__Nanosynbacter	1.000000
+g__Nanoperiomorbus	1.000000
+g__Nanopelagicus	1.000000
+g__Nanogingivalis	1.000000
+g__Nakamurella	1.000000
+g__NS-12	1.000000
+g__NMUJ01	1.000000
+g__NK4A144	1.000000
+g__NK4A136	1.000000
+g__NHYM01	1.000000
+g__NBD-18	1.000000
+g__N075bin58	1.000000
+g__Mycoplasmopsis_B	1.000000
+g__Mycoplasmopsis_A	1.000000
+g__Mycoplasmopsis	1.000000
+g__Mycoplasmoides	1.000000
+g__Mycoplasma	0.666667
+g__Mycobacterium	1.000000
+g__Muricomes	1.000000
+g__Muricauda	1.000000
+g__Muribaculum	1.000000
+g__Mucilaginibacter	1.000000
+g__Motiliproteus	1.000000
+g__Moritella	1.000000
+g__Morganella	1.000000
+g__Moraxella_A	1.000000
+g__Moraxella	1.000000
+g__Moorella	1.000000
+g__Moorea	1.000000
+g__Moduliflexus	1.000000
+g__Modestobacter	1.000000
+g__Mobiluncus	1.000000
+g__Mobilitalea	1.000000
+g__Mobilicoccus	1.000000
+g__MnB-11	1.000000
+g__Mitsuokella	1.000000
+g__Microvirga	1.000000
+g__Microterricola	1.000000
+g__Microscilla	1.000000
+g__Micropelagos	1.000000
+g__Micromonospora	1.000000
+g__Microcystis	1.000000
+g__Microcoleus	1.000000
+g__Micrococcus	1.000000
+g__Microbulbifer	1.000000
+g__Microbispora	1.000000
+g__Microbacterium	0.987952
+g__Micrarchaeum_A	1.000000
+g__Micavibrio	1.000000
+g__Methylovulum	1.000000
+g__Methyloversatilis	1.000000
+g__Methylotuvimicrobium	1.000000
+g__Methylotenera	1.000000
+g__Methylosinus	1.000000
+g__Methyloprofundus	1.000000
+g__Methylophilus	1.000000
+g__Methylophaga	1.000000
+g__Methylomonas	1.000000
+g__Methylomirabilis	1.000000
+g__Methylomicrobium	1.000000
+g__Methylohalobius	1.000000
+g__Methyloglobulus	1.000000
+g__Methylocystis	1.000000
+g__Methylocella	1.000000
+g__Methyloceanibacter	1.000000
+g__Methylobacterium	1.000000
+g__Methylobacter	1.000000
+g__Methylobacillus	1.000000
+g__Methylacidiphilum	1.000000
+g__Methylacidimicrobium	1.000000
+g__Methermicoccus	1.000000
+g__Methanotorris	1.000000
+g__Methanothrix_A	1.000000
+g__Methanothrix	1.000000
+g__Methanothermococcus_A	1.000000
+g__Methanothermococcus	1.000000
+g__Methanothermobacter_A	1.000000
+g__Methanothermobacter	1.000000
+g__Methanosuratus	1.000000
+g__Methanospirillum	1.000000
+g__Methanosphaera	1.000000
+g__Methanosarcina	1.000000
+g__Methanosalsum	1.000000
+g__Methanoregula	1.000000
+g__Methanoplasma	1.000000
+g__Methanoperedens	1.000000
+g__Methanomethylovorans	1.000000
+g__Methanomethylophilus	1.000000
+g__Methanomethylicus	1.000000
+g__Methanolobus	1.000000
+g__Methanolinea_A	1.000000
+g__Methanolacinia	1.000000
+g__Methanohalophilus	1.000000
+g__Methanogaster	1.000000
+g__Methanofollis	1.000000
+g__Methanofastidiosum	1.000000
+g__Methanoculleus	1.000000
+g__Methanocorpusculum	1.000000
+g__Methanococcus	1.000000
+g__Methanococcoides	1.000000
+g__Methanocella	1.000000
+g__Methanocaldococcus_A	1.000000
+g__Methanocaldococcus	1.000000
+g__Methanocalculus	1.000000
+g__Methanobrevibacter_D	1.000000
+g__Methanobrevibacter_C	1.000000
+g__Methanobrevibacter_B	1.000000
+g__Methanobrevibacter_A	1.000000
+g__Methanobrevibacter	1.000000
+g__Methanobacterium_D	1.000000
+g__Methanobacterium_C	1.000000
+g__Methanobacterium_B	1.000000
+g__Methanobacterium_A	1.000000
+g__Methanobacterium	1.000000
+g__Metamycoplasma	0.965517
+g__Metallosphaera	1.000000
+g__Metabacillus	1.000000
+g__Mesotoga	1.000000
+g__Mesorhizobium	1.000000
+g__Mesonia	1.000000
+g__Mesomycoplasma	1.000000
+g__Mesobacillus	1.000000
+g__Merdousia	1.000000
+g__Meiothermus	1.000000
+g__Megasphaera	0.750000
+g__Megamonas	1.000000
+g__Mediterraneibacter	1.000000
+g__MedAcidi-G3	1.000000
+g__MedAcidi-G2B	1.000000
+g__MedAcidi-G1	1.000000
+g__Massilioclostridium	1.000000
+g__Massilia	1.000000
+g__Marvinbryantia	1.000000
+g__Martelella	1.000000
+g__Marmoricola	1.000000
+g__Marivivens	1.000000
+g__Marivirga	1.000000
+g__Mariprofundus	1.000000
+g__Marinospirillum	1.000000
+g__Marinoscillum	1.000000
+g__Marinomonas	1.000000
+g__Marinococcus	1.000000
+g__Marinobacterium	1.000000
+g__Marinobacter	1.000000
+g__Marinitoga	1.000000
+g__Marinisoma	1.000000
+g__Marinimicrobium	1.000000
+g__Marinilactibacillus	1.000000
+g__Marinicella	1.000000
+g__Marinicaulis	1.000000
+g__Mariniblastus	1.000000
+g__Maridesulfovibrio	1.000000
+g__Maribacter	1.000000
+g__Mangrovimonas_A	1.000000
+g__Mangrovimonas	1.000000
+g__Mammaliicoccus	1.000000
+g__Malacoplasma_A	1.000000
+g__Malacoplasma	1.000000
+g__Macrococcus_B	1.000000
+g__MUGG01	1.000000
+g__MSPOR6	1.000000
+g__MS024-2A	1.000000
+g__MPNP01	1.000000
+g__MPNO01	1.000000
+g__MP8T-1	1.000000
+g__MHLP01	1.000000
+g__MGML01	1.000000
+g__MGIIb-O5	1.000000
+g__MGIIb-O3	0.965517
+g__MGIIb-O2	1.000000
+g__MGIIb-O1	1.000000
+g__MGIIb-N1	1.000000
+g__MGIIa-L1	0.857143
+g__MGIIa-K1	1.000000
+g__MGIIa-I	1.000000
+g__MGDU01	1.000000
+g__MFBN01	1.000000
+g__MEVN01	1.000000
+g__MEDG-81	1.000000
+g__MED727	1.000000
+g__MED-G82	1.000000
+g__MED-G52	1.000000
+g__MED-G40	1.000000
+g__MED-G20	1.000000
+g__MED-G16	1.000000
+g__MED-G14	1.000000
+g__MED-G13	1.000000
+g__MED-G116	1.000000
+g__MED-G11	1.000000
+g__MED-G09	1.000000
+g__MD308	0.666667
+g__MCBC01	1.000000
+g__MB11C04	1.000000
+g__MAG-121220-bin8	1.000000
+g__M3007	1.000000
+g__Lysobacter_B	1.000000
+g__Lysobacter	1.000000
+g__Lysinibacillus	1.000000
+g__Lutimaribacter	1.000000
+g__Luteipulveratus	1.000000
+g__Luteimonas	1.000000
+g__Luteibacter	1.000000
+g__Luminiphilus	1.000000
+g__Longimicrobium	1.000000
+g__Longicatena	1.000000
+g__Loigolactobacillus	1.000000
+g__Listeria_A	1.000000
+g__Listeria	1.000000
+g__Liquorilactobacillus	1.000000
+g__Limosilactobacillus	1.000000
+g__Limnothrix	1.000000
+g__Limnospira	1.000000
+g__Limnohabitans_A	1.000000
+g__Limnocylindrus	1.000000
+g__Limivicinus	1.000000
+g__Limisoma	1.000000
+g__Limiplasma	1.000000
+g__Limimorpha	1.000000
+g__Limimaricola	1.000000
+g__Limenecus	1.000000
+g__Ligilactobacillus	1.000000
+g__Lichenihabitans	1.000000
+g__Liberibacter	1.000000
+g__LiPW-41	1.000000
+g__LiPW-15	1.000000
+g__Lewinella_A	1.000000
+g__Lewinella	1.000000
+g__Levilactobacillus	1.000000
+g__Leuconostoc	1.000000
+g__Leucobacter	1.000000
+g__Leptotrichia	1.000000
+g__Leptothoe	1.000000
+g__Leptospirillum_A	1.000000
+g__Leptospira_B	1.000000
+g__Leptospira_A	1.000000
+g__Leptospira	1.000000
+g__Leptonema	1.000000
+g__Leptolyngbya	1.000000
+g__Leptolinea	1.000000
+g__Lentzea	1.000000
+g__Lentimicrobium	1.000000
+g__Lentilactobacillus	1.000000
+g__Lentibacillus	1.000000
+g__Lenti-01	1.000000
+g__Leisingera	1.000000
+g__Leifsonia	1.000000
+g__Legionella_C	1.000000
+g__Legionella_A	1.000000
+g__Legionella	1.000000
+g__Leeuwenhoekiella	1.000000
+g__Leadbetterella	1.000000
+g__Lawsonibacter	1.000000
+g__Lawsonia	1.000000
+g__Lawsonella	1.000000
+g__Latilactobacillus	1.000000
+g__Latescibacter	1.000000
+g__Lapidilactobacillus	1.000000
+g__Lancefieldella	1.000000
+g__Lampropedia	1.000000
+g__Lactococcus	1.000000
+g__Lactobacillus	1.000000
+g__Lactiplantibacillus	1.000000
+g__Lacticaseibacillus	1.000000
+g__Lacrimispora	1.000000
+g__Lacinutrix	1.000000
+g__Lachnospira	1.000000
+g__Lachnoclostridium_B	1.000000
+g__Lachnoclostridium_A	1.000000
+g__Lachnoclostridium	1.000000
+g__Lachnoanaerobaculum	1.000000
+g__LZORAL124-64-63	1.000000
+g__LS-SOB	1.000000
+g__LGRT01	1.000000
+g__LFER01	1.000000
+g__LD21	1.000000
+g__LCKU01	1.000000
+g__LCBW01	1.000000
+g__Kutzneria	1.000000
+g__Kushneria	1.000000
+g__Kurthia	1.000000
+g__Kryptonium	1.000000
+g__Kroppenstedtia	1.000000
+g__Kribbella	1.000000
+g__Kordiimonas	1.000000
+g__Kordia	1.000000
+g__Komagataeibacter	1.000000
+g__Kocuria	1.000000
+g__Knoellia	1.000000
+g__Kluyvera	1.000000
+g__Klenkia	1.000000
+g__Klebsiella	1.000000
+g__Kitasatospora	1.000000
+g__Kinetoplastibacterium	1.000000
+g__Kineothrix	1.000000
+g__Kineosporia	1.000000
+g__Kineococcus	1.000000
+g__Kiloniella	1.000000
+g__Ketobacter	1.000000
+g__Kazan-3B-28	1.000000
+g__Kangiella	1.000000
+g__Kandleria	1.000000
+g__Kamptonema	1.000000
+g__Kallipyga	1.000000
+g__Kaistia	1.000000
+g__Kaistella	1.000000
+g__Jonquetella	1.000000
+g__Jonesia	1.000000
+g__Jidaibacter	1.000000
+g__Jiangella	1.000000
+g__Jeotgalicoccus	1.000000
+g__Jeotgalibacillus	1.000000
+g__Jeotgalibaca	1.000000
+g__Jejuia	1.000000
+g__JdFR-97	1.000000
+g__JdFR-88	1.000000
+g__JdFR-56	1.000000
+g__JdFR-22	1.000000
+g__JdFR-21	1.000000
+g__JdFR-11	1.000000
+g__Janthinobacterium	1.000000
+g__Jannaschia	1.000000
+g__Janibacter	1.000000
+g__JJ008	0.800000
+g__JGIOTU-2	1.000000
+g__JCVI-SCAAA005	1.000000
+g__JACTMI01	1.000000
+g__JACRCG01	1.000000
+g__JACPFJ01	1.000000
+g__JABWBD01	1.000000
+g__JABFSM01	1.000000
+g__JABDJL01	1.000000
+g__JAAZBV01	1.000000
+g__JAAYDY01	1.000000
+g__JAAYDF01	1.000000
+g__JAAXQM01	1.000000
+g__JAAUUB01	1.000000
+g__JAAFGM01	1.000000
+g__JAACPI01	1.000000
+g__JAACFD01	1.000000
+g__JA-3-3Ab	1.000000
+g__J07HR59	1.000000
+g__J075	1.000000
+g__Izemoplasma_B	1.000000
+g__Isoptericola	1.000000
+g__Intestinimonas	1.000000
+g__Infirmifilum	1.000000
+g__Imhoffiella	1.000000
+g__Ilumatobacter_A	1.000000
+g__Ilumatobacter	1.000000
+g__Ignavibacterium	1.000000
+g__Idiomarina	1.000000
+g__IMCC9063	1.000000
+g__IGN2	1.000000
+g__Hyphomonas	1.000000
+g__Hyphomicrobium	1.000000
+g__Hyphobacterium	1.000000
+g__Hymenobacter	1.000000
+g__Hylemonella	1.000000
+g__Hydrothermus	1.000000
+g__Hydrotalea	1.000000
+g__Hydrogenovibrio	1.000000
+g__Hydrogenophaga	1.000000
+g__Hydrogenobacter	1.000000
+g__Hydrogenimonas	1.000000
+g__Hydrogenedens	1.000000
+g__Hydrococcus	1.000000
+g__Hungatella	1.000000
+g__Hungateiclostridium	1.000000
+g__Hornefia	1.000000
+g__Holospora	1.000000
+g__Holophaga	1.000000
+g__Holdemania	1.000000
+g__Hoeflea	1.000000
+g__Hirschia	1.000000
+g__Hippea	1.000000
+g__Herpetosiphon	1.000000
+g__Herminiimonas	1.000000
+g__Herbivorax	1.000000
+g__Herbaspirillum	1.000000
+g__Henriciella	1.000000
+g__Helicobacter_H	1.000000
+g__Helicobacter_G	1.000000
+g__Helicobacter_F	1.000000
+g__Helicobacter_E	1.000000
+g__Helicobacter_D	1.000000
+g__Helicobacter_C	1.000000
+g__Helicobacter_B	1.000000
+g__Helicobacter_A	1.000000
+g__Helicobacter	1.000000
+g__Helcococcus	1.000000
+g__Hathewaya	1.000000
+g__Halovulum	1.000000
+g__Halovenus	1.000000
+g__Halothece	1.000000
+g__Halostagnicola	1.000000
+g__Halorussus	1.000000
+g__Halorubrum	1.000000
+g__Halorientalis	1.000000
+g__Halorhodospira	1.000000
+g__Halorhabdus	1.000000
+g__Haloquadratum	1.000000
+g__Halonotius	1.000000
+g__Halomonas_C	1.000000
+g__Halomonas_A	1.000000
+g__Halomonas	1.000000
+g__Halomicrobium	1.000000
+g__Halomarina	1.000000
+g__Halolamina	1.000000
+g__Halolacustris	1.000000
+g__Halohasta	1.000000
+g__Halogeometricum	1.000000
+g__Halofilum	1.000000
+g__Haloferula	1.000000
+g__Haloferax	1.000000
+g__Halodesulfovibrio	1.000000
+g__Halococcus	1.000000
+g__Halobiforma	1.000000
+g__Halobaculum	1.000000
+g__Halobacterium	1.000000
+g__Halobacillus	1.000000
+g__Haloarcula	1.000000
+g__Halioglobus	1.000000
+g__Halanaerobium	1.000000
+g__Halalkalirubrum	1.000000
+g__Halalkalicoccus	1.000000
+g__Haladaptatus	1.000000
+g__Hahella	1.000000
+g__Hafnia	1.000000
+g__Haemophilus_D	1.000000
+g__Haemophilus	1.000000
+g__HTCC2207	1.000000
+g__HRBIN35	1.000000
+g__HRBIN33	1.000000
+g__HRBIN17	1.000000
+g__HRBIN11	1.000000
+g__HO2-FULL-47-45	1.000000
+g__HO2-FULL-38-9	1.000000
+g__HO2-49-34	1.000000
+g__HO2-45-11b	1.000000
+g__HO2-43-30	1.000000
+g__HO2-43-120	1.000000
+g__HO2-37-13b	1.000000
+g__HLUCCA09	1.000000
+g__HK1	1.000000
+g__HIMB59	1.000000
+g__HIMB30	1.000000
+g__HIMB100	1.000000
+g__HDB-SIOI813	1.000000
+g__Guyparkeria	1.000000
+g__Gulosibacter	1.000000
+g__Granulosicoccus	1.000000
+g__Granulicatella	1.000000
+g__Gramella	1.000000
+g__Gracilibacillus	1.000000
+g__Gp6-AA45	1.000000
+g__Gp22-AA3	1.000000
+g__Gp18-AA60	1.000000
+g__Gottfriedia	1.000000
+g__Gorillibacterium	1.000000
+g__Gordonia	1.000000
+g__Glycomyces	1.000000
+g__Glutamicibacter	1.000000
+g__Glomeribacter	1.000000
+g__Gloeothece	1.000000
+g__Gloeobacter	1.000000
+g__Gleimia	1.000000
+g__Glaesserella	1.000000
+g__Glaciecola	1.000000
+g__Ginsengibacter	1.000000
+g__Gilvimarinus	1.000000
+g__Gillisia	1.000000
+g__Gilliamella	1.000000
+g__Giesbergeria	1.000000
+g__Ghiorsea	1.000000
+g__Geotoga	1.000000
+g__Geotalea	1.000000
+g__Geopsychrobacter	1.000000
+g__Geomicrobium_A	1.000000
+g__Geoglobus	1.000000
+g__Geodermatophilus	1.000000
+g__Geobacter	1.000000
+g__Geobacillus	1.000000
+g__Gemmiger	1.000000
+g__Gemmatimonas	1.000000
+g__Geminocystis	1.000000
+g__Geminisphaera	1.000000
+g__Gemella	1.000000
+g__Geitlerinema	1.000000
+g__Gallionella	1.000000
+g__Gallibacterium	1.000000
+g__Gaiella	1.000000
+g__Gabonibacter	1.000000
+g__Ga6A1	1.000000
+g__GWF2-43-63	1.000000
+g__GWF2-43-52	1.000000
+g__GWF2-39-127	1.000000
+g__GWF2-38-335	1.000000
+g__GWF2-37-15	1.000000
+g__GWF2-35-18	1.000000
+g__GWF2-33-38	1.000000
+g__GWF2-33-10	1.000000
+g__GWF1-51-8	1.000000
+g__GWF1-45-5	1.000000
+g__GWF1-31-35	1.000000
+g__GWE2-51-13	1.000000
+g__GWE2-42-39	1.000000
+g__GWE2-39-37	1.000000
+g__GWE1-39-12	1.000000
+g__GWC2-45-19	1.000000
+g__GWC2-42-12	1.000000
+g__GWC2-39-14	1.000000
+g__GWC2-39-10	1.000000
+g__GWC2-37-8	1.000000
+g__GWC2-37-13	1.000000
+g__GWC2-36-17	1.000000
+g__GWC2-33-13	1.000000
+g__GWC1-49-16	1.000000
+g__GWC1-47-15	1.000000
+g__GWC1-42-9	1.000000
+g__GWC1-40-9	1.000000
+g__GWC1-40-35	1.000000
+g__GWC1-37-12b	1.000000
+g__GWB2-55-19	1.000000
+g__GWB2-47-37	1.000000
+g__GWB1-54-5	1.000000
+g__GWB1-50-10	1.000000
+g__GWB1-45-9	1.000000
+g__GWB1-45-5	1.000000
+g__GWB1-42-6	1.000000
+g__GWB1-41-6	1.000000
+g__GWB1-40-14	1.000000
+g__GWB1-39-12	1.000000
+g__GWB1-38-13	1.000000
+g__GWB1-37-8	1.000000
+g__GWB1-36-5	1.000000
+g__GWA2-66-18	1.000000
+g__GWA2-58-10	1.000000
+g__GWA2-54-12	1.000000
+g__GWA2-47-26	1.000000
+g__GWA2-47-10b	1.000000
+g__GWA2-47-10	1.000000
+g__GWA2-46-9	1.000000
+g__GWA2-46-10	1.000000
+g__GWA2-45-9	1.000000
+g__GWA2-44-9	1.000000
+g__GWA2-44-7	1.000000
+g__GWA2-44-10	1.000000
+g__GWA2-43-14	1.000000
+g__GWA2-43-13	1.000000
+g__GWA2-42-15	1.000000
+g__GWA2-42-14	1.000000
+g__GWA2-41-24	1.000000
+g__GWA2-38-27	1.000000
+g__GWA2-38-11	1.000000
+g__GWA2-33-14	1.000000
+g__GWA1-54-10	1.000000
+g__GWA1-44-29	1.000000
+g__GWA1-44-25	1.000000
+g__GWA1-44-24	1.000000
+g__GWA1-42-19	1.000000
+g__GWA1-39-11	1.000000
+g__GCF-000787395	1.000000
+g__GCA-2746885	1.000000
+g__GCA-2746235	1.000000
+g__GCA-2732015	1.000000
+g__GCA-2724215	1.000000
+g__GCA-2718595	1.000000
+g__GCA-2717185	1.000000
+g__GCA-2716345	1.000000
+g__GCA-2712105	1.000000
+g__GCA-2707915	0.888889
+g__GCA-2705445	1.000000
+g__GCA-2704665	1.000000
+g__GCA-2704625	1.000000
+g__GCA-2693325	1.000000
+g__GCA-2692065	1.000000
+g__GCA-2691245	1.000000
+g__GCA-2691145	1.000000
+g__GCA-012562765	1.000000
+g__GCA-002791395	1.000000
+g__GCA-002780085	1.000000
+g__GCA-002779875	1.000000
+g__GCA-002718515	1.000000
+g__GCA-002712045	1.000000
+g__GCA-002708715	1.000000
+g__GCA-002707645	1.000000
+g__GCA-002701455	1.000000
+g__GCA-002690875	1.000000
+g__GCA-001735895	1.000000
+g__G11	1.000000
+g__Fusobacterium_C	1.000000
+g__Fusobacterium_B	1.000000
+g__Fusobacterium_A	1.000000
+g__Fusobacterium	1.000000
+g__Fusicatenibacter	1.000000
+g__Furfurilactobacillus	1.000000
+g__Fulvivirga	1.000000
+g__Fuerstia	1.000000
+g__Fructobacillus	1.000000
+g__Fructilactobacillus	1.000000
+g__Friedmanniella	1.000000
+g__Fredinandcohnia	1.000000
+g__Frankia	1.000000
+g__Francisella	1.000000
+g__Frackibacter	1.000000
+g__Fortiea	1.000000
+g__Formosa	1.000000
+g__Fonsibacter	1.000000
+g__Fluviicola	1.000000
+g__Fluviibacterium	1.000000
+g__Flexilinea	1.000000
+g__Flavobacterium	1.000000
+g__Flavisolibacter_B	1.000000
+g__Flavisolibacter	1.000000
+g__Flavipsychrobacter	1.000000
+g__Flavihumibacter	1.000000
+g__Flammeovirga	1.000000
+g__Fischerella	1.000000
+g__Firm-16	1.000000
+g__Fimenecus	1.000000
+g__Fictibacillus_C	1.000000
+g__Fibromonas	1.000000
+g__Fibrobacter	1.000000
+g__Fervidobacterium	1.000000
+g__Ferruginibacter	1.000000
+g__Ferrimonas	1.000000
+g__Ferrimicrobium	1.000000
+g__Fermentimonas	0.857143
+g__Fen-671	1.000000
+g__Fen-1467	1.000000
+g__Fannyhessea	1.000000
+g__Faecousia	1.000000
+g__Faecenecus	1.000000
+g__Faecalitalea	1.000000
+g__Faecalimonas	1.000000
+g__Faecalibaculum	1.000000
+g__Faecalibacterium	1.000000
+g__Facklamia_A	1.000000
+g__Facklamia	1.000000
+g__Fabibacter	1.000000
+g__FW300-bin19	1.000000
+g__FD2005	1.000000
+g__F23-B02	1.000000
+g__F1-60-MAGs027	1.000000
+g__F0058	1.000000
+g__Ezakiella	1.000000
+g__Extibacter	1.000000
+g__Exiguobacterium_A	1.000000
+g__Exiguobacterium	1.000000
+g__Evtepia	1.000000
+g__Evansella	1.000000
+g__Eubacterium_R	1.000000
+g__Eubacterium_Q	1.000000
+g__Eubacterium_I	1.000000
+g__Eubacterium_G	1.000000
+g__Eubacterium_F	1.000000
+g__Escherichia	1.000000
+g__Erythrobacter	1.000000
+g__Erysipelothrix	1.000000
+g__Erysipelatoclostridium	1.000000
+g__Erwinia	1.000000
+g__Epulopiscium_C	1.000000
+g__Epulopiscium_B	1.000000
+g__Epilithonimonas	1.000000
+g__Epibacterium	1.000000
+g__Eperythrozoon_B	1.000000
+g__Eperythrozoon_A	0.909091
+g__Entotheonella	1.000000
+g__Enterovibrio	1.000000
+g__Enterousia	1.000000
+g__Enteromonas	1.000000
+g__Enterococcus_J	1.000000
+g__Enterococcus_G	1.000000
+g__Enterococcus_E	1.000000
+g__Enterococcus_D	1.000000
+g__Enterococcus_C	1.000000
+g__Enterococcus_B	1.000000
+g__Enterococcus_A	1.000000
+g__Enterococcus	1.000000
+g__Enterocloster	1.000000
+g__Enterobacter	1.000000
+g__Enterenecus	1.000000
+g__Ensifer	1.000000
+g__Enorma	1.000000
+g__Endozoicomonas	1.000000
+g__Endoriftia	1.000000
+g__Endomicrobium	1.000000
+g__Endolissoclinum	1.000000
+g__Endobugula	1.000000
+g__Emticicia	1.000000
+g__Emergencia	1.000000
+g__Elarobacter	1.000000
+g__Elainella	1.000000
+g__Eisenbergiella	1.000000
+g__Eikenella	1.000000
+g__Ehrlichia	1.000000
+g__Effusibacillus	1.000000
+g__Edaphocola	1.000000
+g__Edaphobacter	1.000000
+g__Ectothiorhodospira	1.000000
+g__Ectobacillus	1.000000
+g__Echinicola	1.000000
+g__ETH-SRB1	1.000000
+g__ER4	1.000000
+g__ELB16-189	1.000000
+g__EC70	1.000000
+g__EA-19	1.000000
+g__E44-bin18	1.000000
+g__E26-bin7	1.000000
+g__Dysosmobacter	1.000000
+g__Dysgonomonas	1.000000
+g__Dyella	1.000000
+g__Dyadobacter	1.000000
+g__Dwaynesavagella	1.000000
+g__Duodenibacillus	1.000000
+g__Duncaniella	1.000000
+g__Duganella	1.000000
+g__Dubosiella	1.000000
+g__Draconibacterium	1.000000
+g__Dorea_A	1.000000
+g__Domibacillus	1.000000
+g__Dolichospermum	1.000000
+g__Dokdonella_A	1.000000
+g__Dokdonella	1.000000
+g__Dietzia	1.000000
+g__Dielma	1.000000
+g__Dictyoglomus	1.000000
+g__Dickeya	1.000000
+g__Diaphorobacter	1.000000
+g__Dialister	1.000000
+g__Devosia_A	1.000000
+g__Devosia	1.000000
+g__Dethiosulfovibrio	1.000000
+g__Desulfuromonas	1.000000
+g__Desulfurococcus	1.000000
+g__Desulfurobacterium_A	1.000000
+g__Desulfurivibrio	1.000000
+g__Desulfovibrio	1.000000
+g__Desulfotruncus	1.000000
+g__Desulfotomaculum	1.000000
+g__Desulfotignum	1.000000
+g__Desulfosporosinus	1.000000
+g__Desulfosarcina	1.000000
+g__Desulforhopalus	1.000000
+g__Desulfopila	1.000000
+g__Desulfonauticus	1.000000
+g__Desulfonatronum	1.000000
+g__Desulfonatronovibrio	1.000000
+g__Desulfomicrobium	1.000000
+g__Desulfoluna	1.000000
+g__Desulfohalovibrio	1.000000
+g__Desulfofundulus	1.000000
+g__Desulfobulbus_A	1.000000
+g__Desulfobulbus	1.000000
+g__Desulfobacula	1.000000
+g__Desulfobacter	1.000000
+g__Desulfobacca	1.000000
+g__Desulfitobacterium	1.000000
+g__Desulfitibacter	1.000000
+g__Desulfatitalea	1.000000
+g__Desulfatibacillum	1.000000
+g__Desulfacinum	1.000000
+g__Dermacoccus	1.000000
+g__Dermabacter	1.000000
+g__Denitrobacterium	1.000000
+g__Denitratisoma	1.000000
+g__Demequina	1.000000
+g__Deinococcus_A	1.000000
+g__Deinococcus	1.000000
+g__Dehalogenimonas	1.000000
+g__Dehalococcoides	1.000000
+g__Defluviitoga	1.000000
+g__Daejeonella	1.000000
+g__DTU089	1.000000
+g__DTU074	1.000000
+g__DTU032	1.000000
+g__DTU025	1.000000
+g__DTU014	1.000000
+g__DTU010	1.000000
+g__DTU008	1.000000
+g__DTMQ01	1.000000
+g__DTJY01	1.000000
+g__DTIZ01	1.000000
+g__DTIW01	1.000000
+g__DT-91	1.000000
+g__DSWF01	1.000000
+g__DSVQ01	1.000000
+g__DSTH01	1.000000
+g__DSQY01	1.000000
+g__DSPV01	1.000000
+g__DSDT01	1.000000
+g__DSBA01	1.000000
+g__DSAU01	1.000000
+g__DRMV01	1.000000
+g__DG-74-1	1.000000
+g__DG-33	1.000000
+g__D37C17	1.000000
+g__D2472	1.000000
+g__D2-FULL-39-29	1.000000
+g__D16-34	1.000000
+g__Cytophaga	1.000000
+g__Cytobacillus	1.000000
+g__Cycloclasticus	1.000000
+g__Cyclobacterium	1.000000
+g__Cyanobacterium	1.000000
+g__Cutibacterium	1.000000
+g__Curtobacterium	1.000000
+g__Cupriavidus	1.000000
+g__Cuniculiplasma	1.000000
+g__Cumulibacter	1.000000
+g__Cryptobacteroides	1.000000
+g__Cryobacterium	1.000000
+g__Crocosphaera	1.000000
+g__Crocinitomix	1.000000
+g__Croceibacterium	0.857143
+g__Coxiella	1.000000
+g__Corynebacterium	1.000000
+g__Coprothermobacter	1.000000
+g__Copromorpha	1.000000
+g__Copromonas	1.000000
+g__Coprococcus	1.000000
+g__Coprobacter	1.000000
+g__Congregibacter	1.000000
+g__Conchiformibius	1.000000
+g__Companilactobacillus	1.000000
+g__Commensalibacter	1.000000
+g__Comamonas	1.000000
+g__Colwellia	1.000000
+g__Collinsella	1.000000
+g__Cohnella	1.000000
+g__Cognatiyoonia	1.000000
+g__Clostridium_X	1.000000
+g__Clostridium_S	1.000000
+g__Clostridium_R	1.000000
+g__Clostridium_Q	1.000000
+g__Clostridium_P	1.000000
+g__Clostridium_L	1.000000
+g__Clostridium_J	1.000000
+g__Clostridium_I	1.000000
+g__Clostridium_H	1.000000
+g__Clostridium_F	1.000000
+g__Clostridium_B	1.000000
+g__Clostridium_AQ	1.000000
+g__Clostridium_AO	1.000000
+g__Clostridium_AM	1.000000
+g__Clostridium_AI	1.000000
+g__Clostridium_AA	1.000000
+g__Clostridium_A	1.000000
+g__Clostridium	1.000000
+g__Cloacimonas	1.000000
+g__Cloacibacillus	1.000000
+g__Chthonomonas	1.000000
+g__Chryseolinea	1.000000
+g__Chryseobacterium	1.000000
+g__Chroogloeocystis	1.000000
+g__Chromulinavorax	1.000000
+g__Chromohalobacter	1.000000
+g__Chromobacterium	1.000000
+g__Christensenella	1.000000
+g__Chlorogloeopsis	1.000000
+g__Chloroflexus	1.000000
+g__Chlorobium	1.000000
+g__Chlorobaculum	1.000000
+g__Chlamydophila	1.000000
+g__Chlamydia	1.000000
+g__Chitinophaga	1.000000
+g__Chitinilyticum	1.000000
+g__Chitinibacter	1.000000
+g__Chelativorans	1.000000
+g__Chazhemtobacterium	1.000000
+g__Cereibacter_A	1.000000
+g__Cephaloticoccus	1.000000
+g__Centipeda	1.000000
+g__Cenarchaeum	1.000000
+g__Cellvibrio	1.000000
+g__Cellulosilyticum	1.000000
+g__Cellulophaga	0.857143
+g__Cellulomonas	1.000000
+g__Celeribacter	1.000000
+g__Caulobacter	1.000000
+g__Catenovulum	1.000000
+g__Catenibacterium	1.000000
+g__Casp-alpha2	1.000000
+g__Casp-actino8	1.000000
+g__Carnobacterium_A	1.000000
+g__Carnobacterium	1.000000
+g__Cardiobacterium	1.000000
+g__Cardinium	1.000000
+g__Carboxydothermus	1.000000
+g__Caproicibacter	1.000000
+g__Capnocytophaga	1.000000
+g__Canibacter	1.000000
+g__Campylobacter_D	1.000000
+g__Campylobacter_B	1.000000
+g__Campylobacter_A	1.000000
+g__Campylobacter	1.000000
+g__Calothrix	1.000000
+g__Caloranaerobacter	1.000000
+g__Caloramator	1.000000
+g__Calidithermus	1.000000
+g__Calidifontibacillus	1.000000
+g__Calescibacterium	1.000000
+g__Caldivirga	1.000000
+g__Caldipriscus	1.000000
+g__Caldimicrobium	1.000000
+g__Caldicellulosiruptor	1.000000
+g__Caldibacillus	1.000000
+g__Caldanaerobius	1.000000
+g__Caldanaerobacter	1.000000
+g__Caenibius	1.000000
+g__Caballeronia	1.000000
+g__CSSed11-197	1.000000
+g__CSSED11-315	1.000000
+g__CSP1-8	1.000000
+g__CSP1-2	1.000000
+g__CSBR16-193	1.000000
+g__CSBR16-119	1.000000
+g__COMBO-56-21	1.000000
+g__COE1	1.000000
+g__CG2-30-66-27	1.000000
+g__CG2-30-60-27	1.000000
+g__CG2-30-59-28	1.000000
+g__CG2-30-58-95	1.000000
+g__CG2-30-49-12	1.000000
+g__CG2-30-40-12	1.000000
+g__CG2-30-33-46	1.000000
+g__CG2-30-32-10	1.000000
+g__CG1-02-47-37	1.000000
+g__CG1-02-43-210	1.000000
+g__CG1-02-41-12	1.000000
+g__CG1-02-40-82	1.000000
+g__CG1-02-37-22	1.000000
+g__CG1-02-35-72	1.000000
+g__CG-Epi1	1.000000
+g__CF-39	1.000000
+g__CF-163	1.000000
+g__CAIWCR01	1.000000
+g__CAG-977	1.000000
+g__CAG-964	1.000000
+g__CAG-95	1.000000
+g__CAG-873	1.000000
+g__CAG-83	1.000000
+g__CAG-793	1.000000
+g__CAG-791	1.000000
+g__CAG-632	1.000000
+g__CAG-628	1.000000
+g__CAG-605	1.000000
+g__CAG-603	1.000000
+g__CAG-552	1.000000
+g__CAG-533	1.000000
+g__CAG-488	1.000000
+g__CAG-485	1.000000
+g__CAG-475	1.000000
+g__CAG-41	1.000000
+g__CAG-353	1.000000
+g__CAG-349	1.000000
+g__CAG-317	0.800000
+g__CAG-314	1.000000
+g__CAG-313	1.000000
+g__CAG-307	1.000000
+g__CAG-302	1.000000
+g__CAG-273	1.000000
+g__CAG-272	1.000000
+g__CAG-267	1.000000
+g__CAG-245	1.000000
+g__CAG-238	1.000000
+g__CAG-196	1.000000
+g__CAG-177	1.000000
+g__CAG-1427	1.000000
+g__CAG-127	1.000000
+g__CAG-115	1.000000
+g__CAG-1000	1.000000
+g__CACPNW01	1.000000
+g__CACNYO01	1.000000
+g__CACNRH01	1.000000
+g__CACLJX01	1.000000
+g__CACIRS01	1.000000
+g__CACIJG01	1.000000
+g__CACIIZ01	1.000000
+g__CACIAM-69d	1.000000
+g__CACBWF01	1.000000
+g__CAADGU01	1.000000
+g__CAADGM01	1.000000
+g__C7867-006	1.000000
+g__C7867-002	1.000000
+g__C7867-001	1.000000
+g__Bythopirellula	1.000000
+g__Butyrivibrio_A	1.000000
+g__Butyrivibrio	1.000000
+g__Butyricimonas	1.000000
+g__Butyricicoccus	1.000000
+g__Butyribacter	1.000000
+g__Burkholderia	1.000000
+g__Bulleidia	1.000000
+g__Buchnera	1.000000
+g__Brumimicrobium	1.000000
+g__Brooklawnia	1.000000
+g__Brochothrix	1.000000
+g__Brevundimonas	1.000000
+g__Brevilactibacter	1.000000
+g__Brevibacterium	1.000000
+g__Brevibacillus_B	1.000000
+g__Brevibacillus	1.000000
+g__Brevefilum	1.000000
+g__Bradyrhizobium	1.000000
+g__Brachyspira	1.000000
+g__Brachybacterium	1.000000
+g__Boudabousia	1.000000
+g__Bosea	1.000000
+g__Borreliella	1.000000
+g__Borrelia	1.000000
+g__Bordetella	1.000000
+g__Bombilactobacillus	1.000000
+g__Bombella	1.000000
+g__Bog-209	1.000000
+g__Bog-1198	1.000000
+g__Blochmannia	1.000000
+g__Blautia_A	1.000000
+g__Blautia	1.000000
+g__Blattabacterium	1.000000
+g__Blastomonas	1.000000
+g__Blastococcus	1.000000
+g__Blastochloris	1.000000
+g__Bin94	1.000000
+g__Bin90	1.000000
+g__Bin55	1.000000
+g__Bin5	1.000000
+g__Bin127	1.000000
+g__Bin125	1.000000
+g__Bilifractor	1.000000
+g__Bifidobacterium	0.913580
+g__Bibersteinia	1.000000
+g__Bhargavaea	1.000000
+g__Berryella	1.000000
+g__Bermanella	1.000000
+g__Berkiella	1.000000
+g__Belnapia	1.000000
+g__Bellilinea	1.000000
+g__Beijerinckia	1.000000
+g__Beggiatoa	1.000000
+g__Baumannia	1.000000
+g__Basfia	1.000000
+g__Bartonella	1.000000
+g__Barnesiella	1.000000
+g__Bariatricus	1.000000
+g__Balneola	1.000000
+g__Baia	1.000000
+g__Baekduia	1.000000
+g__Bacteroides_H	1.000000
+g__Bacteroides_F	1.000000
+g__Bacteroides_E	1.000000
+g__Bacteroides	0.967742
+g__Bact-19	1.000000
+g__Bact-08	1.000000
+g__Bacillus_T	1.000000
+g__Bacillus_L	1.000000
+g__Bacillus_J	1.000000
+g__Bacillus_I	1.000000
+g__Bacillus_H	1.000000
+g__Bacillus_D	1.000000
+g__Bacillus_BB	1.000000
+g__Bacillus_AZ	1.000000
+g__Bacillus_AI	1.000000
+g__Bacillus_AD	1.000000
+g__Bacillus_A	1.000000
+g__Bacillus	1.000000
+g__BN30871	1.000000
+g__BMS3Abin05	1.000000
+g__BICA1-8	1.000000
+g__BACL27	1.000000
+g__BACL24	1.000000
+g__BACL21	1.000000
+g__BACL14	1.000000
+g__B9-G15	1.000000
+g__B68-G9	1.000000
+g__B48-G9	1.000000
+g__B32-G15	1.000000
+g__B3-TA06	1.000000
+g__B26-1	1.000000
+g__B140-G9	1.000000
+g__Azovibrio	1.000000
+g__Azospirillum	1.000000
+g__Azorhizobium	1.000000
+g__Azonexus	1.000000
+g__Azobacteroides	1.000000
+g__Avibacterium	1.000000
+g__Aureliella	1.000000
+g__Aureimonas	1.000000
+g__Atopobium	1.000000
+g__Atopobacter	1.000000
+g__Atelocyanobacterium	1.000000
+g__Asticcacaulis	1.000000
+g__Asaia	1.000000
+g__Arthrobacter_I	1.000000
+g__Arthrobacter_D	1.000000
+g__Arthrobacter_C	1.000000
+g__Arsukibacterium	1.000000
+g__Arsenophonus	1.000000
+g__Arsenicicoccus	1.000000
+g__Aromatoleum	1.000000
+g__Arhodomonas	1.000000
+g__Arenimonas	1.000000
+g__Arenibacter	1.000000
+g__Ardenticatena	1.000000
+g__Arcticibacter	1.000000
+g__Arctic96AD-7	1.000000
+g__Arctic95D-9	1.000000
+g__Archaeoglobus_C	1.000000
+g__Archaeoglobus_A	1.000000
+g__Archaeoglobus	1.000000
+g__Arcanobacterium_A	1.000000
+g__Arcanobacterium	1.000000
+g__Aramenus	1.000000
+g__Arachnia	1.000000
+g__Arachidicoccus	1.000000
+g__Aquirickettsiella	1.000000
+g__Aquimarina	1.000000
+g__Aquiluna	1.000000
+g__Aquamicrobium_A	1.000000
+g__Aquabacterium_A	1.000000
+g__Aquabacterium	1.000000
+g__Aquabacter	1.000000
+g__Apilactobacillus	1.000000
+g__Angelakisella	1.000000
+g__Aneurinibacillus	1.000000
+g__Ancylobacter	1.000000
+g__Anaplasma	1.000000
+g__Anaerovibrio	1.000000
+g__Anaerotruncus	1.000000
+g__Anaerotignum	1.000000
+g__Anaerostipes	1.000000
+g__Anaerosporobacter	1.000000
+g__Anaerosphaera	1.000000
+g__Anaerophaga	1.000000
+g__Anaeromusa	1.000000
+g__Anaeromassilibacillus	1.000000
+g__Anaeroglobus	1.000000
+g__Anaerocolumna	1.000000
+g__Anaerococcus	1.000000
+g__Anaerobutyricum	1.000000
+g__Anaerobranca	1.000000
+g__Anabaena	1.000000
+g__Amylibacter	1.000000
+g__Amycolatopsis	1.000000
+g__Amulumruptor	1.000000
+g__Amphritea	1.000000
+g__Aminobacterium	1.000000
+g__Aminobacter	1.000000
+g__Aminicenans	1.000000
+g__Amedibacillus	1.000000
+g__Amantichitinum	1.000000
+g__Alteromonas	1.000000
+g__Alteriqipengyuania	1.000000
+g__Alteribacter	1.000000
+g__Alteribacillus	1.000000
+g__Alteraurantiacibacter	1.000000
+g__Allosphingosinicella	1.000000
+g__Alloscardovia	1.000000
+g__Allorhizobium	1.000000
+g__Alloprevotella	1.000000
+g__Allofrancisella	1.000000
+g__Allisonella	1.000000
+g__Alkalispirochaeta	1.000000
+g__Alkalihalobacillus	1.000000
+g__Alkalicoccus	1.000000
+g__Alkalibacterium	1.000000
+g__Aliterella	1.000000
+g__Alistipes_A	1.000000
+g__Alistipes	1.000000
+g__Alishewanella	1.000000
+g__Aliivibrio	1.000000
+g__Aliidiomarina	1.000000
+g__Alicyclobacillus_G	1.000000
+g__Alicyclobacillus_A	1.000000
+g__Alicyclobacillus	1.000000
+g__Aliarcobacter	1.000000
+g__Algoriphagus	1.000000
+g__Alcanivorax	1.000000
+g__Akkermansia	1.000000
+g__Ahrensia	1.000000
+g__Agromyces	1.000000
+g__Agrococcus	1.000000
+g__Agrobacterium	1.000000
+g__Agriterribacter	1.000000
+g__Aggregatibacter	1.000000
+g__Agathobaculum	1.000000
+g__Agathobacter	0.857143
+g__Agarivorans	1.000000
+g__Afipia	1.000000
+g__Aeropyrum	1.000000
+g__Aerophobus	1.000000
+g__Aeromonas	1.000000
+g__Aeromicrobium	1.000000
+g__Aerococcus	1.000000
+g__Aequorivita	1.000000
+g__Advenella	1.000000
+g__Adlercreutzia	1.000000
+g__Adiutrix	1.000000
+g__Adhaeribacter	1.000000
+g__Acutalibacter	1.000000
+g__Actinotignum	1.000000
+g__Actinotalea	1.000000
+g__Actinosynnema	1.000000
+g__Actinopolyspora	1.000000
+g__Actinopolymorpha	1.000000
+g__Actinoplanes	1.000000
+g__Actinomycetospora	1.000000
+g__Actinomyces	1.000000
+g__Actinomarina	1.000000
+g__Actinokineospora	1.000000
+g__Actinobaculum	1.000000
+g__Actinoalloteichus	1.000000
+g__Actibacterium	1.000000
+g__Acinetobacter	1.000000
+g__Aciduliprofundum	1.000000
+g__Acidovorax_A	1.000000
+g__Acidovorax	1.000000
+g__Acidoferrum	1.000000
+g__Acidocella	1.000000
+g__Acidithrix	1.000000
+g__Acidithiobacillus	1.000000
+g__Acidipropionibacterium	1.000000
+g__Acidiplasma	1.000000
+g__Acidiphilium	1.000000
+g__Acidimicrobium	1.000000
+g__Acidilobus	1.000000
+g__Acidibacillus	1.000000
+g__Acidianus	1.000000
+g__Acidaminococcus	1.000000
+g__Achromobacter	1.000000
+g__Achromatium	1.000000
+g__Acholeplasma_A	1.000000
+g__Acholeplasma	1.000000
+g__Acetomicrobium	1.000000
+g__Acetobacteroides	1.000000
+g__Acetobacterium	1.000000
+g__Acetobacter	1.000000
+g__Acetivibrio	1.000000
+g__Acetatifactor	1.000000
+g__Acerihabitans	1.000000
+g__Accumulibacter	1.000000
+g__Acaryochloris	1.000000
+g__Absicoccus	1.000000
+g__Abiotrophia	1.000000
+g__AV80	1.000000
+g__ASP10-02a	1.000000
+g__AG41	1.000000
+g__AG-430-B22	1.000000
+g__AG-426-I14	1.000000
+g__AG-422-B15	1.000000
+g__AG-414-E02	1.000000
+g__AG-409-B13	1.000000
+g__AG-402-N21	1.000000
+g__AG-363-P08	1.000000
+g__AG-363-K07	1.000000
+g__AG-363-J23	1.000000
+g__AG-339-G14	1.000000
+g__AG-337-I02	1.000000
+g__AEGEAN-183	1.000000
+g__AC2028	1.000000
+g__AAA536-G10	1.000000
+g__AAA300-D14	1.000000
+g__AAA261-N23	1.000000
+g__AAA164-E04	1.000000
+g__9FT-COMBO-53-11	1.000000
+g__9FT-COMBO-48-23	1.000000
+g__58-81	1.000000
+g__51-20	1.000000
+g__50-400-T64	1.000000
+g__49-20	1.000000
+g__46-80	1.000000
+g__46-47	1.000000
+g__46-32	1.000000
+g__40CM-4-65-16	1.000000
+g__40CM-3-62-11	1.000000
+g__40CM-3-55-5	1.000000
+g__40CM-2-53-6	1.000000
+g__34-128	1.000000
+g__32-111	1.000000
+g__20CM-2-65-7	1.000000
+g__20CM-2-55-15	1.000000
+g__2013Ark19i	1.000000
+g__2011-GWC2-44-17	1.000000
+g__20-14-0-80-50-8	1.000000
+g__2-12-FULL-60-25	1.000000
+g__2-12-FULL-55-11	1.000000
+g__2-12-FULL-54-10	1.000000
+g__2-12-FULL-52-36	1.000000
+g__2-12-FULL-50-11	1.000000
+g__2-12-FULL-44-25	1.000000
+g__2-12-FULL-44-17	1.000000
+g__2-12-FULL-43-12	1.000000
+g__2-12-FULL-43-11	1.000000
+g__2-12-FULL-41-17	1.000000
+g__2-12-FULL-41-16	1.000000
+g__2-12-FULL-40-12	1.000000
+g__2-12-FULL-40-10	1.000000
+g__2-12-FULL-39-13	1.000000
+g__2-12-FULL-38-22	1.000000
+g__2-12-FULL-37-7b	1.000000
+g__2-12-FULL-37-34	1.000000
+g__2-02-FULL-66-22	1.000000
+g__2-02-FULL-56-16	1.000000
+g__2-02-FULL-56-15	1.000000
+g__2-02-FULL-55-14	1.000000
+g__2-02-FULL-53-10	1.000000
+g__2-02-FULL-52-16	1.000000
+g__2-02-FULL-50-9b	1.000000
+g__2-02-FULL-49-16	1.000000
+g__2-02-FULL-49-12	1.000000
+g__2-02-FULL-49-11	1.000000
+g__2-02-FULL-48-16	1.000000
+g__2-02-FULL-48-14	1.000000
+g__2-02-FULL-47-50	1.000000
+g__2-02-FULL-46-19	1.000000
+g__2-02-FULL-46-13	1.000000
+g__2-02-FULL-45-21	1.000000
+g__2-02-FULL-45-18	1.000000
+g__2-02-FULL-45-10	1.000000
+g__2-02-FULL-44-35	1.000000
+g__2-02-FULL-43-16	1.000000
+g__2-02-FULL-43-11-A	1.000000
+g__2-02-FULL-43-11	1.000000
+g__2-02-FULL-42-43	1.000000
+g__2-02-FULL-42-16	1.000000
+g__2-02-FULL-40-20	1.000000
+g__2-02-FULL-40-12	1.000000
+g__2-02-FULL-40-10	1.000000
+g__2-02-FULL-39-32	1.000000
+g__2-02-FULL-38-15	1.000000
+g__2-02-FULL-38-14-A	1.000000
+g__2-02-FULL-38-14	1.000000
+g__2-02-FULL-36-13	1.000000
+g__2-02-FULL-35-15	1.000000
+g__2-01-FULL-66-17	1.000000
+g__2-01-FULL-64-13	1.000000
+g__2-01-FULL-56-20	1.000000
+g__2-01-FULL-53-15	1.000000
+g__2-01-FULL-52-15	1.000000
+g__2-01-FULL-51-34	1.000000
+g__2-01-FULL-51-21	1.000000
+g__2-01-FULL-51-10	1.000000
+g__2-01-FULL-50-28	1.000000
+g__2-01-FULL-50-24	1.000000
+g__2-01-FULL-50-23	1.000000
+g__2-01-FULL-49-22	1.000000
+g__2-01-FULL-49-10	1.000000
+g__2-01-FULL-48-16	1.000000
+g__2-01-FULL-48-14	1.000000
+g__2-01-FULL-47-10	1.000000
+g__2-01-FULL-46-14-A	1.000000
+g__2-01-FULL-46-14	1.000000
+g__2-01-FULL-46-13	1.000000
+g__2-01-FULL-45-33	1.000000
+g__2-01-FULL-45-11	1.000000
+g__2-01-FULL-45-10	1.000000
+g__2-01-FULL-44-22	1.000000
+g__2-01-FULL-44-21	1.000000
+g__2-01-FULL-44-17	1.000000
+g__2-01-FULL-44-11	1.000000
+g__2-01-FULL-44-10	1.000000
+g__2-01-FULL-43-38	1.000000
+g__2-01-FULL-43-22	1.000000
+g__2-01-FULL-43-14	1.000000
+g__2-01-FULL-42-15	1.000000
+g__2-01-FULL-41-26	1.000000
+g__2-01-FULL-41-22	1.000000
+g__2-01-FULL-41-18	1.000000
+g__2-01-FULL-41-14	1.000000
+g__2-01-FULL-40-42	1.000000
+g__2-01-FULL-40-39	1.000000
+g__2-01-FULL-40-24	1.000000
+g__2-01-FULL-40-14	1.000000
+g__2-01-FULL-40-13	1.000000
+g__2-01-FULL-39-28	1.000000
+g__2-01-FULL-39-24	1.000000
+g__2-01-FULL-39-21	1.000000
+g__2-01-FULL-39-19	1.000000
+g__2-01-FULL-39-12	1.000000
+g__2-01-FULL-39-10	1.000000
+g__2-01-FULL-38-21	1.000000
+g__2-01-FULL-37-20	1.000000
+g__2-01-FULL-33-17	1.000000
+g__1XD42-69	1.000000
+g__14-2	1.000000
+g__12-FULL-45-19b	1.000000
+g__12-FULL-44-12b	1.000000
+g__12-FULL-43-12b	1.000000
+g__1-14-2-50-48-13	1.000000
+g__1-14-0-65-60-17	1.000000
+g__1-14-0-10-51-16	1.000000
+g__1-14-0-10-45-20	1.000000
+g__1-14-0-10-42-22	1.000000
+g__1-14-0-10-40-38	1.000000
+g__02-FULL-45-17b	1.000000
+g__01-FULL-54-110	1.000000
+g__01-FULL-49-22b	1.000000
+g__01-FULL-48-32b	1.000000
+g__01-FULL-45-34b	1.000000
+g__01-FULL-45-10b	1.000000
+g__01-FULL-36-15b	1.000000
+g__0-14-3-00-41-53	1.000000
+s__Zymomonas mobilis	1.000000
+s__Zymobacter palmae	1.000000
+s__Zhouia amylolytica	1.000000
+s__Zhongshania aliphaticivorans	1.000000
+s__Yonghaparkia sp001425665	1.000000
+s__Yersinia pestis	1.000000
+s__Yersinia enterocolitica	1.000000
+s__YC2-FULL-38-9 sp001790095	1.000000
+s__YC12-FULL-57-11 sp001791645	1.000000
+s__YA12-FULL-60-10 sp001803315	1.000000
+s__YA12-FULL-51-18 sp001800245	1.000000
+s__XYD2-FULL-41-8 sp001771545	1.000000
+s__XYD2-FULL-41-16 sp001828645	1.000000
+s__XYD2-FULL-39-9 sp001783215	1.000000
+s__XYD12-FULL-36-8 sp001803045	1.000000
+s__XYD1-FULL-46-19 sp001824825	1.000000
+s__XYD1-FULL-40-9 sp001818015	1.000000
+s__XYD1-FULL-39-28 sp001822065	1.000000
+s__XYD1-37-29 sp001818495	1.000000
+s__XYC2-FULL-47-12 sp001778285	1.000000
+s__XYC2-FULL-46-14 sp001771585	1.000000
+s__XYC2-FULL-41-22 sp001788795	1.000000
+s__XYC2-FULL-37-10 sp001771535	1.000000
+s__XYB2-FULL-50-12 sp001800355	1.000000
+s__XYB2-FULL-45-11 sp001791305	1.000000
+s__XYB2-FULL-38-15 sp001778095	1.000000
+s__XYB2-FULL-36-35 sp001771505	1.000000
+s__XYB12-FULL-50-7 sp001804345	1.000000
+s__XYB12-FULL-38-5 sp001803165	1.000000
+s__XYB1-FULL-47-11 sp001779455	1.000000
+s__XYB1-FULL-42-16 sp001823055	1.000000
+s__XYB1-40-15 sp001783185	1.000000
+s__XYB1-40-15 sp001782825	1.000000
+s__XYB1-36-10 sp001821375	1.000000
+s__XYA2-FULL-47-53 sp001800315	1.000000
+s__XYA2-FULL-47-19 sp001780275	1.000000
+s__XYA2-FULL-43-10 sp001776195	1.000000
+s__XYA2-FULL-35-8 sp001778235	1.000000
+s__Wolbachia sp013096535	1.000000
+s__Wolbachia pipientis	1.000000
+s__Wohlfahrtiimonas chitiniclastica	1.000000
+s__Winkia sp002849225	1.000000
+s__Winkia neuii	1.000000
+s__Weizmannia ginsengihum	1.000000
+s__Weizmannia coagulans	1.000000
+s__Weissella confusa	1.000000
+s__Weissella ceti_A	1.000000
+s__Weimeria sp900100095	1.000000
+s__WYBL01 sp011526565	1.000000
+s__WRMH01 sp009777235	1.000000
+s__WQSK01 sp009787915	1.000000
+s__WO2-FULL-40-11 sp001776505	1.000000
+s__WO2-FULL-39-9 sp001793155	1.000000
+s__WO2-FULL-39-10 sp001792345	1.000000
+s__WO2-54-10 sp001820725	1.000000
+s__WO2-49-40 sp001780035	1.000000
+s__WO2-48-25 sp001773695	1.000000
+s__WO2-47-17b sp001793865	1.000000
+s__WO2-46-25 sp001775835	1.000000
+s__WO2-44-18 sp001817915	1.000000
+s__WO2-43-9 sp001818315	1.000000
+s__WO2-35-19 sp001824275	1.000000
+s__WO2-35-19 sp001823925	1.000000
+s__WO2-01-48-18 sp001824435	1.000000
+s__W498 sp011170285	1.000000
+s__Vulcanisaeta sp001516765	1.000000
+s__Vulcanisaeta distributa	1.000000
+s__Vibrio parahaemolyticus	1.000000
+s__Vibrio alginolyticus	1.000000
+s__Veillonella montpellierensis	1.000000
+s__Variovorax paradoxus_C	1.000000
+s__Varibaculum cambriense	1.000000
+s__VXNJ01 sp009840625	1.000000
+s__VXMN01 sp009841055	1.000000
+s__VFHP01 sp009391535	1.000000
+s__VBOC01 sp005877655	1.000000
+s__Ureaplasma diversum	1.000000
+s__Udaeobacter sp003219415	1.000000
+s__UWMA-0277 sp012960805	1.000000
+s__URHD0088 sp000518365	1.000000
+s__UM-FILTER-43-11-A sp002791035	1.000000
+s__UM-FILTER-43-11 sp002792495	1.000000
+s__UM-FILTER-40-11 sp002780305	1.000000
+s__UBA9988 sp001823095	1.000000
+s__UBA9983 sp000996035	1.000000
+s__UBA9978 sp000995065	1.000000
+s__UBA9973 sp001787205	1.000000
+s__UBA9973 sp001787125	1.000000
+s__UBA9973 sp001786955	1.000000
+s__UBA9973 sp001786195	1.000000
+s__UBA9973 sp001785805	1.000000
+s__UBA9973 sp001785675	1.000000
+s__UBA9973 sp001785445	1.000000
+s__UBA9973 sp001785355	1.000000
+s__UBA9973 sp001000035	1.000000
+s__UBA9973 sp000990145	1.000000
+s__UBA9942 sp001805005	1.000000
+s__UBA9934 sp003453595	1.000000
+s__UBA9933 sp001793945	1.000000
+s__UBA9933 sp001029635	1.000000
+s__UBA9933 sp001000675	1.000000
+s__UBA9910 sp003444085	1.000000
+s__UBA9645 sp001818155	1.000000
+s__UBA9644 sp003519445	1.000000
+s__UBA9637 sp001797665	1.000000
+s__UBA9634 sp001799565	1.000000
+s__UBA9631 sp003483925	1.000000
+s__UBA9627 sp003452965	1.000000
+s__UBA9579 sp001784615	1.000000
+s__UBA95 sp002499405	1.000000
+s__UBA946 sp009777725	1.000000
+s__UBA9337 sp000990945	1.000000
+s__UBA8914 sp009779135	1.000000
+s__UBA8525 sp002839335	1.000000
+s__UBA8517 sp003484955	1.000000
+s__UBA8517 sp001001045	1.000000
+s__UBA8517 sp000997405	1.000000
+s__UBA8515 sp000991405	1.000000
+s__UBA8515 sp000990325	1.000000
+s__UBA8498 sp001773385	1.000000
+s__UBA8498 sp001773255	1.000000
+s__UBA8498 sp000996895	1.000000
+s__UBA8498 sp000503835	1.000000
+s__UBA8475 sp002780785	1.000000
+s__UBA8473 sp002782605	1.000000
+s__UBA8438 sp002712885	1.000000
+s__UBA8309 sp016780765	1.000000
+s__UBA8309 sp001627655	1.000000
+s__UBA7522 sp002476865	1.000000
+s__UBA7388 sp002470695	1.000000
+s__UBA737 sp900547445	1.000000
+s__UBA7359 sp012960105	1.000000
+s__UBA6092 sp002428565	1.000000
+s__UBA6065 sp002428865	1.000000
+s__UBA5946 sp002434045	1.000000
+s__UBA5941 sp002430735	1.000000
+s__UBA5799 sp001595385	1.000000
+s__UBA5619 sp001830835	1.000000
+s__UBA5619 sp001829875	1.000000
+s__UBA5004 sp001825315	1.000000
+s__UBA5004 sp001824255	1.000000
+s__UBA5004 sp001824135	1.000000
+s__UBA5004 sp001824005	1.000000
+s__UBA4810 sp001797845	1.000000
+s__UBA4735 sp002404155	1.000000
+s__UBA4720 sp003134685	1.000000
+s__UBA4057 sp002382705	1.000000
+s__UBA4054 sp002383495	1.000000
+s__UBA3439 sp902583715	1.000000
+s__UBA3439 sp003282865	1.000000
+s__UBA3006 sp001438985	1.000000
+s__UBA2982 sp009692205	1.000000
+s__UBA2645 sp001767955	1.000000
+s__UBA2421 sp002343075	1.000000
+s__UBA2284 sp003518475	1.000000
+s__UBA2284 sp001830045	1.000000
+s__UBA2277 sp000998275	1.000000
+s__UBA2256 sp001603165	1.000000
+s__UBA2242 sp002347855	1.000000
+s__UBA2206 sp003483065	1.000000
+s__UBA2206 sp001784805	1.000000
+s__UBA2163 sp002778715	1.000000
+s__UBA2135 sp002327685	1.000000
+s__UBA1844 sp002338615	1.000000
+s__UBA1568 sp002782305	1.000000
+s__UBA1568 sp001784695	1.000000
+s__UBA1559 sp001871015	1.000000
+s__UBA1551 sp001871075	1.000000
+s__UBA1550 sp003489395	1.000000
+s__UBA1550 sp001823545	1.000000
+s__UBA1550 sp001823535	1.000000
+s__UBA1550 sp000998425	1.000000
+s__UBA1546 sp001805105	1.000000
+s__UBA1543 sp002779605	1.000000
+s__UBA1539 sp002788135	1.000000
+s__UBA1450 sp001789555	1.000000
+s__UBA1412 sp002308515	1.000000
+s__UBA1406 sp001788295	1.000000
+s__UBA1364 sp001029715	1.000000
+s__UBA12499 sp001788395	1.000000
+s__UBA12478 sp002793515	1.000000
+s__UBA12473 sp000993615	1.000000
+s__UBA12472 sp003487265	1.000000
+s__UBA12470 sp000999315	1.000000
+s__UBA12465 sp001871165	1.000000
+s__UBA12463 sp000993595	1.000000
+s__UBA12411 sp003511165	1.000000
+s__UBA12409 sp000991575	1.000000
+s__UBA12405 sp003542615	1.000000
+s__UBA12403 sp003511125	1.000000
+s__UBA12393 sp001002765	1.000000
+s__UBA12158 sp000989305	1.000000
+s__UBA12135 sp003497555	1.000000
+s__UBA12108 sp001002415	1.000000
+s__UBA12087 sp001796335	1.000000
+s__UBA12086 sp003518365	1.000000
+s__UBA12078 sp000991805	1.000000
+s__UBA12077 sp001768235	1.000000
+s__UBA12075 sp003514005	1.000000
+s__UBA12068 sp000991645	1.000000
+s__UBA12068 sp000991245	1.000000
+s__UBA12059 sp001829185	1.000000
+s__UBA12053 sp001003855	1.000000
+s__UBA12053 sp001001345	1.000000
+s__UBA12049 sp001784155	1.000000
+s__UBA12044 sp000989675	1.000000
+s__UBA12042 sp001775555	1.000000
+s__UBA12042 sp001002325	1.000000
+s__UBA12028 sp001002285	1.000000
+s__UBA12026 sp000990005	1.000000
+s__UBA12026 sp000989765	1.000000
+s__UBA11740 sp003168335	1.000000
+s__UBA1172 sp002457135	1.000000
+s__UBA11713 sp001778985	1.000000
+s__UBA11712 sp001784875	1.000000
+s__UBA11712 sp000995965	1.000000
+s__UBA11703 sp001822075	1.000000
+s__UBA11654 sp001629325	1.000000
+s__UBA1162 sp003142375	1.000000
+s__UBA11426 sp002346225	1.000000
+s__UBA11361 sp005881495	1.000000
+s__UBA11361 sp001919995	1.000000
+s__UBA1096 sp002170545	1.000000
+s__UBA10365 sp003536295	1.000000
+s__UBA10212 sp001790575	1.000000
+s__UBA10190 sp001817065	1.000000
+s__UBA10185 sp000994815	1.000000
+s__UBA10181 sp001784285	1.000000
+s__UBA10165 sp001816475	1.000000
+s__UBA10151 sp001777455	1.000000
+s__UBA10151 sp001776935	1.000000
+s__UBA10151 sp001776635	1.000000
+s__UBA10146 sp001001925	1.000000
+s__UBA1014 sp001469005	1.000000
+s__UBA10138 sp000995845	1.000000
+s__UBA10133 sp003531665	1.000000
+s__UBA10133 sp001774685	1.000000
+s__UBA10133 sp001001485	1.000000
+s__UBA10133 sp001000865	1.000000
+s__UBA10119 sp001787405	1.000000
+s__UBA10108 sp003545435	1.000000
+s__UBA10105 sp000995415	1.000000
+s__UBA10103 sp003545515	1.000000
+s__UBA10103 sp001783355	1.000000
+s__UBA10103 sp001783335	1.000000
+s__UBA10103 sp001781555	1.000000
+s__UBA10103 sp001781445	1.000000
+s__UBA10103 sp001781335	1.000000
+s__UBA10103 sp001781175	1.000000
+s__UBA10103 sp001781105	1.000000
+s__UBA10102 sp001825035	1.000000
+s__UBA10092 sp003455995	1.000000
+s__UBA10025 sp001003705	1.000000
+s__UBA10014 sp000996355	1.000000
+s__UBA10009 sp001001205	1.000000
+s__UBA10002 sp001821155	1.000000
+s__UBA10002 sp001003605	1.000000
+s__Turicibacter sp001543345	1.000000
+s__Trichodesmium erythraeum	1.000000
+s__Trichococcus flocculiformis	1.000000
+s__Treponema_F brennaborense	1.000000
+s__Treponema_D socranskii	1.000000
+s__Tidjanibacter inops_A	1.000000
+s__Thiomargarita nelsonii_A	1.000000
+s__Thiohalocapsa sp001469165	1.000000
+s__Thiodubiliella sp001547755	1.000000
+s__Thiodiazotropha endoloripes	1.000000
+s__Thermovirga lienii	1.000000
+s__Thermotoga petrophila	1.000000
+s__Thermotoga neapolitana	1.000000
+s__Thermotoga maritima	1.000000
+s__Thermosulfidibacter takaii	1.000000
+s__Thermoproteus sp002077075	1.000000
+s__Thermofilum_B adornatum	1.000000
+s__Thermodesulfobacterium commune	1.000000
+s__Thermococcus_B barophilus	1.000000
+s__Thermococcus_A sp000430485	1.000000
+s__Thermococcus_A sibiricus	1.000000
+s__Thermococcus thioreducens	1.000000
+s__Thermoanaerobacter pseudethanolicus	1.000000
+s__Thermoactinomyces vulgaris	1.000000
+s__Thermicanus aegyptius	1.000000
+s__Thermacetogenium phaeum	1.000000
+s__Thalassospira lucentensis	1.000000
+s__Thalassarchaeum sp002501885	1.000000
+s__Terrimonas ferruginea	1.000000
+s__Terribacillus saccharophilus	1.000000
+s__Teredinibacter turnerae	1.000000
+s__Tepidiforma bonchosmolovskayae	1.000000
+s__Tepidibacillus_A decaturensis	1.000000
+s__Tepidanaerobacter syntrophicus	1.000000
+s__Tc-Br11 sp003552325	1.000000
+s__Tatlockia jordanis	1.000000
+s__TMED54 sp902615325	1.000000
+s__TMED48 sp002591625	1.000000
+s__TMED25 sp902613795	1.000000
+s__TMED23 sp002168115	1.000000
+s__TMED15 sp002714785	1.000000
+s__TMED14 sp001438205	1.000000
+s__TMED112 sp902619265	1.000000
+s__TMED112 sp003280455	1.000000
+s__TMED108 sp002724735	1.000000
+s__TCS61 sp001577185	1.000000
+s__TCS55 sp001577025	1.000000
+s__T3SED10-354 sp003564915	1.000000
+s__Synechocystis sp000284455	1.000000
+s__Synechococcus_C sp001631935	1.000000
+s__Synechococcus_B spongiarum_E	1.000000
+s__Synechococcus elongatus	1.000000
+s__Sutterella wadsworthensis	1.000000
+s__Sulfurovum sp002733355	1.000000
+s__Sulfurospirillum cavolei	1.000000
+s__Sulfurimonas sp001829785	1.000000
+s__Sulfurimonas sp001829715	1.000000
+s__Sulfurimonas sp001829675	1.000000
+s__Sulfurifustis variabilis	1.000000
+s__Sulfuricurvum sp000310245	1.000000
+s__Sulfuricurvum kujiense_A	1.000000
+s__Sulfolobus acidocaldarius	1.000000
+s__Sulcia muelleri_A	1.000000
+s__Succinivibrio sp000431835	1.000000
+s__Streptomyces lydicus	1.000000
+s__Streptomyces hirsutus	1.000000
+s__Streptomyces daqingensis	1.000000
+s__Streptomyces clavuligerus	1.000000
+s__Streptomyces cellulosae_A	1.000000
+s__Streptomyces avermitilis	1.000000
+s__Streptomyces anthocyanicus	1.000000
+s__Streptomyces acidiscabies	1.000000
+s__Streptococcus thermophilus	1.000000
+s__Streptococcus sobrinus	1.000000
+s__Streptococcus ratti	1.000000
+s__Streptococcus pyogenes	1.000000
+s__Streptococcus pneumoniae	1.000000
+s__Streptococcus mutans	1.000000
+s__Streptococcus downei	1.000000
+s__Streptobacillus notomytis	1.000000
+s__Sterolibacterium denitrificans	1.000000
+s__Stercorousia sp001917115	1.000000
+s__Stercorousia sp001765415	1.000000
+s__Staphylococcus massiliensis	1.000000
+s__Staphylococcus epidermidis	1.000000
+s__Staphylococcus capitis	1.000000
+s__Staphylococcus auricularis	1.000000
+s__Staphylococcus aureus	1.000000
+s__Spiro-10 sp001604385	1.000000
+s__Sphingobium herbicidovorans	1.000000
+s__Sphingobacterium multivorum	1.000000
+s__SpSt-583 sp011367385	1.000000
+s__SpSt-225 sp011053965	1.000000
+s__Solincola sediminis	1.000000
+s__Smithella sp000753945	1.000000
+s__Similichlamydia laticola	1.000000
+s__Simiduia agarivorans	1.000000
+s__Sideroxydans lithotrophicus	1.000000
+s__Shewanella japonica	1.000000
+s__Shewanella baltica	1.000000
+s__Sharpea azabuensis	1.000000
+s__Sellimonas intestinalis	1.000000
+s__Selenomonas_A ruminantium_B	1.000000
+s__Sediminibacterium sp001829005	1.000000
+s__Sediminibacillus terrae	1.000000
+s__Secundilactobacillus similis	1.000000
+s__Secundilactobacillus odoratitofui	1.000000
+s__Secundilactobacillus kimchicus	1.000000
+s__Schleiferilactobacillus harbinensis	1.000000
+s__Scatocola faecipullorum	1.000000
+s__Salmonella enterica	1.000000
+s__Salinivirga cyanobacteriivorans	1.000000
+s__Salinivibrio socompensis	1.000000
+s__Salinivibrio costicola	1.000000
+s__Saccharopolyspora rectivirgula	1.000000
+s__Saccharolobus solfataricus	1.000000
+s__Saccharolobus islandicus	1.000000
+s__Saccharococcus caldoxylosilyticus	1.000000
+s__Saccharimonas aalborgensis	1.000000
+s__Saccharicrinis fermentans	1.000000
+s__SZUA-47 sp003231925	1.000000
+s__SZUA-309 sp003228415	1.000000
+s__SZUA-161 sp003229915	1.000000
+s__SYFN01 sp900299005	1.000000
+s__SW10 sp000383735	1.000000
+s__SURF-37 sp003599755	1.000000
+s__SOIL31 sp001468865	1.000000
+s__SMVS01 sp004357435	1.000000
+s__SM23-73-3 sp001304155	1.000000
+s__SM23-62 sp001303955	1.000000
+s__SM23-61 sp001304105	1.000000
+s__SM23-42 sp001303785	1.000000
+s__SM1-40 sp001303705	1.000000
+s__SLFT01 sp007118765	1.000000
+s__SKLG01 sp007123335	1.000000
+s__SHUM01 sp009691245	1.000000
+s__SG8-13 sp001303025	1.000000
+s__SDRW01 sp007845485	1.000000
+s__SCGC-AAA471-B05 sp000380705	1.000000
+s__SCGC-AAA076-P13 sp000385055	1.000000
+s__SCGC-AAA076-P13 sp000384935	1.000000
+s__SCADC1-2-3 sp000681355	1.000000
+s__SAR86A sp902586925	1.000000
+s__S15-B10 sp001626655	1.000000
+s__Ruminococcus_G gauvreauii	1.000000
+s__Ruminococcus_F champanellensis	1.000000
+s__Ruminococcus_E sp900314705	1.000000
+s__Ruminococcus_E bromii_B	1.000000
+s__Ruminococcus_D bicirculans	1.000000
+s__Ruminococcus_C sp000433635	1.000000
+s__Ruminococcus flavefaciens_F	1.000000
+s__Ruminobacter amylophilus	1.000000
+s__Ruminiclostridium_E siraeum	1.000000
+s__Rubrimentiphilum sp003151115	1.000000
+s__Rubidus massiliensis	1.000000
+s__Rs1 sp000416315	1.000000
+s__Roseofilum reptotaenium_A	1.000000
+s__Rosenbergiella epipactidis	1.000000
+s__Roseivirga seohaensis	1.000000
+s__Roseburia inulinivorans	1.000000
+s__Rickettsia tamurae	1.000000
+s__Rickettsia rickettsii	1.000000
+s__Rickettsia rhipicephali	0.800000
+s__Rickettsia canadensis	1.000000
+s__Rickettsia bellii	1.000000
+s__Richelia intracellularis	1.000000
+s__Rhodopirellula europaea	1.000000
+s__Rhodopirellula baltica	1.000000
+s__Rhodoferax sp001771065	1.000000
+s__Rhodococcus pyridinivorans	1.000000
+s__Rhodobacter_B lobularis	1.000000
+s__Rhizomicrobium palustre	1.000000
+s__Rhizobium laguerreae	1.000000
+s__Rhizobium alamii	1.000000
+s__Raphidiopsis raciborskii	1.000000
+s__Raphidiopsis brookii	1.000000
+s__Ralstonia mannitolilytica	1.000000
+s__RPRC01 sp003314535	1.000000
+s__RKRQ01 sp009840385	1.000000
+s__RHAI01 sp010028705	1.000000
+s__REDSEA-S09-B13 sp001629395	1.000000
+s__RBG-16-68-12 sp001800825	1.000000
+s__RBG-16-64-43 sp001796965	1.000000
+s__RBG-16-57-9 sp001775965	1.000000
+s__RBG-16-52-11 sp001779095	1.000000
+s__RBG-16-39-9b sp001816695	1.000000
+s__RBG-16-34-14 sp001802795	1.000000
+s__RBG-13-53-26 sp001795035	1.000000
+s__RBG-13-46-13 sp001791995	1.000000
+s__RBG-1 sp000447245	1.000000
+s__Qipengyuania citrea	1.000000
+s__QQUY01 sp003385635	1.000000
+s__QHYP01 sp003224195	1.000000
+s__QHVH01 sp003222245	1.000000
+s__Pyrococcus furiosus	1.000000
+s__Psychromonas sp000153405	1.000000
+s__Psychroflexus maritimus	1.000000
+s__Pseudovibrio exalbescens	1.000000
+s__Pseudothermotoga_B elfii	1.000000
+s__Pseudoruminococcus_A massiliensis	1.000000
+s__Pseudonocardia thermophila	1.000000
+s__Pseudonocardia sp002583555	1.000000
+s__Pseudomonas_E lurida	1.000000
+s__Pseudomonas_A balearica	1.000000
+s__Pseudomonas aeruginosa	1.000000
+s__Pseudoleptotrichia goodfellowii	1.000000
+s__Pseudobutyrivibrio ruminis	1.000000
+s__Pseudobacteroides cellulosolvens	1.000000
+s__Pseudobacillus badius	1.000000
+s__Pseudoalteromonas undina	1.000000
+s__Pseudoalteromonas sp002684115	1.000000
+s__Pseudoalteromonas ruthenica	1.000000
+s__Protochlamydia naegleriophila	1.000000
+s__Proteiniphilum saccharofermentans	1.000000
+s__Proteiniphilum acetatigenes	1.000000
+s__Propionibacterium cyclohexanicum	1.000000
+s__Prochloron didemni	1.000000
+s__Prochlorococcus_C marinus_B	1.000000
+s__Prochlorococcus_B sp003284185	1.000000
+s__Prochlorococcus_B marinus_B	1.000000
+s__Prochlorococcus_A sp000635535	1.000000
+s__Prochlorococcus_A sp000635495	1.000000
+s__Prochlorococcus_A sp000634735	1.000000
+s__Prochlorococcus_A marinus_N	1.000000
+s__Prochlorococcus marinus	1.000000
+s__Priestia megaterium	1.000000
+s__Prevotella stercorea	1.000000
+s__Prevotella sp900110895	1.000000
+s__Prevotella sp900100635	1.000000
+s__Prevotella sp000702825	1.000000
+s__Prevotella ruminicola	1.000000
+s__Prevotella rara	1.000000
+s__Prevotella nanceiensis	1.000000
+s__Prevotella lascolaii	1.000000
+s__Prevotella intermedia	1.000000
+s__Prevotella buccae	1.000000
+s__Prevotella bryantii	1.000000
+s__Prevotella albensis	1.000000
+s__Pragia fontium	1.000000
+s__Poseidonia sp902625885	1.000000
+s__Portiera aleyrodidarum	1.000000
+s__Porphyromonas_A somerae	1.000000
+s__Pontibacter lucknowensis	1.000000
+s__Planktophila sp001438925	1.000000
+s__Planktophila sp000378885	1.000000
+s__Planktophila sp000372185	1.000000
+s__Piscirickettsia salmonis	1.000000
+s__Pisciglobus halotolerans	1.000000
+s__Phytoplasma sp000309485	1.000000
+s__Phytoplasma australiense	1.000000
+s__Photobacterium gaetbulicola	1.000000
+s__Phocaeicola vulgatus	1.000000
+s__Phocaeicola barnesiae	1.000000
+s__Phil1 sp001940855	1.000000
+s__Phascolarctobacterium_A succinatutens	1.000000
+s__Phascolarctobacterium faecium	1.000000
+s__Peribacter riflensis	1.000000
+s__Peptostreptococcus anaerobius	1.000000
+s__Pelotomaculum_B propionicicum	1.000000
+s__Pelistega indica	1.000000
+s__Pelagibacter_A sp902617025	1.000000
+s__Pelagibacter_A sp902536305	1.000000
+s__Pelagibacter_A sp902522955	1.000000
+s__Pelagibacter ubique_P	1.000000
+s__Pelagibacter sp902515965	1.000000
+s__Pedobacter antarcticus	1.000000
+s__PeH17 sp000435055	1.000000
+s__Pauljensenia sp000308055	1.000000
+s__Pauljensenia radingae_A	1.000000
+s__Parasutterella gallistercoris	1.000000
+s__Parasutterella excrementihominis	1.000000
+s__Pararheinheimera tangshanensis	1.000000
+s__Paraglaciecola psychrophila	1.000000
+s__Paraglaciecola mesophila	1.000000
+s__Paraglaciecola chathamensis	1.000000
+s__Parafannyhessea umbonata_A	1.000000
+s__Pantoea_A carbekii	1.000000
+s__Pantoea dispersa	1.000000
+s__Paludibacter sp001898935	1.000000
+s__Palsa-1233 sp003169895	1.000000
+s__Paenibacillus_H larvae	1.000000
+s__Paenibacillus_D pinihumi	1.000000
+s__Paenibacillus_B sp001894745	1.000000
+s__Paenibacillus sp900109515	1.000000
+s__Paenibacillus solani	1.000000
+s__Paenibacillus polymyxa_C	1.000000
+s__Paenibacillus polymyxa_B	1.000000
+s__PWYM01 sp003567475	1.000000
+s__PWPS01 sp003551845	1.000000
+s__PWEK01 sp003553445	1.000000
+s__PSRF01 sp002427845	1.000000
+s__PNKF01 sp902825965	1.000000
+s__PLanc-01 sp001603075	1.000000
+s__PLOWO2-12-39-15 sp001804915	1.000000
+s__PEXW01 sp003597955	1.000000
+s__Orientia tsutsugamushi	1.000000
+s__Oribacterium sp900107835	1.000000
+s__Onthomonas sp000421005	1.000000
+s__Olsenella uli	1.000000
+s__Oligella urethralis	1.000000
+s__Oleidesulfovibrio alaskensis	1.000000
+s__Oenococcus oeni	1.000000
+s__Odoribacter splanchnicus	1.000000
+s__Odoribacter massiliensis	1.000000
+s__Odoribacter laneus	1.000000
+s__Octadecabacter temperatus	1.000000
+s__Ochrobactrum_A pseudogrignonensis	1.000000
+s__OXYB2-FULL-48-7 sp001800495	1.000000
+s__OXYB2-FULL-41-6 sp001773215	1.000000
+s__OMJO01 sp900299395	1.000000
+s__OLB19 sp001781415	1.000000
+s__OLB14 sp001567105	1.000000
+s__OLB11 sp001567165	1.000000
+s__O2-12-FULL-51-8 sp001805895	1.000000
+s__O2-12-FULL-45-9-A sp001771365	1.000000
+s__O2-12-FULL-42-9 sp001777665	1.000000
+s__O2-02-FULL-48-8 sp001777575	1.000000
+s__O2-02-FULL-42-9 sp001801405	1.000000
+s__Nocardia asteroides	1.000000
+s__Nitrospirillum amazonense	1.000000
+s__Nitrospira_A defluvii_A	1.000000
+s__Nitrosotalea sp001917995	1.000000
+s__Nitrososphaera sp002501845	1.000000
+s__Nitrosopumilus sp001437625	1.000000
+s__Nitrosopumilus sp000746765	1.000000
+s__Nitrosopumilus koreensis	1.000000
+s__Nitrosopumilus adriaticus	1.000000
+s__Nitrosopelagicus sp001627235	1.000000
+s__Nitrosopelagicus sp000402075	1.000000
+s__Nitrosomonas ureae	1.000000
+s__Nitrosomonas sp900100485	1.000000
+s__Nitrosomonas sp000219585	1.000000
+s__Nitrosomonas communis	1.000000
+s__Nitrosarchaeum limnae	1.000000
+s__Nitromaritima sp000372225	1.000000
+s__Niabella sp001896965	1.000000
+s__Neptunomonas phycophila	1.000000
+s__Negativibacillus massiliensis	1.000000
+s__Nanosyncoccus sp007845165	1.000000
+s__Nanosyncoccus sp003979185	1.000000
+s__Nanopelagicus sp001437855	1.000000
+s__Nanopelagicus sp000378865	1.000000
+s__Nanopelagicus sp000294575	1.000000
+s__Nanopelagicus hibericus	1.000000
+s__NS-12 sp005877855	1.000000
+s__NMUJ01 sp002256535	1.000000
+s__NHYM01 sp003364295	1.000000
+s__NBD-18 sp003507735	1.000000
+s__N075bin58 sp004356825	1.000000
+s__Mycoplasmopsis_B pulmonis	1.000000
+s__Mycoplasmopsis_A gallinaceum	1.000000
+s__Mycoplasmopsis_A anserisalpingitidis	1.000000
+s__Mycoplasmopsis meleagridis	1.000000
+s__Mycoplasmopsis bovigenitalium	1.000000
+s__Mycoplasmoides genitalium	1.000000
+s__Mycobacterium tuberculosis	1.000000
+s__Mucilaginibacter gossypii	1.000000
+s__Moraxella nonliquefaciens	1.000000
+s__Moraxella catarrhalis_C	1.000000
+s__Moraxella catarrhalis	1.000000
+s__Moduliflexus flocculans	1.000000
+s__Mobiluncus mulieris	1.000000
+s__Mobiluncus curtisii	1.000000
+s__MnB-11 sp012027035	1.000000
+s__Microcystis sp000297435	1.000000
+s__Microcystis panniformis_A	1.000000
+s__Microcystis panniformis	1.000000
+s__Microcystis aeruginosa_C	1.000000
+s__Microcystis aeruginosa	1.000000
+s__Microbacterium hominis	1.000000
+s__Micrarchaeum_A acidiphilum_A	1.000000
+s__Methyloprofundus sedimenti	1.000000
+s__Methylophaga thiooxydans	1.000000
+s__Methylomirabilis oxyfera	1.000000
+s__Methylobacterium thiocyanatum	1.000000
+s__Methylobacterium organophilum	1.000000
+s__Methermicoccus shengliensis	1.000000
+s__Methanothrix_A harundinacea_D	1.000000
+s__Methanothrix soehngenii	1.000000
+s__Methanothermococcus thermolithotrophicus	1.000000
+s__Methanospirillum lacunae	1.000000
+s__Methanospirillum hungatei	1.000000
+s__Methanosphaera stadtmanae	1.000000
+s__Methanosarcina vacuolata	1.000000
+s__Methanosarcina thermophila	1.000000
+s__Methanosarcina sp000969965	1.000000
+s__Methanosarcina siciliae	1.000000
+s__Methanosarcina mazei	1.000000
+s__Methanosarcina barkeri_B	1.000000
+s__Methanosarcina barkeri	1.000000
+s__Methanoperedens sp002487355	1.000000
+s__Methanomethylophilus alvus	1.000000
+s__Methanomethylicus mesodigestum	1.000000
+s__Methanolinea_A sp002067095	1.000000
+s__Methanohalophilus euhalobius	1.000000
+s__Methanofastidiosum sp001587675	1.000000
+s__Methanofastidiosum sp001587595	1.000000
+s__Methanofastidiosum sp001587575	1.000000
+s__Methanoculleus thermophilus	1.000000
+s__Methanoculleus thermohydrogenotrophicum	1.000000
+s__Methanoculleus marisnigri_B	1.000000
+s__Methanoculleus bourgensis	1.000000
+s__Methanocaldococcus_A villosus	1.000000
+s__Methanobrevibacter_A smithii_A	1.000000
+s__Methanobrevibacter_A smithii	1.000000
+s__Methanobacterium formicicum	1.000000
+s__Mesorhizobium wenxiniae	1.000000
+s__Mesorhizobium terrae	1.000000
+s__Mesorhizobium plurifarium	1.000000
+s__Mesorhizobium muleiense	1.000000
+s__Merdousia sp000438015	1.000000
+s__Mediterraneibacter torques	1.000000
+s__Mariprofundus sp003665155	1.000000
+s__Marinisoma atlanticum	1.000000
+s__Marinilactibacillus psychrotolerans	1.000000
+s__Maribacter dokdonensis	1.000000
+s__MUGG01 sp002148405	1.000000
+s__MSPOR6 sp003635315	1.000000
+s__MPNO01 sp002239065	1.000000
+s__MHLP01 sp001821435	1.000000
+s__MHLP01 sp001821395	1.000000
+s__MHLP01 sp001819095	1.000000
+s__MGML01 sp001796415	1.000000
+s__MGIIb-O5 sp002501605	1.000000
+s__MGIIb-O3 sp002725315	1.000000
+s__MGIIb-O3 sp001629255	1.000000
+s__MGIIb-O3 sp001629235	1.000000
+s__MGIIb-O3 sp001628485	1.000000
+s__MGIIa-I sp002720095	1.000000
+s__MGDU01 sp001790815	1.000000
+s__MFBN01 sp001776425	1.000000
+s__MEVN01 sp001772985	1.000000
+s__MED-G52 sp902534325	1.000000
+s__MED-G52 sp001627925	1.000000
+s__MED-G52 sp001627375	1.000000
+s__MED-G20 sp002691605	1.000000
+s__MCBC01 sp001723855	1.000000
+s__MB11C04 sp902618175	1.000000
+s__MB11C04 sp902569115	1.000000
+s__MB11C04 sp002364975	1.000000
+s__MAG-121220-bin8 sp012959395	1.000000
+s__M3007 sp011368025	1.000000
+s__Luminiphilus sp902631395	1.000000
+s__Luminiphilus sp902623175	1.000000
+s__Longimicrobium terrae	1.000000
+s__Longicatena caecimuris	1.000000
+s__Listeria monocytogenes	1.000000
+s__Listeria innocua	1.000000
+s__Liquorilactobacillus sucicola	1.000000
+s__Limosilactobacillus ingluviei	1.000000
+s__Limosilactobacillus fermentum	1.000000
+s__Limosilactobacillus antri	1.000000
+s__Limnothrix sp001693275	1.000000
+s__Limnospira platensis	1.000000
+s__Limnospira fusiformis	1.000000
+s__Limivicinus sp900319835	1.000000
+s__Limimorpha sp001543395	1.000000
+s__Limenecus avicola	1.000000
+s__Ligilactobacillus ruminis	1.000000
+s__Ligilactobacillus ceti	1.000000
+s__Liberibacter solanacearum	1.000000
+s__Liberibacter asiaticus	1.000000
+s__LiPW-41 sp007375535	1.000000
+s__LiPW-15 sp007375645	1.000000
+s__Lewinella cohaerens	1.000000
+s__Leuconostoc mesenteroides	1.000000
+s__Leuconostoc kimchii	1.000000
+s__Leptotrichia wadei	1.000000
+s__Leptospirillum_A rubarum	1.000000
+s__Leptospira weilii	1.000000
+s__Leptospira santarosai	1.000000
+s__Leptospira noguchii	1.000000
+s__Leptospira kirschneri	1.000000
+s__Leptospira interrogans	1.000000
+s__Leptonema illini	1.000000
+s__Leptolinea tardivitalis	1.000000
+s__Lentilactobacillus parafarraginis	1.000000
+s__Legionella pneumophila	1.000000
+s__Legionella longbeachae	1.000000
+s__Legionella dumoffii	1.000000
+s__Lawsonia intracellularis	1.000000
+s__Lawsonella clevelandensis	1.000000
+s__Latilactobacillus sakei	1.000000
+s__Latilactobacillus fuchuensis	1.000000
+s__Latilactobacillus curvatus	1.000000
+s__Latescibacter anaerobius	1.000000
+s__Lancefieldella sp000564995	1.000000
+s__Lancefieldella rimae	1.000000
+s__Lactobacillus psittaci	1.000000
+s__Lactobacillus mulieris	1.000000
+s__Lactobacillus jensenii	1.000000
+s__Lactobacillus gigeriorum	1.000000
+s__Lactobacillus apis	1.000000
+s__Lactobacillus acidophilus	1.000000
+s__Lactobacillus acetotolerans	1.000000
+s__Lactiplantibacillus plantarum_A	1.000000
+s__Lactiplantibacillus plantarum	1.000000
+s__Lacticaseibacillus thailandensis	1.000000
+s__Lacticaseibacillus rhamnosus	1.000000
+s__Lacticaseibacillus paracasei	1.000000
+s__Lacticaseibacillus pantheris	1.000000
+s__Lacticaseibacillus nasuensis	1.000000
+s__Lachnospira sp000436535	1.000000
+s__LS-SOB sp001543005	1.000000
+s__LGRT01 sp016778765	1.000000
+s__LFER01 sp902633655	1.000000
+s__LFER01 sp001510135	1.000000
+s__LD21 sp002428385	1.000000
+s__LD21 sp001768195	1.000000
+s__LCKU01 sp001001625	1.000000
+s__LCBW01 sp000997465	1.000000
+s__Kryptonium thompsoni	1.000000
+s__Kryptonium tengchongense	1.000000
+s__Kroppenstedtia eburnea	1.000000
+s__Klebsiella pneumoniae	1.000000
+s__Klebsiella aerogenes	1.000000
+s__Kitasatospora sp001424875	1.000000
+s__Kineosporia aurantiaca	1.000000
+s__Kazan-3B-28 sp001029795	1.000000
+s__Kandleria vitulina	1.000000
+s__Kamptonema formosum	1.000000
+s__Jonquetella anthropi	1.000000
+s__JdFR-97 sp002010915	1.000000
+s__JdFR-88 sp002011795	1.000000
+s__JdFR-56 sp002011495	1.000000
+s__JdFR-22 sp002010045	1.000000
+s__JdFR-21 sp002011165	1.000000
+s__JdFR-11 sp002011035	1.000000
+s__JGIOTU-2 sp000404785	1.000000
+s__JCVI-SCAAA005 sp002730365	1.000000
+s__JACTMI01 sp011525905	1.000000
+s__JACPFJ01 sp001824455	1.000000
+s__JABWBD01 sp012728855	1.000000
+s__JABFSM01 sp009692115	1.000000
+s__JABDJL01 sp013002505	1.000000
+s__JAAZBV01 sp012513605	1.000000
+s__JAAYDY01 sp012729015	1.000000
+s__JAAYDF01 sp012729395	1.000000
+s__JAAXQM01 sp012974295	1.000000
+s__JAAUUB01 sp012031215	1.000000
+s__JAAFGM01 sp003696945	1.000000
+s__JAACPI01 sp009995545	1.000000
+s__JAACFD01 sp009937555	1.000000
+s__J07HR59 sp000496235	1.000000
+s__J075 sp003695285	1.000000
+s__Ignavibacterium album	1.000000
+s__Idiomarina loihiensis	1.000000
+s__Idiomarina baltica	1.000000
+s__Idiomarina abyssalis	1.000000
+s__IGN2 sp013285405	1.000000
+s__Hydrothermus pacificus	1.000000
+s__Hydrotalea flava	1.000000
+s__Hydrogenovibrio marinus	1.000000
+s__Hydrogenobacter thermophilus	1.000000
+s__Hydrogenedens terephthalicus	1.000000
+s__Hungatella effluvii	1.000000
+s__Herbaspirillum chlorophenolicum	1.000000
+s__Henriciella sp001854405	1.000000
+s__Helicobacter pylori	1.000000
+s__Haloquadratum walsbyi	1.000000
+s__Halonotius sp000496215	1.000000
+s__Halomonas sp900086985	1.000000
+s__Halolacustris secundus	1.000000
+s__Halofilum ochraceum	1.000000
+s__Haloferula sp000739615	1.000000
+s__Halodesulfovibrio aestuarii	1.000000
+s__Halobacillus halophilus	1.000000
+s__Haloarcula marismortui	1.000000
+s__Halanaerobium congolense	1.000000
+s__Halalkalirubrum sp005239175	1.000000
+s__Haemophilus_D parainfluenzae	1.000000
+s__Haemophilus influenzae_F	1.000000
+s__HTCC2207 sp002335945	1.000000
+s__HTCC2207 sp001438605	1.000000
+s__HRBIN33 sp002923375	1.000000
+s__HRBIN17 sp011335125	1.000000
+s__HRBIN11 sp002898535	1.000000
+s__HO2-FULL-47-45 sp001776775	1.000000
+s__HO2-FULL-38-9 sp001793095	1.000000
+s__HO2-49-34 sp001783515	1.000000
+s__HO2-45-11b sp001817055	1.000000
+s__HO2-43-30 sp001819985	1.000000
+s__HO2-43-120 sp001821295	1.000000
+s__HO2-37-13b sp001789395	1.000000
+s__HK1 sp000583135	1.000000
+s__HIMB59 sp902615815	1.000000
+s__HIMB59 sp003216195	1.000000
+s__HDB-SIOI813 sp001805205	1.000000
+s__Gulosibacter molinativorax	1.000000
+s__Gp6-AA45 sp003222395	1.000000
+s__Gp22-AA3 sp003223135	1.000000
+s__Gp18-AA60 sp003225335	1.000000
+s__Gottfriedia luciferensis_B	1.000000
+s__Glomeribacter gigasporarum_B	1.000000
+s__Gleimia europaea_A	1.000000
+s__Glaesserella parasuis	1.000000
+s__Glaciecola punicea	1.000000
+s__Glaciecola pallidula	1.000000
+s__Gilliamella bombi	1.000000
+s__Gilliamella apicola_N	1.000000
+s__Gilliamella apicola_G	1.000000
+s__Gilliamella apicola_E	1.000000
+s__Gilliamella apicola_C	1.000000
+s__Gilliamella apicola_A	1.000000
+s__Geotoga petraea	1.000000
+s__Geomicrobium_A sp000698145	1.000000
+s__Geobacillus thermodenitrificans	1.000000
+s__Geobacillus icigianus	1.000000
+s__Gallionella sp001801025	1.000000
+s__Gallionella acididurans	1.000000
+s__Gallibacterium anatis	1.000000
+s__Gaiella occulta	1.000000
+s__Gabonibacter massiliensis	1.000000
+s__Ga6A1 sp900102385	1.000000
+s__GWF2-43-52 sp001805445	1.000000
+s__GWF2-39-127 sp003242895	1.000000
+s__GWF2-38-335 sp001769535	1.000000
+s__GWF2-37-15 sp001784565	1.000000
+s__GWF2-35-18 sp001771135	1.000000
+s__GWF2-33-38 sp001769505	1.000000
+s__GWF2-33-10 sp001788835	1.000000
+s__GWF1-45-5 sp001001795	1.000000
+s__GWF1-31-35 sp001029755	1.000000
+s__GWE2-51-13 sp003520745	1.000000
+s__GWE2-42-39 sp003506435	1.000000
+s__GWE2-39-37 sp000995135	1.000000
+s__GWE1-39-12 sp001029735	1.000000
+s__GWC2-45-19 sp001002405	1.000000
+s__GWC2-45-19 sp001001555	1.000000
+s__GWC2-42-12 sp000997945	1.000000
+s__GWC2-39-14 sp000996245	1.000000
+s__GWC2-39-10 sp000993275	1.000000
+s__GWC2-37-8 sp000992165	1.000000
+s__GWC2-37-13 sp000991135	1.000000
+s__GWC2-37-13 sp000990565	1.000000
+s__GWC2-37-13 sp000990305	1.000000
+s__GWC2-36-17 sp000992345	1.000000
+s__GWC2-33-13 sp000989565	1.000000
+s__GWC1-49-16 sp001029675	1.000000
+s__GWC1-47-15 sp001001375	1.000000
+s__GWC1-42-9 sp000995185	1.000000
+s__GWC1-40-9 sp000997385	1.000000
+s__GWC1-40-35 sp001775095	1.000000
+s__GWC1-37-12b sp000993115	1.000000
+s__GWB2-55-19 sp001797465	1.000000
+s__GWB2-47-37 sp001803635	1.000000
+s__GWB1-54-5 sp001787755	1.000000
+s__GWB1-50-10 sp001004105	1.000000
+s__GWB1-45-9 sp001793855	1.000000
+s__GWB1-45-5 sp001816645	1.000000
+s__GWB1-42-6 sp000997475	1.000000
+s__GWB1-41-6 sp000997355	1.000000
+s__GWB1-40-14 sp001822815	1.000000
+s__GWB1-40-14 sp000996085	1.000000
+s__GWB1-39-12 sp000993405	1.000000
+s__GWB1-38-13 sp000993025	1.000000
+s__GWB1-37-8 sp001783805	1.000000
+s__GWB1-37-8 sp001782645	1.000000
+s__GWB1-36-5 sp001776785	1.000000
+s__GWA2-66-18 sp013044195	1.000000
+s__GWA2-58-10 sp001780825	1.000000
+s__GWA2-54-12 sp001795535	1.000000
+s__GWA2-47-26 sp001001705	1.000000
+s__GWA2-47-10b sp001821795	1.000000
+s__GWA2-47-10 sp001820685	1.000000
+s__GWA2-46-9 sp001791325	1.000000
+s__GWA2-46-10 sp001817635	1.000000
+s__GWA2-45-9 sp001779535	1.000000
+s__GWA2-44-9 sp001794215	1.000000
+s__GWA2-44-7 sp000999595	1.000000
+s__GWA2-44-10 sp001794755	1.000000
+s__GWA2-43-14 sp001779315	1.000000
+s__GWA2-43-13 sp000999025	1.000000
+s__GWA2-42-15 sp000998185	1.000000
+s__GWA2-42-14 sp000998135	1.000000
+s__GWA2-41-24 sp001775055	1.000000
+s__GWA2-38-27 sp001821475	1.000000
+s__GWA2-38-11 sp001790645	1.000000
+s__GWA2-33-14 sp001820215	1.000000
+s__GWA1-54-10 sp001004665	1.000000
+s__GWA1-44-29 sp001778695	1.000000
+s__GWA1-44-29 sp001001285	1.000000
+s__GWA1-44-25 sp001780725	1.000000
+s__GWA1-44-25 sp001778635	1.000000
+s__GWA1-44-24 sp001001115	1.000000
+s__GWA1-42-19 sp000994805	1.000000
+s__GWA1-39-11 sp001782675	1.000000
+s__GWA1-39-11 sp001782235	1.000000
+s__GCF-000787395 sp000787395	1.000000
+s__GCA-2746885 sp002746885	1.000000
+s__GCA-2746235 sp002746235	1.000000
+s__GCA-2732015 sp902557845	1.000000
+s__GCA-2724215 sp009841115	1.000000
+s__GCA-2718595 sp002718595	1.000000
+s__GCA-2717185 sp012103325	1.000000
+s__GCA-2716345 sp902587125	1.000000
+s__GCA-2712105 sp002712105	1.000000
+s__GCA-2707915 sp902542325	1.000000
+s__GCA-2705445 sp902595225	1.000000
+s__GCA-2705445 sp002705445	1.000000
+s__GCA-2693325 sp002693325	1.000000
+s__GCA-2692065 sp002692065	1.000000
+s__GCA-2691245 sp902536655	1.000000
+s__GCA-2691145 sp002691145	1.000000
+s__GCA-002791395 sp002771355	1.000000
+s__GCA-002780085 sp002791435	1.000000
+s__GCA-002779875 sp002792165	1.000000
+s__GCA-002718515 sp002689385	1.000000
+s__GCA-002708715 sp902602795	1.000000
+s__GCA-002707645 sp002705605	1.000000
+s__GCA-001735895 sp001735895	1.000000
+s__G11 sp900103495	1.000000
+s__Fusobacterium_C necrophorum	1.000000
+s__Fusicatenibacter saccharivorans	1.000000
+s__Fuerstia marisgermanicae	1.000000
+s__Fructobacillus fructosus	1.000000
+s__Fructilactobacillus lindneri	1.000000
+s__Fructilactobacillus florum	1.000000
+s__Francisella tularensis	1.000000
+s__Francisella orientalis	1.000000
+s__Frackibacter sp900114655	1.000000
+s__Fluviicola riflensis	1.000000
+s__Flavobacterium subsaxonicum	1.000000
+s__Flavobacterium odoratum	1.000000
+s__Flavobacterium odoratimimum	1.000000
+s__Flavobacterium lindanitolerans	1.000000
+s__Flavisolibacter_B tropicus	1.000000
+s__Fischerella thermalis	1.000000
+s__Fischerella sp000447295	1.000000
+s__Fischerella prolifica	1.000000
+s__Firm-16 sp001604185	1.000000
+s__Fimenecus sp000432435	1.000000
+s__Fibrobacter succinogenes	1.000000
+s__Fibrobacter sp900143015	1.000000
+s__Fibrobacter sp900142495	1.000000
+s__Fibrobacter sp900142465	1.000000
+s__Ferruginibacter sp002400445	1.000000
+s__Ferrimicrobium acidiphilum	1.000000
+s__Fermentimonas massiliensis	1.000000
+s__Fen-671 sp003166025	1.000000
+s__Fen-1467 sp003142615	1.000000
+s__Fannyhessea vaginae	1.000000
+s__Faecousia sp000435995	1.000000
+s__Faecenecus gallistercoris	1.000000
+s__Faecalitalea cylindroides	1.000000
+s__Faecalimonas phoceensis	1.000000
+s__Faecalibaculum rodentium	1.000000
+s__Faecalibacterium prausnitzii_C	1.000000
+s__FW300-bin19 sp004297825	1.000000
+s__FD2005 sp000702525	1.000000
+s__F1-60-MAGs027 sp009927665	1.000000
+s__Exiguobacterium_A indicum	1.000000
+s__Exiguobacterium aurantiacum_A	1.000000
+s__Eubacterium_R sp000436835	1.000000
+s__Eubacterium_G sp000435815	1.000000
+s__Eubacterium_F sp003491505	1.000000
+s__Escherichia coli	1.000000
+s__Epulopiscium_C sp001994995	1.000000
+s__Epulopiscium_B sp002007295	1.000000
+s__Eperythrozoon_A suis	1.000000
+s__Entotheonella factor	1.000000
+s__Enterococcus_D gallinarum	1.000000
+s__Enterococcus_B durans	1.000000
+s__Enterococcus_A avium	1.000000
+s__Enterococcus faecalis	1.000000
+s__Enterocloster clostridioformis	1.000000
+s__Enterocloster citroniae	1.000000
+s__Enterocloster bolteae	1.000000
+s__Enterobacter cloacae	1.000000
+s__Endozoicomonas elysicola	1.000000
+s__Endoriftia persephone	1.000000
+s__Endomicrobium proavitum	1.000000
+s__Elarobacter winogradskyi	1.000000
+s__Elainella sp000733415	1.000000
+s__Eisenbergiella tayi	1.000000
+s__Eisenbergiella sp900066775	1.000000
+s__Edaphobacter sp000381605	1.000000
+s__ETH-SRB1 sp004193555	1.000000
+s__ELB16-189 sp001567185	1.000000
+s__EA-19 sp005878955	1.000000
+s__E44-bin18 sp004376575	1.000000
+s__E26-bin7 sp004377365	1.000000
+s__Dwaynesavagella sp000270205	1.000000
+s__Duodenibacillus massiliensis	1.000000
+s__Duncaniella dubosii	1.000000
+s__Draconibacterium orientale	1.000000
+s__Dielma sp001305055	1.000000
+s__Diaphorobacter nitroreducens	1.000000
+s__Dialister invisus	1.000000
+s__Dialister hominis	1.000000
+s__Desulfurococcus mucosus	1.000000
+s__Desulfurococcus amylolyticus	1.000000
+s__Desulfurivibrio alkaliphilus	1.000000
+s__Desulfovibrio desulfuricans_A	1.000000
+s__Desulforhopalus sp001750925	1.000000
+s__Desulfonauticus sp001507915	1.000000
+s__Desulfoluna spongiiphila	1.000000
+s__Desulfobacula toluolica	1.000000
+s__Desulfobacula sp012031875	1.000000
+s__Desulfobacula sp001799395	1.000000
+s__Desulfobacca acetoxidans	1.000000
+s__Desulfitobacterium hafniense	1.000000
+s__Desulfatibacillum aliphaticivorans	1.000000
+s__Denitrobacterium detoxificans	1.000000
+s__Denitratisoma oestradiolicum	1.000000
+s__Dehalococcoides mccartyi_B	1.000000
+s__Dehalococcoides mccartyi_A	1.000000
+s__Dehalococcoides mccartyi	1.000000
+s__Defluviitoga tunisiensis	1.000000
+s__DTU025 sp001513145	1.000000
+s__DTU014 sp900016865	1.000000
+s__DTU010 sp002391385	1.000000
+s__DTMQ01 sp011358805	1.000000
+s__DTJY01 sp011337985	1.000000
+s__DTIZ01 sp011370625	1.000000
+s__DTIW01 sp011333945	1.000000
+s__DT-91 sp902705835	1.000000
+s__DSWF01 sp011368195	1.000000
+s__DSVQ01 sp011368275	1.000000
+s__DSTH01 sp011329435	1.000000
+s__DSQY01 sp011362725	1.000000
+s__DSPV01 sp011055625	1.000000
+s__DSDT01 sp011048615	1.000000
+s__DSBA01 sp011046145	1.000000
+s__DSAU01 sp011046315	1.000000
+s__DRMV01 sp011322445	1.000000
+s__DG-74-1 sp001303125	1.000000
+s__DG-33 sp004375695	1.000000
+s__D37C17 sp004124405	1.000000
+s__D2472 sp002358345	1.000000
+s__D2-FULL-39-29 sp001778375	1.000000
+s__Cutibacterium acnes	1.000000
+s__Cuniculiplasma divulgatum	1.000000
+s__Cryptobacteroides sp000432655	1.000000
+s__Crocosphaera watsonii	1.000000
+s__Coxiella burnetii	1.000000
+s__Corynebacterium pseudotuberculosis	1.000000
+s__Corynebacterium pseudodiphtheriticum	1.000000
+s__Corynebacterium mastitidis	1.000000
+s__Corynebacterium diphtheriae	1.000000
+s__Corynebacterium callunae	1.000000
+s__Copromorpha sp900066305	1.000000
+s__Copromonas sp900066535	1.000000
+s__Copromonas sp000435795	1.000000
+s__Coprococcus eutactus_A	1.000000
+s__Coprococcus eutactus	1.000000
+s__Coprobacter secundus	1.000000
+s__Companilactobacillus versmoldensis	1.000000
+s__Clostridium_X cadaveris	1.000000
+s__Clostridium_P ventriculi	1.000000
+s__Clostridium_H haemolyticum	1.000000
+s__Clostridium_F botulinum	1.000000
+s__Clostridium_AQ innocuum	1.000000
+s__Clostridium_AM magnum	1.000000
+s__Clostridium_A leptum	1.000000
+s__Clostridium paraputrificum	1.000000
+s__Cloacibacillus evryensis	1.000000
+s__Chthonomonas calidirosea	1.000000
+s__Chryseolinea serpens	1.000000
+s__Chryseobacterium formosense	1.000000
+s__Chromulinavorax destructans	1.000000
+s__Chlorogloeopsis fritschii	1.000000
+s__Chloroflexus aurantiacus	1.000000
+s__Chlorobium ferrooxidans	1.000000
+s__Chlamydophila psittaci	1.000000
+s__Chlamydophila pneumoniae	1.000000
+s__Chlamydophila pecorum	1.000000
+s__Chlamydophila ibidis	1.000000
+s__Chlamydophila gallinacea	1.000000
+s__Chlamydia trachomatis	1.000000
+s__Chlamydia muridarum	1.000000
+s__Chitinophaga rupis	1.000000
+s__Chazhemtobacterium aquaticus	1.000000
+s__Centipeda artemidis	1.000000
+s__Caulobacter henricii_C	1.000000
+s__Casp-alpha2 sp001510075	1.000000
+s__Casp-actino8 sp001510335	1.000000
+s__Carboxydothermus hydrogenoformans	1.000000
+s__Capnocytophaga ochracea	1.000000
+s__Capnocytophaga granulosa	1.000000
+s__Campylobacter_D jejuni	1.000000
+s__Campylobacter_D coli	1.000000
+s__Calescibacterium nevadense	1.000000
+s__Caldivirga sp001663375	1.000000
+s__Caldipriscus sp000980735	1.000000
+s__Caldicellulosiruptor saccharolyticus	1.000000
+s__Caldicellulosiruptor acetigenus	1.000000
+s__Caldibacillus debilis	1.000000
+s__Caldanaerobacter subterraneus	1.000000
+s__CSSED11-315 sp003561715	1.000000
+s__CSP1-8 sp001443455	1.000000
+s__CSP1-2 sp001443445	1.000000
+s__CSBR16-193 sp007117035	1.000000
+s__CSBR16-119 sp007117675	1.000000
+s__CG2-30-60-27 sp001873115	1.000000
+s__CG2-30-59-28 sp001872605	1.000000
+s__CG2-30-58-95 sp001872165	1.000000
+s__CG2-30-49-12 sp001873675	1.000000
+s__CG2-30-40-12 sp002770755	1.000000
+s__CG2-30-33-46 sp002792735	1.000000
+s__CG2-30-32-10 sp001872995	1.000000
+s__CG1-02-47-37 sp002772455	1.000000
+s__CG1-02-43-210 sp002783585	1.000000
+s__CG1-02-41-12 sp002787075	1.000000
+s__CG1-02-37-22 sp002785215	1.000000
+s__CG1-02-35-72 sp002793215	1.000000
+s__CF-39 sp005887995	1.000000
+s__CF-163 sp005882715	1.000000
+s__CAIWCR01 sp011333995	1.000000
+s__CAG-977 sp000434295	1.000000
+s__CAG-964 sp000435335	1.000000
+s__CAG-83 sp000431575	1.000000
+s__CAG-793 sp000433915	1.000000
+s__CAG-605 sp000433475	1.000000
+s__CAG-603 sp900066105	1.000000
+s__CAG-552 sp000435495	1.000000
+s__CAG-533 sp000434495	1.000000
+s__CAG-349 sp003539515	1.000000
+s__CAG-317 sp000433215	1.000000
+s__CAG-313 sp003539625	1.000000
+s__CAG-313 sp000433035	1.000000
+s__CAG-307 sp001916215	1.000000
+s__CAG-273 sp003507395	1.000000
+s__CAG-272 sp000433515	1.000000
+s__CAG-267 sp001917135	1.000000
+s__CAG-245 sp000435175	1.000000
+s__CAG-196 sp002102975	1.000000
+s__CAG-1427 sp000436075	1.000000
+s__CAG-1427 sp000435475	1.000000
+s__CAG-127 sp900319515	1.000000
+s__CACPNW01 sp902635455	1.000000
+s__CACLJX01 sp902607435	1.000000
+s__CACIRS01 sp902589115	1.000000
+s__CACIIZ01 sp902586855	1.000000
+s__CACBWF01 sp902526175	1.000000
+s__CAADGM01 sp900696535	1.000000
+s__C7867-006 sp001825395	1.000000
+s__C7867-006 sp001824295	1.000000
+s__C7867-006 sp000996025	1.000000
+s__C7867-002 sp001821055	1.000000
+s__C7867-001 sp001783465	1.000000
+s__C7867-001 sp001004905	1.000000
+s__Butyrivibrio_A crossotus	1.000000
+s__Butyrivibrio sp900104155	1.000000
+s__Butyrivibrio sp000421405	1.000000
+s__Butyrivibrio proteoclasticus	1.000000
+s__Butyrivibrio hungatei_A	1.000000
+s__Butyrivibrio fibrisolvens_C	1.000000
+s__Butyricimonas synergistica	1.000000
+s__Butyribacter sp001916135	1.000000
+s__Butyribacter intestini	1.000000
+s__Burkholderia mallei	1.000000
+s__Burkholderia cepacia	1.000000
+s__Bulleidia moorei	1.000000
+s__Brevibacillus_B halotolerans	1.000000
+s__Brevibacillus thermoruber	1.000000
+s__Brevibacillus porteri	1.000000
+s__Brevibacillus brevis_D	1.000000
+s__Brevibacillus brevis_C	1.000000
+s__Brevibacillus borstelensis	1.000000
+s__Bosea thiooxidans	1.000000
+s__Borreliella garinii	1.000000
+s__Borrelia turicatae	1.000000
+s__Borrelia recurrentis	1.000000
+s__Borrelia hermsii	1.000000
+s__Bordetella pertussis	1.000000
+s__Blautia_A obeum	1.000000
+s__Blautia_A massiliensis	1.000000
+s__Blautia_A hydrogenotrophica	1.000000
+s__Blattabacterium sp000334405	1.000000
+s__Bin90 sp002238855	1.000000
+s__Bin5 sp009840225	1.000000
+s__Bin127 sp002239045	1.000000
+s__Bifidobacterium vaginale_D	1.000000
+s__Bifidobacterium vaginale	1.000000
+s__Bibersteinia trehalosi	1.000000
+s__Bermanella marisrubri	1.000000
+s__Basfia succiniciproducens	1.000000
+s__Bartonella washoeensis	1.000000
+s__Bartonella tribocorum	1.000000
+s__Bartonella tamiae	1.000000
+s__Bartonella rattimassiliensis	1.000000
+s__Bartonella henselae	1.000000
+s__Bartonella clarridgeiae	1.000000
+s__Bartonella bovis	1.000000
+s__Bartonella berkhoffii	1.000000
+s__Bartonella bacilliformis	1.000000
+s__Bartonella apis_A	1.000000
+s__Bartonella apis	1.000000
+s__Bariatricus comes	1.000000
+s__Bacteroides_F pectinophilus	1.000000
+s__Bacteroides_E propionicifaciens	1.000000
+s__Bacteroides thetaiotaomicron	1.000000
+s__Bacteroides fragilis	1.000000
+s__Bacteroides caccae	1.000000
+s__Bact-08 sp003542575	1.000000
+s__Bact-08 sp002842515	1.000000
+s__Bacillus_T coahuilensis	1.000000
+s__Bacillus_H rhizosphaerae	1.000000
+s__Bacillus_A anthracis	1.000000
+s__Bacillus velezensis	1.000000
+s__Bacillus subtilis	1.000000
+s__Bacillus safensis	1.000000
+s__Bacillus altitudinis	1.000000
+s__BMS3Abin05 sp002898015	1.000000
+s__BACL27 sp003569125	1.000000
+s__BACL14 sp000168995	1.000000
+s__B9-G15 sp003650185	1.000000
+s__B68-G9 sp003645885	1.000000
+s__B48-G9 sp003644395	1.000000
+s__B32-G15 sp003644445	1.000000
+s__B140-G9 sp003644295	1.000000
+s__Azobacteroides pseudotrichonymphae_B	1.000000
+s__Avibacterium paragallinarum	1.000000
+s__Aureliella helgolandensis	1.000000
+s__Atopobium minutum	1.000000
+s__Arhodomonas aquaeolei	1.000000
+s__Arenibacter algicola	1.000000
+s__Ardenticatena maritima	1.000000
+s__Arctic96AD-7 sp002082305	1.000000
+s__Arctic96AD-7 sp001627865	1.000000
+s__Archaeoglobus_A sp002010195	1.000000
+s__Archaeoglobus sp002507545	1.000000
+s__Archaeoglobus fulgidus	1.000000
+s__Aramenus sulfurataquae	1.000000
+s__Aquirickettsiella grylli	1.000000
+s__Aquiluna sp000257665	1.000000
+s__Aneurinibacillus migulanus	1.000000
+s__Anaplasma phagocytophilum	1.000000
+s__Anaplasma marginale	1.000000
+s__Anaerotignum sp001304995	1.000000
+s__Anaerostipes caccae	1.000000
+s__Anaeromusa acidaminophila	1.000000
+s__Anaerocolumna aminovalerica	1.000000
+s__Anaerococcus pacaensis	1.000000
+s__Amylibacter sp000153745	1.000000
+s__Amulumruptor caecigallinarius	1.000000
+s__Aminobacterium colombiense	1.000000
+s__Aminicenans sakinawicola	1.000000
+s__Amedibacillus dolichus	1.000000
+s__Alteromonas stellipolaris	1.000000
+s__Alteromonas mediterranea	1.000000
+s__Alteromonas macleodii	1.000000
+s__Alteromonas abrolhosensis	1.000000
+s__Alloprevotella timonensis	1.000000
+s__Alistipes sp002362235	1.000000
+s__Alicyclobacillus hesperidum	1.000000
+s__Akkermansia sp001580195	1.000000
+s__Akkermansia muciniphila	1.000000
+s__Akkermansia glycaniphila	1.000000
+s__Ahrensia kielensis	1.000000
+s__Aeropyrum camini	1.000000
+s__Aerophobus profundus	1.000000
+s__Aerococcus urinae_B	1.000000
+s__Aerococcus urinae	1.000000
+s__Adiutrix intracellularis	1.000000
+s__Actinomyces slackii	1.000000
+s__Actinobaculum suis	1.000000
+s__Acinetobacter venetianus	1.000000
+s__Acinetobacter sp001626925	1.000000
+s__Acinetobacter pittii	1.000000
+s__Acinetobacter johnsonii	1.000000
+s__Acinetobacter indicus	1.000000
+s__Acinetobacter bohemicus	1.000000
+s__Acinetobacter baumannii	1.000000
+s__Acidoferrum sp003223215	1.000000
+s__Acidoferrum sp001919715	1.000000
+s__Acidoferrum sp001917435	1.000000
+s__Acidoferrum sp001914785	1.000000
+s__Acidithrix ferrooxidans	1.000000
+s__Acidithiobacillus thiooxidans	1.000000
+s__Acidithiobacillus ferrooxidans	1.000000
+s__Acidithiobacillus ferrivorans	1.000000
+s__Acidiplasma aeolicum	1.000000
+s__Acidilobus sp000495735	1.000000
+s__Acidibacillus ferrooxidans	1.000000
+s__Acidaminococcus intestini	1.000000
+s__Acidaminococcus fermentans	1.000000
+s__Achromatium palustre	1.000000
+s__Acetomicrobium flavidum	1.000000
+s__Acetatifactor sp900066565	1.000000
+s__Acetatifactor muris	1.000000
+s__Absicoccus sp000434355	1.000000
+s__AG41 sp003222085	1.000000
+s__AG-426-I14 sp003213175	1.000000
+s__AG-414-E02 sp902588625	1.000000
+s__AG-409-B13 sp003216035	1.000000
+s__AG-363-K07 sp003278175	1.000000
+s__AG-339-G14 sp902613455	1.000000
+s__AEGEAN-183 sp001628005	1.000000
+s__AAA261-N23 sp000375685	1.000000
+s__AAA164-E04 sp000383715	1.000000
+s__9FT-COMBO-53-11 sp001772805	1.000000
+s__9FT-COMBO-48-23 sp001795315	1.000000
+s__58-81 sp001509095	1.000000
+s__50-400-T64 sp002162825	1.000000
+s__49-20 sp002436085	1.000000
+s__46-80 sp003513005	1.000000
+s__46-47 sp001509335	1.000000
+s__40CM-4-65-16 sp001917775	1.000000
+s__40CM-3-62-11 sp001914955	1.000000
+s__40CM-3-55-5 sp001918935	1.000000
+s__40CM-2-53-6 sp005883075	1.000000
+s__40CM-2-53-6 sp001918745	1.000000
+s__40CM-2-53-6 sp001915065	1.000000
+s__34-128 sp011056645	1.000000
+s__34-128 sp002849045	1.000000
+s__32-111 sp001508335	1.000000
+s__20CM-2-65-7 sp003221035	1.000000
+s__20CM-2-55-15 sp001920875	1.000000
+s__2011-GWC2-44-17 sp001790515	1.000000
+s__20-14-0-80-50-8 sp002779345	1.000000
+s__2-12-FULL-60-25 sp001791275	1.000000
+s__2-12-FULL-55-11 sp001788925	1.000000
+s__2-12-FULL-55-11 sp001787585	1.000000
+s__2-12-FULL-54-10 sp001767075	1.000000
+s__2-12-FULL-52-36 sp001828545	1.000000
+s__2-12-FULL-50-11 sp001774395	1.000000
+s__2-12-FULL-44-25 sp001816455	1.000000
+s__2-12-FULL-44-17 sp001804285	1.000000
+s__2-12-FULL-43-12 sp001783065	1.000000
+s__2-12-FULL-43-11 sp001817805	1.000000
+s__2-12-FULL-41-17 sp001774945	1.000000
+s__2-12-FULL-41-16 sp001782805	1.000000
+s__2-12-FULL-40-12 sp001823315	1.000000
+s__2-12-FULL-40-10 sp001784725	1.000000
+s__2-12-FULL-39-13 sp001824485	1.000000
+s__2-12-FULL-38-22 sp001820055	1.000000
+s__2-12-FULL-37-7b sp001788095	1.000000
+s__2-02-FULL-66-22 sp001771285	1.000000
+s__2-02-FULL-56-16 sp001817495	1.000000
+s__2-02-FULL-55-14 sp001802945	1.000000
+s__2-02-FULL-53-10 sp001791035	1.000000
+s__2-02-FULL-52-16 sp001787535	1.000000
+s__2-02-FULL-50-9b sp001782975	1.000000
+s__2-02-FULL-49-12 sp001796315	1.000000
+s__2-02-FULL-49-11 sp001791465	1.000000
+s__2-02-FULL-48-16 sp001821135	1.000000
+s__2-02-FULL-48-14 sp001787475	1.000000
+s__2-02-FULL-47-50 sp001801885	1.000000
+s__2-02-FULL-46-19 sp001795795	1.000000
+s__2-02-FULL-45-21 sp001805845	1.000000
+s__2-02-FULL-45-18 sp001774075	1.000000
+s__2-02-FULL-45-10 sp001783035	1.000000
+s__2-02-FULL-44-35 sp000999175	1.000000
+s__2-02-FULL-43-16 sp001821935	1.000000
+s__2-02-FULL-43-11-A sp001789515	1.000000
+s__2-02-FULL-43-11 sp001820955	1.000000
+s__2-02-FULL-42-43 sp001802455	1.000000
+s__2-02-FULL-42-43 sp001801425	1.000000
+s__2-02-FULL-42-16 sp001818695	1.000000
+s__2-02-FULL-40-20 sp001818675	1.000000
+s__2-02-FULL-40-12 sp001824375	1.000000
+s__2-02-FULL-40-10 sp001779115	1.000000
+s__2-02-FULL-39-32 sp001800135	1.000000
+s__2-02-FULL-38-15 sp001777055	1.000000
+s__2-02-FULL-38-14-A sp001790855	1.000000
+s__2-02-FULL-38-14 sp001772865	1.000000
+s__2-02-FULL-36-13 sp001777015	1.000000
+s__2-02-FULL-35-15 sp001784585	1.000000
+s__2-01-FULL-66-17 sp001803875	1.000000
+s__2-01-FULL-64-13 sp001800095	1.000000
+s__2-01-FULL-56-20 sp001818655	1.000000
+s__2-01-FULL-53-15 sp001772335	1.000000
+s__2-01-FULL-52-15 sp001818365	1.000000
+s__2-01-FULL-51-34 sp001820785	1.000000
+s__2-01-FULL-51-21 sp001781435	1.000000
+s__2-01-FULL-50-28 sp001816585	1.000000
+s__2-01-FULL-50-24 sp001804225	1.000000
+s__2-01-FULL-50-23 sp001774555	1.000000
+s__2-01-FULL-49-22 sp001788565	1.000000
+s__2-01-FULL-49-10 sp001771275	1.000000
+s__2-01-FULL-48-16 sp001823155	1.000000
+s__2-01-FULL-48-14 sp001822835	1.000000
+s__2-01-FULL-47-10 sp001824325	1.000000
+s__2-01-FULL-46-14-A sp001780895	1.000000
+s__2-01-FULL-46-14 sp001777515	1.000000
+s__2-01-FULL-46-13 sp001780775	1.000000
+s__2-01-FULL-46-13 sp001778905	1.000000
+s__2-01-FULL-46-13 sp001778545	1.000000
+s__2-01-FULL-45-33 sp001778875	1.000000
+s__2-01-FULL-45-33 sp001778595	1.000000
+s__2-01-FULL-45-11 sp001803465	1.000000
+s__2-01-FULL-45-10 sp001804065	1.000000
+s__2-01-FULL-44-22 sp001795975	1.000000
+s__2-01-FULL-44-21 sp001777655	1.000000
+s__2-01-FULL-44-17 sp001794195	1.000000
+s__2-01-FULL-44-11 sp001817345	1.000000
+s__2-01-FULL-44-10 sp001792465	1.000000
+s__2-01-FULL-43-38 sp000997105	1.000000
+s__2-01-FULL-43-22 sp001795615	1.000000
+s__2-01-FULL-43-22 sp001794435	1.000000
+s__2-01-FULL-43-14 sp001816835	1.000000
+s__2-01-FULL-42-15 sp001784055	1.000000
+s__2-01-FULL-41-26 sp001794125	1.000000
+s__2-01-FULL-41-26 sp001794055	1.000000
+s__2-01-FULL-41-22 sp001789805	1.000000
+s__2-01-FULL-41-18 sp001772615	1.000000
+s__2-01-FULL-41-14 sp001767855	1.000000
+s__2-01-FULL-40-42 sp001789965	1.000000
+s__2-01-FULL-40-39 sp001820095	1.000000
+s__2-01-FULL-40-24 sp001776975	1.000000
+s__2-01-FULL-40-14 sp001788215	1.000000
+s__2-01-FULL-40-13 sp001789695	1.000000
+s__2-01-FULL-40-13 sp001789645	1.000000
+s__2-01-FULL-40-13 sp001789635	1.000000
+s__2-01-FULL-40-13 sp001788015	1.000000
+s__2-01-FULL-39-28 sp001795735	1.000000
+s__2-01-FULL-39-28 sp001794635	1.000000
+s__2-01-FULL-39-24 sp001789445	1.000000
+s__2-01-FULL-39-21 sp001792535	1.000000
+s__2-01-FULL-39-21 sp001792305	1.000000
+s__2-01-FULL-39-19 sp001789725	1.000000
+s__2-01-FULL-39-12 sp001787455	1.000000
+s__2-01-FULL-39-10 sp001793015	1.000000
+s__2-01-FULL-38-21 sp001782085	1.000000
+s__2-01-FULL-37-20 sp001784115	1.000000
+s__2-01-FULL-33-17 sp001786995	1.000000
+s__12-FULL-45-19b sp001794605	1.000000
+s__12-FULL-44-12b sp001823695	1.000000
+s__12-FULL-43-12b sp001823875	1.000000
+s__1-14-2-50-48-13 sp002783265	1.000000
+s__1-14-0-65-60-17 sp002787815	1.000000
+s__1-14-0-10-51-16 sp002774795	1.000000
+s__1-14-0-10-42-22 sp002773725	1.000000
+s__1-14-0-10-40-38 sp002773535	1.000000
+s__02-FULL-45-17b sp001819815	1.000000
+s__01-FULL-54-110 sp001789045	1.000000
+s__01-FULL-49-22b sp001823165	1.000000
+s__01-FULL-48-32b sp001773725	1.000000
+s__01-FULL-45-34b sp001822675	1.000000
+s__01-FULL-45-10b sp001804205	1.000000
+s__01-FULL-36-15b sp001782045	1.000000
+s__01-FULL-36-15b sp001782035	1.000000
+s__0-14-3-00-41-53 sp002780895	1.000000
