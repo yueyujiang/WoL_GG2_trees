@@ -61,6 +61,10 @@
 **date** 05-29-22 (email thread: gg2 placement)                   
 **description**: We removed 105 backbone species from `16k_v1_without_14_seqs_decont_supported.nwk` based on a DEPP based contamination detection protocol. Then we placed all 270K 16S sequences on this backbone tree using DEPP. Finally, the tree is refined using uDance (uses iqtree2 -fast under the hood).
 
+5. 06-02-22-270K-deppplacement.nwk         
+**date** 06-02-22 (email thread: gg2 placement)                   
+**description**: Same as 05-29-22-270K-deppplacement.nwk but ignore distances between pair of species whose sequences overlap less than 5%.     
+
 ## Miscellaneous
 
 1. removed.txt                              
