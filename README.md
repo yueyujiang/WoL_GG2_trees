@@ -42,6 +42,11 @@
 **date** 06-12-2022
 **description**: In the uDance run that created 16k_v1_without_14_seqs_decont.nwk, two phyla Myxococcota and Bdellvibrionata were unplaceable and were removed from the output tree. We did a second iteration with larger cluster diameter and placed them. Next we performed the APPLES-2 based filtering mentioned in the previous article. Finally, we rooted the tree at the MRCA of Bacteria.  
         
+
+11. 06-26-2022-200K-udance-astral-bl-5-17-2-rt.nwk
+**date** 06-26-2022
+**description**: Using uDance, we updated 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk with nearly 184,000 sequences. We did not perform an APPLES-2 based leave one out test at the end but we rooted the tree at the middle of A-B branch and estimated the branch lengths in substitution unit using ASTRAL.
+
 ## GG2 16S tree        
 1. 270K.tar.gz           
 **date** (email 270K (and 1.7M) tree is ready from Metin): 02/22/2022                   
