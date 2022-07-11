@@ -37,6 +37,10 @@
 10. 16k_v1_without_14_seqs_decont_loof.nwk         
 **date** 06-02-2022            
 **description**: uDance has a filtering protocol based on leave on out placement. Each species in the backbone is removed and added back to the backbone using APPLES-2. If the taxa moves log2(n) edges or more after placement, it's assumed to be mislocated in the backbone and thus removed. 16k_v1_without_14_seqs_decont.nwk is filtered using this protocol and the number of species decreased by 57. 
+
+11. 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk
+**date** 06-12-2022
+**description**: In the uDance run that created 16k_v1_without_14_seqs_decont.nwk, two phyla Myxococcota and Bdellvibrionata were unplaceable and were removed from the output tree. We did a second iteration with larger cluster diameter and placed them. Next we performed the APPLES-2 based filtering mentioned in the previous article. Finally, we rooted the tree at the MRCA of Bacteria.  
         
 ## GG2 16S tree        
 1. 270K.tar.gz           
