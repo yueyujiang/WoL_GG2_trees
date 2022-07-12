@@ -12,7 +12,7 @@
 **description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we removed 14 species in [removed.txt](removed.txt).
          
 4. 16k.update.random_bl.nwk          
-**description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using "conserved" site selected by ppa_conserv.py (Qiyun) from amino acid sequences. Note that we removed 14 species in [removed.txt](removed.txt).       
+**description**: This tree using topology from 16Ktree.updates.nwk and reestimate the branch length using randomly selected site from nucleotide sequences. Note that we removed 14 species in [removed.txt](removed.txt).       
              
 5. 16K_v2.nwk          
 **date** (email new 16K tree from Metin): 04/15/2022           
