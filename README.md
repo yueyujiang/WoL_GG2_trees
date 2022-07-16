@@ -39,17 +39,17 @@
 **description**: uDance has a filtering protocol based on leave on out placement. Each species in the backbone is removed and added back to the backbone using APPLES-2. If the taxa moves log2(n) edges or more after placement, it's assumed to be mislocated in the backbone and thus removed. 16k_v1_without_14_seqs_decont.nwk is filtered using this protocol and the number of species decreased by 57. 
 
 11. 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk
-**date** 06-12-2022
-**description**: In the uDance run that created 16k_v1_without_14_seqs_decont.nwk, two phyla Myxococcota and Bdellvibrionata were unplaceable and were removed from the output tree. We did a second iteration with larger cluster diameter and placed them. Next we performed the APPLES-2 based filtering mentioned in the previous article. Finally, we rooted the tree at the MRCA of Bacteria.  
+**date** 06-12-2022         
+**description**: In the uDance run that created 16k_v1_without_14_seqs_decont.nwk, two phyla Myxococcota and Bdellvibrionata were unplaceable and were removed from the output tree. We did a second iteration with larger cluster diameter and placed them. Next we performed the APPLES-2 based filtering mentioned in the previous article. Finally, we rooted the tree at the MRCA of Bacteria.    
         
 
-11. 06-26-2022-200K-udance-astral-bl-5-17-2-rt.nwk
-**date** 06-26-2022
-**description**: Using uDance, we updated 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk with nearly 184,000 sequences. We did not perform an APPLES-2 based leave one out test at the end but we rooted the tree at the middle of A-B branch and estimated the branch lengths in substitution unit using ASTRAL.
+12. 06-26-2022-200K-udance-astral-bl-5-17-2-rt.nwk
+**date** 06-26-2022        
+**description**: Using uDance, we updated 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk with nearly 184,000 sequences. We did not perform an APPLES-2 based leave one out test at the end but we rooted the tree at the middle of A-B branch and estimated the branch lengths in substitution unit using ASTRAL.    
 
-12. 06-12-2022-16k-v4-loof-backbonenextiter.rt.conserve-bl.nwk   
-**date** 07-15-2022
-**description**: Same as 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk. Use the same sites selected in 16k.update.conserve_bl.nwk to reestimate the branch length.
+13. 06-12-2022-16k-v4-loof-backbonenextiter.rt.conserve-bl.nwk   
+**date** 07-15-2022             
+**description**: Same as 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk. Use the same sites selected in 16k.update.conserve_bl.nwk to reestimate the branch length.               
 
 ## GG2 16S tree        
 1. 270K.tar.gz           
