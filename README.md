@@ -47,10 +47,14 @@
 **date** 06-26-2022
 **description**: Using uDance, we updated 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk with nearly 184,000 sequences. We did not perform an APPLES-2 based leave one out test at the end but we rooted the tree at the middle of A-B branch and estimated the branch lengths in substitution unit using ASTRAL.
 
+12. 06-12-2022-16k-v4-loof-backbonenextiter.rt.conserve-bl.nwk   
+**date** 07-15-2022
+**description**: Same as 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk. Use the same sites selected in 16k.update.conserve_bl.nwk to reestimate the branch length.
+
 ## GG2 16S tree        
 1. 270K.tar.gz           
-**date** (email 270K (and 1.7M) tree is ready from Metin): 02/22/2022                   
-**description**: uDance was able to extend the 16K tree to 270K tree using the full 16S alignment. In the attached archive, you will find the 270K taxa tree, 1.7M taxa tree with duplicate records added, deduplication map (in case you need it) and a list of ~2800 sequences that uDance couldn't insert. One note that the backbone species without the 16S gene are not present in these trees.      
+**date** (email 270K (and 1.7M) tree is ready from Metin): 02/22/2022                    
+**description**: uDance was able to extend the 16K tree to 270K tree using the full 16S alignment. In the attached archive, you will find the 270K taxa tree, 1.7M taxa tree with duplicate records added, deduplication map (in case you need it) and a list of ~2800 sequences that uDance couldn't insert. One note that the backbone species without the 16S gene are not present in these trees.          
                  
 2. trees_16S_v2.tar.xz                             
 **date** (email new 16K tree from Metin): 04/22/2022                              
