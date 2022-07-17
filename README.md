@@ -74,6 +74,10 @@
 **date** 06-02-22 (email thread: gg2 placement)                   
 **description**: Same as 05-29-22-270K-deppplacement.nwk but ignore distances between pair of species whose sequences overlap less than 5%.     
 
+6. 07-17-2022-270K-16kv4-backboneiter-loof-15000-shrunk.nwk    
+**date** 07-17-22 (email thread: gg2 placement)                   
+**description**: Built using uDance covid-edition. The bacbone is 06-26-2022-200K-udance-astral-bl-5-17-2-rt.nwk. The bacbone is filtered using APPLES-2 (for Myxococcota and Bdellvibrionota) and DEPP. uDance output tree is tree-shrunk. 
+
 ## Miscellaneous
 
 1. removed.txt                              
