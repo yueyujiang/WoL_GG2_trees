@@ -83,7 +83,7 @@
 **description**: Built using uDance covid-edition. The bacbone is 06-26-2022-200K-udance-astral-bl-5-17-2-rt.nwk. The bacbone is filtered using APPLES-2 (for Myxococcota and Bdellvibrionota) and DEPP. uDance output tree is tree-shrunk. 
 
 7. 16s_depp_placement_07-25-2022.zip            
-**located** [google drive](https://drive.google.com/file/d/1fD9AXwTVQUifJIL5ENRwv9oGhKMsptaS/view?usp=sharing)        
+**located** [google drive](https://drive.google.com/file/d/1m1akgrBS7kXrOQGO70lv6OsjxFRGJd3J/view?usp=sharing)        
 **date** 07-25-2022                
 **description** Use 07-17-2022-270K-16kv4-backboneiter-loof-15000-shrunk.nwk as the backbone tree and placement all the 16S fragments as well as mitochondria and chloroplast full length 16S. 
 
