@@ -87,6 +87,12 @@
 **date** 07-25-2022                
 **description** Use 07-17-2022-270K-16kv4-backboneiter-loof-15000-shrunk.nwk as the backbone tree and placement all the 16S fragments as well as mitochondria and chloroplast full length 16S. 
 
+
+8. 10-14-22-udance-incremental-332k-GTDBinteg-treeshrinked-rooted.nwk
+**date** 10-04-2022
+**description** Uses 270K backbone tree (the 16S tree with 16k whole-genome and barcode sequences). GTDB sequences are inserted using uDance. Rooted and "treeshrinked". 
+
+
 ## Miscellaneous
 
 1. removed.txt                              
