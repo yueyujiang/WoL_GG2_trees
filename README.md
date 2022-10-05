@@ -97,6 +97,9 @@
 **date** 10-04-2022
 **description** The same as above except without running treeshrink.
 
+10. 10-05-2022tree_mapping_files      
+**date: 10-04-2022**        
+**description** mapping files for removing duplicates in GTDB database. mapping.json: for identical raw sequences; mapping2.json: for identical sequences in 270K tree; mapping3.json: for identical sequences in the alignments; rm_map.txt: sequences removed on uDance run.
 
 ## Miscellaneous
 
