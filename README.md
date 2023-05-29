@@ -46,11 +46,15 @@
 **date** 06-26-2022        
 **description**: Using uDance, we updated 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk with nearly 184,000 sequences. We did not perform an APPLES-2 based leave one out test at the end but we rooted the tree at the middle of A-B branch and estimated the branch lengths in substitution unit using ASTRAL.    
 
-13. 06-12-2022-16k-v4-loof-backbonenextiter.rt.conserve-bl.nwk   
+13. 06-26-2022-200K-udance-astral-bl-5-17-2-rt-falsesupport.nwk
+**date** 06-26-2022
+**description** The same as above except branch supports come from ASTRAL runs that estimate BL instead of those that estimate the topology. Note that in uDance, ASTRAL is run twice for each partition, once to estimate the topology and once to estimate support. 
+
+14. 06-12-2022-16k-v4-loof-backbonenextiter.rt.conserve-bl.nwk   
 **date** 07-15-2022             
 **description**: Same as 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk. Use the same sites selected in 16k.update.conserve_bl.nwk to reestimate the branch length.               
 
-14. 06-12-2022-16k-v4-loof-backbonenextiter.nwk.rt.longs.bl
+15. 06-12-2022-16k-v4-loof-backbonenextiter.nwk.rt.longs.bl
 **date** 07-19-2022             
 **description**: Same as 06-12-2022-16k-v4-loof-backbonenextiter.rt.nwk with long internal node annottations. Computed using ASTRAL "-t 2".
 
